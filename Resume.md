@@ -59,7 +59,7 @@ _University of Ottawa \hfill Ottawa, ON_
 + Supervisor: Dr. Arvind Mer
 + Utilized the R programming language in genomic data analysis
 + Optimized programs analysis of large datasets
-+ Data extraction and processing from TCGA, METABIRC, and Cbioportal databases
++ Data extraction and processing from TCGA, METABIRC, and cBioPortal databases
 + Correlational study between cancer gene biomarkers and drug response
 
 **Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Dec 2021 \linebreak
