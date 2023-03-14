@@ -132,13 +132,15 @@ _Allameh Helli 3 High School \hfill Tehran, IR_
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
+**TMM Summer Training (TST) program**, University of Ottawa ($8200) \hfill May 2022 - Aug 2022
+
+**Work in Biomedical Research (WiBR) Scholarship**, University of Ottawa ($3500) \hfill May 2022 - Aug 2022
+
 **UROP Scholarship**, University of Ottawa ($1000) \hfill Dec 2020 - Apr 2021
 
-**Merit Scholarship**, University of Ottawa ($1000 per term) \hfill Sep 2020 - Present
+**Dean's Honour List \& Merit Scholarship**, University of Ottawa ($1000 per term) \hfill Sep 2019 - Present
 
 **Admission Scholarship**, University of Ottawa ($3000) \hfill Sep 2019 - Apr 2020 
-
-**Dean's Honour List**, University of Ottawa (awarded each term) \hfill Sep 2019 - Present
 
 **Academic Excellence Scholarship**, Cardiff Sixth Form College ($14000) \hfill Sep 2018 - Jun 2019
 
@@ -147,12 +149,9 @@ _Allameh Helli 3 High School \hfill Tehran, IR_
 \flushleft{\large{\textbf{POSTERS \& PRESENTATIONS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Seminar Presentation "Analysis of Drug Response in Patient-Derived Xenograph"** \hfill Apr 2022 \linebreak
+**Poster and Seminar Presentation "Analysis of Drug Response in Patient-Derived Xenograph"** \hfill Feb \& Apr 2022 \linebreak
 _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 
-**Poster and Presentation "Analysis of Drug Response in Patient-Derived Xenograph"**
-\hfill Feb 2022 \linebreak
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 
 **Poster and Presentation "Discovery and Characterization of Bacteriophage Arzan"** \hfill Dec 2021 \linebreak 
 _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
