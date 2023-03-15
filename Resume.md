@@ -58,11 +58,6 @@ _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 **Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue kinetics"** \hfill Apr 2021 \linebreak 
 _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 
-**Poster "Insulin Pump Belt Manufacturing"** \hfill May 2018 \linebreak 
-_Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
-
-**Poster "Jack-knife Construction Crane Optimization"** \hfill May 2017 \linebreak 
-_Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_ 
 
 ######################################################################################################################################################################
 
@@ -72,10 +67,10 @@ _Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
 
 + **Programming languages**: R, Python, Bash
 + **Software**: ImageJ, Imiris, Microsoft Office Suite
-+ **Lab techniques**: Cell-based assays, environmental sampling, phage extraction and amplification, fluorescent staining and imaging, electrophysiological recordings, PCR, western blot
-+ **Languages**: English, Persian
++ **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development, 
++ **Lab techniques**: Cell-based assays, phage extraction and amplification,
+  fluorescent staining and imaging, electrophysiological recordings, PCR, western blot
 + **Operating systems**: Linux, Windows
-+ **Other**: Hardware assembly and troubleshooting
 
 
 ######################################################################################################################################################################
@@ -83,23 +78,22 @@ _Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
 \flushleft{\large{\textbf{RESEARCH EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Bioinformatics Researcher** \hfill May 2021 - Present \linebreak
+**Bioinformatics Researcher - Honours** \hfill Sep 2021 - Present \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
-+ Developing computation tools for analyzing cancer drug response 
-+ Survival analysis of novel DNA repair complexes
-+ Implementing machine learning algorithms to improve response detection
++ Creating computation tools for analyzing cancer drug response 
++ Developing novel _in vivo_ drug response quantification metrics
++ Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
 
-**Undergraduate Trainee - Laboratory rotations** \hfill Jan 2021 - Apr 2021 \linebreak
+**Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2021 - Sep 2021 \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
-+ Utilized the R programming language in genomic data analysis
-+ Optimized programs analysis of large datasets
-+ Data extraction and processing from TCGA, METABIRC, and cBioPortal databases
-+ Correlational study between cancer gene biomarkers and drug response
++ Utilized the R programming language in genomic and transcriptomic data analysis
++ Cancer phenotype and survival analysis of novel DNA repair complexes
++ Data extraction and processing from Pan-cancer databases
 
 **Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Dec 2021 \linebreak
 _University of Ottawa \hfill Ottawa, ON_
@@ -167,6 +161,9 @@ _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
 **Childcare work experience** \hfill Apr 2019 \linebreak
 _Cylch Meithrin Trelai Child Care Center \hfill Cardiff, UK_
 
-**Fundraising event participant**  \hfill Jan 2016 \linebreak
-_Allameh Helli 3 High School \hfill Tehran, IR_
+**Poster "Insulin Pump Belt Manufacturing"** \hfill May 2018 \linebreak 
+_Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
+
+**Poster "Jack-knife Construction Crane Optimization"** \hfill May 2017 \linebreak 
+_Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
 
