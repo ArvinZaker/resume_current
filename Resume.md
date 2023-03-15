@@ -67,7 +67,7 @@ _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 
 + **Programming languages**: R, Python, Bash
 + **Software**: ImageJ, Imiris, Microsoft Office Suite
-+ **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development, 
++ **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development
 + **Lab techniques**: Cell-based assays, phage extraction and amplification,
   fluorescent staining and imaging, electrophysiological recordings, PCR, western blot
 + **Operating systems**: Linux, Windows
