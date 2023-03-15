@@ -28,39 +28,72 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 
 
 \vspace{1em}
+\flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**TMM Summer Training (TST) program**, University of Ottawa ($8200) \hfill May 2022 - Aug 2022
+
+**Work in Biomedical Research (WiBR) Scholarship**, University of Ottawa ($3500) \hfill May 2022 - Aug 2022
+
+**UROP Scholarship**, University of Ottawa ($1000) \hfill Dec 2020 - Apr 2021
+
+**Dean's Honour List \& Merit Scholarship**, University of Ottawa ($1000 per term) \hfill Sep 2019 - Present
+
+**Admission Scholarship**, University of Ottawa ($3000) \hfill Sep 2019 - Apr 2020 
+
+**Academic Excellence Scholarship**, Cardiff Sixth Form College ($14000) \hfill Sep 2018 - Jun 2019
+
+######################################################################################################################################################################
+
+\vspace{1em}
+\flushleft{\large{\textbf{POSTERS \& PRESENTATIONS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**Poster and Seminar Presentation "Analysis of Drug Response in Patient-Derived Xenograph"** \hfill Feb \& Sep 2022 \linebreak
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+**Poster and Presentation "Discovery and Characterization of Bacteriophage Arzan"** \hfill Dec 2021 \linebreak 
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+**Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue kinetics"** \hfill Apr 2021 \linebreak 
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+
+######################################################################################################################################################################
+
+\vspace{1em}
 \flushleft{\large{\textbf{SKILLS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
 + **Programming languages**: R, Python, Bash
 + **Software**: ImageJ, Imiris, Microsoft Office Suite
-+ **Lab techniques**: Cell-based assays, environmental sampling, phage extraction and amplification, fluorescent staining and imaging, electrophysiological recordings, PCR, western blot
-+ **Languages**: English, Persian
++ **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development, 
++ **Lab techniques**: Cell-based assays, phage extraction and amplification,
+  fluorescent staining and imaging, electrophysiological recordings, PCR, western blot
 + **Operating systems**: Linux, Windows
-+ **Other**: Hardware assembly and troubleshooting
 
 
 ######################################################################################################################################################################
 \vspace{1em}
-\flushleft{\large{\textbf{WORK EXPERIENCE}}} \vspace{-1em}
+\flushleft{\large{\textbf{RESEARCH EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Bioinformatics Researcher** \hfill May 2021 - Present \linebreak
+**Bioinformatics Researcher - Honours** \hfill Sep 2021 - Present \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
-+ Developing computation tools for analyzing cancer drug response 
-+ Survival analysis of novel DNA repair complexes
-+ Implementing machine learning algorithms to improve response detection
++ Creating computation tools for analyzing cancer drug response 
++ Developing novel _in vivo_ drug response quantification metrics
++ Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
 
-**Undergraduate Trainee - Laboratory rotations** \hfill Jan 2021 - Apr 2021 \linebreak
+**Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2021 - Sep 2021 \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
-+ Utilized the R programming language in genomic data analysis
-+ Optimized programs analysis of large datasets
-+ Data extraction and processing from TCGA, METABIRC, and cBioPortal databases
-+ Correlational study between cancer gene biomarkers and drug response
++ Utilized the R programming language in genomic and transcriptomic data analysis
++ Cancer phenotype and survival analysis of novel DNA repair complexes
++ Data extraction and processing from Pan-cancer databases
 
 **Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Dec 2021 \linebreak
 _University of Ottawa \hfill Ottawa, ON_
@@ -79,6 +112,10 @@ _University of Ottawa \hfill Ottawa, ON_
 + Performing experiments on mouse muscles using electrophysiological equipment
 + Performing antibody staining, fluorescent imaging, and analysis of muscle tissue in the Imiris program
 
+######################################################################################################################################################################
+\vspace{1em}
+\flushleft{\large{\textbf{WORK EXPERIENCE}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
 
 **Family Visitor and Program Assistant (Volunteer)** \hfill Feb 2020 - May 2020 \linebreak
 _Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_ 
@@ -124,42 +161,9 @@ _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
 **Childcare work experience** \hfill Apr 2019 \linebreak
 _Cylch Meithrin Trelai Child Care Center \hfill Cardiff, UK_
 
-**Fundraising event participant**  \hfill Jan 2016 \linebreak
-_Allameh Helli 3 High School \hfill Tehran, IR_
-
-######################################################################################################################################################################
-\vspace{1em}
-\flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**TMM Summer Training (TST) program**, University of Ottawa ($8200) \hfill May 2022 - Aug 2022
-
-**Work in Biomedical Research (WiBR) Scholarship**, University of Ottawa ($3500) \hfill May 2022 - Aug 2022
-
-**UROP Scholarship**, University of Ottawa ($1000) \hfill Dec 2020 - Apr 2021
-
-**Dean's Honour List \& Merit Scholarship**, University of Ottawa ($1000 per term) \hfill Sep 2019 - Present
-
-**Admission Scholarship**, University of Ottawa ($3000) \hfill Sep 2019 - Apr 2020 
-
-**Academic Excellence Scholarship**, Cardiff Sixth Form College ($14000) \hfill Sep 2018 - Jun 2019
-
-######################################################################################################################################################################
-\vspace{1em}
-\flushleft{\large{\textbf{POSTERS \& PRESENTATIONS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**Poster and Seminar Presentation "Analysis of Drug Response in Patient-Derived Xenograph"** \hfill Feb \& Sep 2022 \linebreak
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
-**Poster and Presentation "Discovery and Characterization of Bacteriophage Arzan"** \hfill Dec 2021 \linebreak 
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
-**Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue kinetics"** \hfill Apr 2021 \linebreak 
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
 **Poster "Insulin Pump Belt Manufacturing"** \hfill May 2018 \linebreak 
 _Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
 
 **Poster "Jack-knife Construction Crane Optimization"** \hfill May 2017 \linebreak 
-_Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_ 
+_Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
+
