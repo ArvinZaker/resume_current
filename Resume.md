@@ -2,9 +2,13 @@
 output: pdf_document
 papersize: letter
 geometry: margin=1.25cm
+fontfamily: helvet
+header-includes:
+  - \renewcommand{\familydefault}{\sfdefault}
 ---
+
 ######################################################################################################################################################################
-\title{\vspace{-3em}\textbf{Arvin Zaker}\vspace{-4em}}
+\title{\vspace{-3.5em}\textbf{Arvin Zaker}\vspace{-3.5em}}
 \maketitle
 
 \centering{\href{mailto:arv.zaker@gmail.com}{\underline{arv.zaker@gmail.com}} |
