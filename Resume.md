@@ -12,9 +12,9 @@ header-includes:
 \title{\vspace{-3.5em}\textbf{Arvin Zaker}\vspace{-3.5em}}
 \maketitle
 
-\centering{\href{mailto:azake040@uottawa.ca}{\underline{azake040@uottawa.ca}} |
-\href{tel:613-614-9254}{\underline{(613) 614-9254}} |
-\href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} GitHub}} 
+\centering{\href{mailto:azake040@uottawa.ca}{\textsc{\faEnvelopeO} \underline{azake040@uottawa.ca}} |
+\href{tel:613-614-9254}{\underline{\textsc{\faPhone} (613) 614-9254}} |
+\href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} 
 }
 
 ######################################################################################################################################################################
