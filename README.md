@@ -1,10 +1,10 @@
 # My current resume
 
-This is a file that contains the script to genereate my existing Resume.
+This is a file that contains the script to generate my existing Resume.
 
 To build the resume, you need the following dependencies:
 
-- [A TeX distribution](https://www.latex-project.org/get/)
+- [XeLaTeX](https://www.overleaf.com/learn/latex/XeLaTeX)
 - [pandoc](https://pandoc.org/)
 - [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref)
 

@@ -2,16 +2,16 @@
 output: pdf_document
 papersize: letter
 geometry: margin=1.25cm
-fontfamily: helvet
 header-includes:
-  - \renewcommand{\familydefault}{\sfdefault}
+  - \usepackage{fontspec}
+  - \setmainfont{Arial}
 ---
 
 ######################################################################################################################################################################
 \title{\vspace{-3.5em}\textbf{Arvin Zaker}\vspace{-3.5em}}
 \maketitle
 
-\centering{\href{mailto:arv.zaker@gmail.com}{\underline{arv.zaker@gmail.com}} |
+\centering{\href{mailto:azake040@uottawa.ca}{\underline{azake040@uottawa.ca}} |
 \href{tel:613-614-9254}{\underline{(613) 614-9254}} |
 \href{https://github.com/ArvinZaker}{\underline{GitHub}} |
 }
