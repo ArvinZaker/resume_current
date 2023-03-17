@@ -83,7 +83,7 @@ _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 \flushleft{\large{\textbf{RESEARCH EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Bioinformatics Researcher - Honours** \hfill Sep 2021 - Present \linebreak
+**Bioinformatics Researcher - Honours** \hfill Sep 2022 - Present \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
@@ -92,7 +92,7 @@ _University of Ottawa \hfill Ottawa, ON_
 + Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
 
-**Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2021 - Sep 2021 \linebreak
+**Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2022 - Aug 2022 \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
@@ -157,14 +157,15 @@ _University of Ottawa \hfill Ottawa, ON_
 **Founder of the University of Ottawa Canadians Sharing Locally and Globally** \hfill Dec 2020 - Present \linebreak
 _University of Ottawa Canadians Sharing Locally and Globally \hfill Ottawa, ON_
 
-**Volunteer Coordinator at Best Buddies club** \hfill Sep 2020 - Present \linebreak 
+
+**Co-Chair at Best Buddies club** \hfill Sep 2022 - Present \linebreak 
+_Best Buddies club \hfill Ottawa, ON_
+
+**Volunteer Coordinator at Best Buddies club** \hfill Sep 2020 - Aug 2022 \linebreak 
 _Best Buddies club \hfill Ottawa, ON_
 
 **Founder and Coordinator of Hands on Health Magazine** \hfill Jun 2020 - Present \linebreak
 _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
-
-**Childcare work experience** \hfill Apr 2019 \linebreak
-_Cylch Meithrin Trelai Child Care Center \hfill Cardiff, UK_
 
 **Poster "Insulin Pump Belt Manufacturing"** \hfill May 2018 \linebreak 
 _Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
