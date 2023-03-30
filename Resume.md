@@ -32,6 +32,15 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 ######################################################################################################################################################################
 
 
+
+\vspace{1em}
+\flushleft{\large{\textbf{PUBLICATIONS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+
+
+######################################################################################################################################################################
+
 \vspace{1em}
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
@@ -99,6 +108,7 @@ _University of Ottawa \hfill Ottawa, ON_
 + Utilized the R programming language in genomic and transcriptomic data analysis
 + Cancer phenotype and survival analysis of novel DNA repair complexes
 + Data extraction and processing from Pan-cancer databases
++ Utilizing text mining algorithms for biomarker discovery
 
 **Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Dec 2021 \linebreak
 _University of Ottawa \hfill Ottawa, ON_
@@ -108,6 +118,7 @@ _University of Ottawa \hfill Ottawa, ON_
 + Utilized cell-based assays for characterization of the phage
 + Performed DNA extraction and genomic analysis via gel electrophoresis
 + Used Python and ImageJ to analyze the restriction digest pattern of phages
++ Phage discovery and categorization (Arzan and Khorshid)
 
 **Research Assistant - UROP program**  \hfill Nov 2020 - Jul 2022 \linebreak     
 _University of Ottawa \hfill Ottawa, ON_
