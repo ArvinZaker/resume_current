@@ -31,16 +31,6 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 
 ######################################################################################################################################################################
 
-
-
-\vspace{1em}
-\flushleft{\large{\textbf{PUBLICATIONS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-
-
-######################################################################################################################################################################
-
 \vspace{1em}
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
