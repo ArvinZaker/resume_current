@@ -1,0 +1,127 @@
+University of Ottawa Sep 2019 - Apr 2023 (Expected) Honours Bachelor of
+Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.96/10)
+Ottawa, ON
+
+Cardiff Sixth Form College Sep 2018 - Jun 2019 General Certificate of
+Education Advanced Subsidiary Level (Avg: 100%) Cardiff, UK
+
+TMM Summer Training (TST) program, University of Ottawa ($8200) May
+2022 - Aug 2022
+
+Work in Biomedical Research (WiBR) Scholarship, University of Ottawa
+($3500) May 2022 - Aug 2022
+
+UROP Scholarship, University of Ottawa ($1000) Dec 2020 - Apr 2021
+
+Dean’s Honour List & Merit Scholarship, University of Ottawa ($1000 per
+term) Sep 2019 - Present
+
+Admission Scholarship, University of Ottawa ($3000) Sep 2019 - Apr 2020
+
+Academic Excellence Scholarship, Cardiff Sixth Form College ($14000) Sep
+2018 - Jun 2019
+
+Poster and Seminar Presentation “Analysis of Drug Response in
+Patient-Derived Xenograph” Feb & Sep 2022 Faculty of Medicine,
+University of Ottawa Ottawa, ON
+
+Poster and Presentation “Discovery and Characterization of Bacteriophage
+Arzan” Dec 2021 Faculty of Medicine, University of Ottawa Ottawa, ON
+
+Poster “Role of Adenosine Receptors on mice skeletal muscle fatigue
+kinetics” Apr 2021 Faculty of Medicine, University of Ottawa Ottawa, ON
+
+-   Programming languages: R, Python, Bash
+-   Software: ImageJ, Imiris, Microsoft Office Suite
+-   Bioinformatic skills: Transcriptomic and genomic analysis,
+    bioinformatic pipeline development
+-   Lab techniques: Cell-based assays, phage extraction and
+    amplification, fluorescent staining and imaging,
+    electrophysiological recordings, PCR, western blot
+-   Operating systems: Linux, Windows
+
+Bioinformatics Researcher - Honours Sep 2022 - Present University of
+Ottawa Ottawa, ON
+
+-   Supervisor: Dr. Arvind Mer
+-   Creating computation tools for analyzing cancer drug response
+-   Developing novel in vivo drug response quantification metrics
+-   Correlational study between cancer gene biomarkers and drug response
+-   Open source package development and developing analysis pipelines
+
+Undergraduate Trainee - Laboratory rotations & TST program Jan 2022 -
+Aug 2022 University of Ottawa Ottawa, ON
+
+-   Supervisor: Dr. Arvind Mer
+-   Utilized the R programming language in genomic and transcriptomic
+    data analysis
+-   Cancer phenotype and survival analysis of novel DNA repair complexes
+-   Data extraction and processing from Pan-cancer databases
+
+Undergraduate Trainee - SEA-PHAGES program Sep 2021 - Dec 2021
+University of Ottawa Ottawa, ON
+
+-   Supervisor: Dr. Adam Rudner
+-   Performed environmental sampling and phage extraction techniques
+-   Utilized cell-based assays for characterization of the phage
+-   Performed DNA extraction and genomic analysis via gel
+    electrophoresis
+-   Used Python and ImageJ to analyze the restriction digest pattern of
+    phages
+
+Research Assistant - UROP program Nov 2020 - Jul 2022 University of
+Ottawa Ottawa, ON
+
+-   Supervisor: Dr. Jean-Marc Renaud
+-   Designing experiments and setting up research equipment for data
+    collection
+-   Performing experiments on mouse muscles using electrophysiological
+    equipment
+-   Performing antibody staining, fluorescent imaging, and analysis of
+    muscle tissue in the Imiris program
+
+Family Visitor and Program Assistant (Volunteer) Feb 2020 - May 2020
+Garry J Armstrong Long Term Care Centre Ottawa, ON
+
+-   Communicated effectively with residents
+-   Aided residents to perform group activities
+-   Channeled residents’ questions to the nursing staff
+
+Stock Manager and Coordinator (Volunteer) Sep 2018 - Jun 2019 Scope
+Charity Shop Cardiff, UK
+
+-   Communicated with a team of volunteers and employees
+-   Created accounting records to manage incoming donations
+-   Priced items during sales events
+-   Rearranged store merchandise to ensure customer satisfaction
+
+Sales Associate (Volunteer) Sep 2018 - Jun 2019 Tenovus Cancer Care
+Charity Shop Cardiff, UK
+
+-   Coordinated with a team of volunteers
+-   Managed sales and provided excellent customer service
+-   Aided in designing marketing campaigns to promote the store’s
+    merchandise
+-   Tracked customer donations and returns
+
+Lets Talk Science Presenter Jan 2021 - Present University of Ottawa
+Ottawa, ON
+
+Founder of the University of Ottawa Canadians Sharing Locally and
+Globally Dec 2020 - Present University of Ottawa Canadians Sharing
+Locally and Globally Ottawa, ON
+
+Co-Chair at Best Buddies club Sep 2022 - Present Best Buddies club
+Ottawa, ON
+
+Volunteer Coordinator at Best Buddies club Sep 2020 - Aug 2022 Best
+Buddies club Ottawa, ON
+
+Founder and Coordinator of Hands on Health Magazine Jun 2020 - Present
+Interprofessional Health Association (IPHA) club Ottawa, ON
+
+Poster “Insulin Pump Belt Manufacturing” May 2018 Allameh Helli 3
+Exceptional Talent School Tehran, IR
+
+Poster “Jack-knife Construction Crane Optimization” May 2017 Allameh
+Helli 3 Exceptional Talent School Tehran, IR

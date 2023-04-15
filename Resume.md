@@ -2,18 +2,19 @@
 output: pdf_document
 papersize: letter
 geometry: margin=1.25cm
-fontfamily: helvet
 header-includes:
-  - \renewcommand{\familydefault}{\sfdefault}
+  - \usepackage{fontspec}
+  - \setmainfont{Arial}
+  - \usepackage{fontawesome}
 ---
 
 ######################################################################################################################################################################
 \title{\vspace{-3.5em}\textbf{Arvin Zaker}\vspace{-3.5em}}
 \maketitle
 
-\centering{\href{mailto:arv.zaker@gmail.com}{\underline{arv.zaker@gmail.com}} |
-\href{tel:613-614-9254}{\underline{(613) 614-9254}} |
-\href{https://github.com/ArvinZaker}{\underline{GitHub}} |
+\centering{\href{mailto:azake040@uottawa.ca}{\textsc{\faEnvelopeO} \underline{azake040@uottawa.ca}} |
+\href{tel:613-614-9254}{\underline{\textsc{\faPhone} (613) 614-9254}} |
+\href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} 
 }
 
 ######################################################################################################################################################################
@@ -30,6 +31,58 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 
 ######################################################################################################################################################################
 
+<<<<<<< HEAD
+=======
+\vspace{1em}
+\flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**TMM Summer Training & Work in Biomedical Research Scholarship** ($8200) \hfill May 2022 - Aug 2022
+
+**UROP Scholarship**, _University of Ottawa_ ($1000) \hfill Dec 2020 - Apr 2021
+
+**Dean's Honour List \& Merit Scholarship**, _University of Ottawa_ ($1000 per term) \hfill Sep 2019 - Present
+
+**Admission Scholarship**, _University of Ottawa_ ($3000) \hfill Sep 2019 - Apr 2020 
+
+**Academic Excellence Scholarship**, _Cardiff Sixth Form College_ ($14000) \hfill Sep 2018 - Jun 2019
+
+######################################################################################################################################################################
+
+\vspace{1em}
+\flushleft{\large{\textbf{PUBLICATIONS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting chromosome architecture proteins in breast cancer** \hfill (under revision in NAR Cancer) \linebreak
+_Shamayita Roy, Arvin Zaker, Arvind Mer & Damien D’Amours_ 
+
+
+**Text-Mining based Feature Selection for Machine Learning in Anti-Cancer Drug Response Prediction** \hfill (submitted) \linebreak
+_Grace Wu, Ishaan Goswami, Arvin Zaker, Arvind Mer_ 
+
+
+**Comprehensive analysis of drug response metrics in patient-derived xenografts** \hfill (in preperation) \linebreak
+_Arvin Zaker, Arvind Mer_ 
+
+######################################################################################################################################################################
+
+\vspace{1em}
+\flushleft{\large{\textbf{POSTERS \& PRESENTATIONS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**Poster and Seminar Presentation "Analysis of Drug Response in Patient-Derived Xenograph"** \hfill Feb \& Sep 2022 \linebreak
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+**Poster and Presentation "Discovery and Characterization of Bacteriophage Arzan"** \hfill Dec 2021 \linebreak 
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+**Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue kinetics"** \hfill Apr 2021 \linebreak 
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+
+######################################################################################################################################################################
+
+>>>>>>> nserc-usra-2023
 \vspace{1em}
 \flushleft{\large{\textbf{SKILLS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
@@ -37,9 +90,7 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 + **Programming languages**: R, Python, Bash
 + **Software**: ImageJ, Imiris, Microsoft Office Suite
 + **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development
-+ **Lab techniques**: Cell-based assays, phage extraction and amplification,
-  fluorescent staining and imaging, electrophysiological recordings, PCR, western blot
-+ **Operating systems**: Linux, Windows
++ **Lab techniques**: phage extraction and amplification, fluorescent imaging, electrophysiological recordings
 
 
 ######################################################################################################################################################################
@@ -47,7 +98,7 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 \flushleft{\large{\textbf{RESEARCH EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Bioinformatics Researcher - Honours** \hfill Sep 2021 - Present \linebreak
+**Bioinformatics Researcher - Honours** \hfill Sep 2022 - Present \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
@@ -56,13 +107,14 @@ _University of Ottawa \hfill Ottawa, ON_
 + Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
 
-**Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2021 - Sep 2021 \linebreak
+**Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2022 - Aug 2022 \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
 + Utilized the R programming language in genomic and transcriptomic data analysis
 + Cancer phenotype and survival analysis of novel DNA repair complexes
 + Data extraction and processing from Pan-cancer databases
++ Utilizing text mining algorithms for biomarker discovery
 
 **Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Dec 2021 \linebreak
 _University of Ottawa \hfill Ottawa, ON_
@@ -72,6 +124,7 @@ _University of Ottawa \hfill Ottawa, ON_
 + Utilized cell-based assays for characterization of the phage
 + Performed DNA extraction and genomic analysis via gel electrophoresis
 + Used Python and ImageJ to analyze the restriction digest pattern of phages
++ Phage discovery and categorization (Arzan and Khorshid)
 
 **Research Assistant - UROP program**  \hfill Nov 2020 - Jul 2022 \linebreak     
 _University of Ottawa \hfill Ottawa, ON_
@@ -123,12 +176,13 @@ _University of Ottawa \hfill Ottawa, ON_
 **Founder of the University of Ottawa Canadians Sharing Locally and Globally** \hfill Dec 2020 - Present \linebreak
 _University of Ottawa Canadians Sharing Locally and Globally \hfill Ottawa, ON_
 
-**Volunteer Coordinator at Best Buddies club** \hfill Sep 2020 - Present \linebreak 
+**Volunteer Coordinator & Co-Chair at Best Buddies club** \hfill Sep 2020 - Present \linebreak 
 _Best Buddies club \hfill Ottawa, ON_
 
 **Founder and Coordinator of Hands on Health Magazine** \hfill Jun 2020 - Present \linebreak
 _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
 
+<<<<<<< HEAD
 **Childcare work experience** \hfill Apr 2019 \linebreak
 _Cylch Meithrin Trelai Child Care Center \hfill Cardiff, UK_
 
@@ -165,3 +219,5 @@ _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 **Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue kinetics"** \hfill Apr 2021 \linebreak 
 _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 
+=======
+>>>>>>> nserc-usra-2023
