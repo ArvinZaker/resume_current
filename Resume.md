@@ -35,17 +35,32 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**TMM Summer Training (TST) program**, University of Ottawa ($8200) \hfill May 2022 - Aug 2022
+**TMM Summer Training & Work in Biomedical Research Scholarship** ($8200) \hfill May 2022 - Aug 2022
 
-**Work in Biomedical Research (WiBR) Scholarship**, University of Ottawa ($3500) \hfill May 2022 - Aug 2022
+**UROP Scholarship**, _University of Ottawa_ ($1000) \hfill Dec 2020 - Apr 2021
 
-**UROP Scholarship**, University of Ottawa ($1000) \hfill Dec 2020 - Apr 2021
+**Dean's Honour List \& Merit Scholarship**, _University of Ottawa_ ($1000 per term) \hfill Sep 2019 - Present
 
-**Dean's Honour List \& Merit Scholarship**, University of Ottawa ($1000 per term) \hfill Sep 2019 - Present
+**Admission Scholarship**, _University of Ottawa_ ($3000) \hfill Sep 2019 - Apr 2020 
 
-**Admission Scholarship**, University of Ottawa ($3000) \hfill Sep 2019 - Apr 2020 
+**Academic Excellence Scholarship**, _Cardiff Sixth Form College_ ($14000) \hfill Sep 2018 - Jun 2019
 
-**Academic Excellence Scholarship**, Cardiff Sixth Form College ($14000) \hfill Sep 2018 - Jun 2019
+######################################################################################################################################################################
+
+\vspace{1em}
+\flushleft{\large{\textbf{PUBLICATIONS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting chromosome architecture proteins in breast cancer** \hfill (under revision in NAR Cancer) \linebreak
+_Shamayita Roy, Arvin Zaker, Arvind Mer & Damien D’Amours_ 
+
+
+**Text-Mining based Feature Selection for Machine Learning in Anti-Cancer Drug Response Prediction** \hfill (submitted) \linebreak
+_Grace Wu, Ishaan Goswami, Arvin Zaker, Arvind Mer_ 
+
+
+**Comprehensive analysis of drug response metrics in patient-derived xenografts** \hfill (in preperation) \linebreak
+_Arvin Zaker, Arvind Mer_ 
 
 ######################################################################################################################################################################
 
@@ -72,9 +87,7 @@ _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 + **Programming languages**: R, Python, Bash
 + **Software**: ImageJ, Imiris, Microsoft Office Suite
 + **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development
-+ **Lab techniques**: Cell-based assays, phage extraction and amplification,
-  fluorescent staining and imaging, electrophysiological recordings, PCR, western blot
-+ **Operating systems**: Linux, Windows
++ **Lab techniques**: phage extraction and amplification, fluorescent imaging, electrophysiological recordings
 
 
 ######################################################################################################################################################################
@@ -158,19 +171,9 @@ _University of Ottawa \hfill Ottawa, ON_
 **Founder of the University of Ottawa Canadians Sharing Locally and Globally** \hfill Dec 2020 - Present \linebreak
 _University of Ottawa Canadians Sharing Locally and Globally \hfill Ottawa, ON_
 
-
-**Co-Chair at Best Buddies club** \hfill Sep 2022 - Present \linebreak 
-_Best Buddies club \hfill Ottawa, ON_
-
-**Volunteer Coordinator at Best Buddies club** \hfill Sep 2020 - Aug 2022 \linebreak 
+**Volunteer Coordinator & Co-Chair at Best Buddies club** \hfill Sep 2020 - Present \linebreak 
 _Best Buddies club \hfill Ottawa, ON_
 
 **Founder and Coordinator of Hands on Health Magazine** \hfill Jun 2020 - Present \linebreak
 _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
-
-**Poster "Insulin Pump Belt Manufacturing"** \hfill May 2018 \linebreak 
-_Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
-
-**Poster "Jack-knife Construction Crane Optimization"** \hfill May 2017 \linebreak 
-_Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
 
