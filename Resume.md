@@ -54,9 +54,8 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 **Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting chromosome architecture proteins in breast cancer** \hfill (under revision in NAR Cancer) \linebreak
 _Shamayita Roy, Arvin Zaker, Arvind Mer & Damien D’Amours_ 
 
-
-**Text-Mining based Feature Selection for Machine Learning in Anti-Cancer Drug Response Prediction** \hfill (submitted) \linebreak
-_Grace Wu, Ishaan Goswami, Arvin Zaker, Arvind Mer_ 
+**Text-Mining Based Feature Selection for Anticancer Drug Response Prediction** \hfill (submitted to Brief. Bioinform.) \linebreak
+_Grace Wu, Arvin Zaker, Shivanshi Tripathi, Arvind Mer_ 
 
 
 **Comprehensive analysis of drug response metrics in patient-derived xenografts** \hfill (in preperation) \linebreak
