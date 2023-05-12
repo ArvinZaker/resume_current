@@ -1,7 +1,7 @@
 ---
 output: pdf_document
 papersize: letter
-geometry: margin=1.25cm
+geometry: margin=1.2cm
 header-includes:
   - \usepackage{fontspec}
   - \setmainfont{Arial}
@@ -19,12 +19,12 @@ header-includes:
 
 ######################################################################################################################################################################
 
-\vspace{1em}
+\vspace{0.25em}
 \flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**University of Ottawa** \hfill Sep 2019 - Apr 2023 (Expected) \linebreak
-_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.96/10) \hfill Ottawa, ON_
+**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
+_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.97/10) \hfill Ottawa, ON_
 
 **Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
 _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
@@ -34,6 +34,9 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 \vspace{1em}
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
+
+**NSERC - Undergraduate Student Research Awards (USRA)** ($7500) \hfill May 2023 - Aug 2023
+
 
 **TMM Summer Training & Work in Biomedical Research Scholarship** ($8200) \hfill May 2022 - Aug 2022
 
@@ -51,12 +54,11 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 \flushleft{\large{\textbf{PUBLICATIONS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting chromosome architecture proteins in breast cancer** \hfill (under revision in NAR Cancer) \linebreak
+**Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer** \hfill (under revision in NAR Cancer) \linebreak
 _Shamayita Roy, Arvin Zaker, Arvind Mer & Damien D’Amours_ 
 
 **Text-Mining Based Feature Selection for Anticancer Drug Response Prediction** \hfill (submitted to Brief. Bioinform.) \linebreak
 _Grace Wu, Arvin Zaker, Shivanshi Tripathi, Arvind Mer_ 
-
 
 **Comprehensive analysis of drug response metrics in patient-derived xenografts** \hfill (in preperation) \linebreak
 _Arvin Zaker, Arvind Mer_ 
@@ -97,14 +99,22 @@ _Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
 **Bioinformatics Researcher - Honours** \hfill Sep 2022 - Present \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
+\vspace{-0.5em}
+
 + Supervisor: Dr. Arvind Mer
 + Creating computation tools for analyzing cancer drug response 
 + Developing novel _in vivo_ drug response quantification metrics
 + Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
 
+
+\vspace{0.5em}
+
 **Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2022 - Aug 2022 \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
+
+
+\vspace{-0.5em}
 
 + Supervisor: Dr. Arvind Mer
 + Utilized the R programming language in genomic and transcriptomic data analysis
@@ -112,8 +122,14 @@ _University of Ottawa \hfill Ottawa, ON_
 + Data extraction and processing from Pan-cancer databases
 + Utilizing text mining algorithms for biomarker discovery
 
+
+\vspace{0.5em}
+
 **Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Dec 2021 \linebreak
 _University of Ottawa \hfill Ottawa, ON_
+
+
+\vspace{-0.5em}
 
 + Supervisor: Dr. Adam Rudner
 + Performed environmental sampling and phage extraction techniques
@@ -122,13 +138,19 @@ _University of Ottawa \hfill Ottawa, ON_
 + Used Python and ImageJ to analyze the restriction digest pattern of phages
 + Phage discovery and categorization (Arzan and Khorshid)
 
+\vspace{0.5em}
+
 **Research Assistant - UROP program**  \hfill Nov 2020 - Jul 2022 \linebreak     
 _University of Ottawa \hfill Ottawa, ON_
+
+
+\vspace{-0.5em}
 
 + Supervisor: Dr. Jean-Marc Renaud
 + Designing experiments and setting up research equipment for data collection
 + Performing experiments on mouse muscles using electrophysiological equipment
 + Performing antibody staining, fluorescent imaging, and analysis of muscle tissue in the Imiris program
+
 
 ######################################################################################################################################################################
 \vspace{1em}
@@ -138,12 +160,21 @@ _University of Ottawa \hfill Ottawa, ON_
 **Family Visitor and Program Assistant (Volunteer)** \hfill Feb 2020 - May 2020 \linebreak
 _Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_ 
 
+
+\vspace{-0.5em}
+
 + Communicated effectively with residents
 + Aided residents to perform group activities
 + Channeled residents' questions to the nursing staff
 
+
+\vspace{0.5em}
+
 **Stock Manager and Coordinator (Volunteer)** \hfill Sep 2018 - Jun 2019  \linebreak
 _Scope Charity Shop \hfill Cardiff, UK_ 
+
+
+\vspace{-0.5em}
 
 + Communicated with a team of volunteers and employees
 + Created accounting records to manage incoming donations 
@@ -151,8 +182,13 @@ _Scope Charity Shop \hfill Cardiff, UK_
 + Rearranged store merchandise to ensure customer satisfaction
 
 
+\vspace{0.5em}
+
 **Sales Associate (Volunteer)** \hfill Sep 2018 - Jun 2019 \linebreak
 _Tenovus Cancer Care Charity Shop \hfill Cardiff, UK_ 
+
+
+\vspace{-0.5em}
 
 + Coordinated with a team of volunteers 
 + Managed sales and provided excellent customer service 
