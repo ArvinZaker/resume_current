@@ -107,6 +107,8 @@ _University of Ottawa \hfill Ottawa, ON_
 \flushleft{\large{\textbf{WORK EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
+
+
 **Family Visitor and Program Assistant (Volunteer)** \hfill Feb 2020 - May 2020 \linebreak
 _Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_ 
 
