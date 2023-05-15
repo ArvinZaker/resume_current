@@ -43,6 +43,57 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 
 
 ######################################################################################################################################################################
+
+\vspace{1em}
+\flushleft{\large{\textbf{PUBLICATIONS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer** \hfill (under revision in NAR Cancer) \linebreak
+_Shamayita Roy, Arvin Zaker, Arvind Mer & Damien D’Amours_ 
+
+**Text-Mining Based Feature Selection for Anticancer Drug Response Prediction** \hfill (submitted to Brief. Bioinform.) \linebreak
+_Grace Wu, Arvin Zaker, Shivanshi Tripathi, Arvind Mer_ 
+
+**Comprehensive analysis of drug response metrics in patient-derived xenografts** \hfill (in preperation) \linebreak
+_Arvin Zaker, Arvind Mer_ 
+
+######################################################################################################################################################################
+
+\vspace{1em}
+\flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**NSERC - Undergraduate Student Research Awards (USRA)** ($7500) \hfill May 2023 - Aug 2023
+
+
+**TMM Summer Training & Work in Biomedical Research Scholarship** ($8200) \hfill May 2022 - Aug 2022
+
+**UROP Scholarship**, _University of Ottawa_ ($1000) \hfill Dec 2020 - Apr 2021
+
+**Dean's Honour List \& Merit Scholarship**, _University of Ottawa_ ($1000 per term) \hfill Sep 2019 - Present
+
+**Admission Scholarship**, _University of Ottawa_ ($3000) \hfill Sep 2019 - Apr 2020 
+
+**Academic Excellence Scholarship**, _Cardiff Sixth Form College_ ($14000) \hfill Sep 2018 - Jun 2019
+
+
+
+######################################################################################################################################################################
+
+\vspace{1em}
+\flushleft{\large{\textbf{POSTERS \& PRESENTATIONS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**Poster and Seminar Presentation "Analysis of Drug Response in Patient-Derived Xenograph"** \hfill Feb \& Sep 2022 \linebreak
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+**Poster and Presentation "Discovery and Characterization of Bacteriophage Arzan"** \hfill Dec 2021 \linebreak 
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+**Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue kinetics"** \hfill Apr 2021 \linebreak 
+_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
+
+######################################################################################################################################################################
 \vspace{1em}
 \flushleft{\large{\textbf{RESEARCH EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
@@ -167,53 +218,3 @@ _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
 
 ######################################################################################################################################################################
 
-\vspace{1em}
-\flushleft{\large{\textbf{PUBLICATIONS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer** \hfill (under revision in NAR Cancer) \linebreak
-_Shamayita Roy, Arvin Zaker, Arvind Mer & Damien D’Amours_ 
-
-**Text-Mining Based Feature Selection for Anticancer Drug Response Prediction** \hfill (submitted to Brief. Bioinform.) \linebreak
-_Grace Wu, Arvin Zaker, Shivanshi Tripathi, Arvind Mer_ 
-
-**Comprehensive analysis of drug response metrics in patient-derived xenografts** \hfill (in preperation) \linebreak
-_Arvin Zaker, Arvind Mer_ 
-
-######################################################################################################################################################################
-
-\vspace{1em}
-\flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**NSERC - Undergraduate Student Research Awards (USRA)** ($7500) \hfill May 2023 - Aug 2023
-
-
-**TMM Summer Training & Work in Biomedical Research Scholarship** ($8200) \hfill May 2022 - Aug 2022
-
-**UROP Scholarship**, _University of Ottawa_ ($1000) \hfill Dec 2020 - Apr 2021
-
-**Dean's Honour List \& Merit Scholarship**, _University of Ottawa_ ($1000 per term) \hfill Sep 2019 - Present
-
-**Admission Scholarship**, _University of Ottawa_ ($3000) \hfill Sep 2019 - Apr 2020 
-
-**Academic Excellence Scholarship**, _Cardiff Sixth Form College_ ($14000) \hfill Sep 2018 - Jun 2019
-
-
-
-######################################################################################################################################################################
-
-\vspace{1em}
-\flushleft{\large{\textbf{POSTERS \& PRESENTATIONS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**Poster and Seminar Presentation "Analysis of Drug Response in Patient-Derived Xenograph"** \hfill Feb \& Sep 2022 \linebreak
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
-**Poster and Presentation "Discovery and Characterization of Bacteriophage Arzan"** \hfill Dec 2021 \linebreak 
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
-**Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue kinetics"** \hfill Apr 2021 \linebreak 
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
-######################################################################################################################################################################
