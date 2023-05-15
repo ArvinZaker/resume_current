@@ -48,7 +48,7 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 \flushleft{\large{\textbf{RESEARCH EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Bioinformatics Researcher - Honours** \hfill Sep 2022 - Present \linebreak
+**Bioinformatics Researcher** \hfill Sep 2022 - Present \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
 
 + Supervisor: Dr. Arvind Mer
