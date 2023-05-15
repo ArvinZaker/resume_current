@@ -42,9 +42,10 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 + **Lab techniques**: phage extraction and amplification, fluorescent imaging, electrophysiological recordings
 
 
+
 ######################################################################################################################################################################
 \vspace{1em}
-\flushleft{\large{\textbf{RESEARCH EXPERIENCE}}} \vspace{-1em}
+\flushleft{\large{\textbf{WORK EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
 **Bioinformatics Researcher** \hfill Sep 2022 - Present \linebreak
@@ -52,11 +53,19 @@ _University of Ottawa \hfill Ottawa, ON_
 
 \vspace{-0.5em}
 
-+ Supervisor: Dr. Arvind Mer
 + Creating computation tools for analyzing cancer drug response 
 + Developing novel _in vivo_ drug response quantification metrics
 + Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
+
+**Patient Care Coordinator & Receptionist** \hfill Sep 2021 - Present \linebreak
+_Chadha Medical Clinic \hfill Ottawa, ON_
+
+\vspace{-0.5em}
+
++ Assisted with appointment scheduling, referrals, and testing coordination to 30+ patients weekly
++ Collaborated with the medical team and to address patients' unique needs and backgrounds.
++ Ensuring timely follow-ups and patient satisfaction in a fast-paced environment,
 
 
 \vspace{0.5em}
@@ -67,7 +76,6 @@ _University of Ottawa \hfill Ottawa, ON_
 
 \vspace{-0.5em}
 
-+ Supervisor: Dr. Arvind Mer
 + Utilized the R programming language in genomic and transcriptomic data analysis
 + Cancer phenotype and survival analysis of novel DNA repair complexes
 + Data extraction and processing from Pan-cancer databases
@@ -82,7 +90,6 @@ _University of Ottawa \hfill Ottawa, ON_
 
 \vspace{-0.5em}
 
-+ Supervisor: Dr. Adam Rudner
 + Performed environmental sampling and phage extraction techniques
 + Performed DNA extraction and genomic analysis via gel electrophoresis
 + Used Python and ImageJ to analyze the restriction digest pattern of phages
@@ -96,17 +103,9 @@ _University of Ottawa \hfill Ottawa, ON_
 
 \vspace{-0.5em}
 
-+ Supervisor: Dr. Jean-Marc Renaud
 + Designing experiments and setting up research equipment for data collection
 + Performing experiments on mouse muscles using electrophysiological equipment
 + Performing antibody staining, fluorescent imaging, and analysis of muscle tissue in the Imiris program
-
-
-######################################################################################################################################################################
-\vspace{1em}
-\flushleft{\large{\textbf{WORK EXPERIENCE}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
 
 
 **Family Visitor and Program Assistant (Volunteer)** \hfill Feb 2020 - May 2020 \linebreak
@@ -119,8 +118,21 @@ _Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_
 + Aided residents to perform group activities
 + Channeled residents' questions to the nursing staff
 
+\pagebreak
 
-\vspace{0.5em}
+**Volunteer Sales & Stock Coordinator** \hfill Sep 2018 - Jun 2019 \linebreak
+_Scope Charity Shop & Tenovus Cancer Care Charity Shop
+\hfill Cardiff, UK_
+
+\vspace{-0.5em}
+
++ Collaborated with volunteer teams across two charity shops
++ Managed sales, customer service, and donation tracking
++ Created accounting records and priced items for sales events
++ Assisted in developing marketing campaigns for store promotion
++ Rearranged store merchandise to enhance customer experience
+
+
 
 **Stock Manager and Coordinator (Volunteer)** \hfill Sep 2018 - Jun 2019  \linebreak
 _Scope Charity Shop \hfill Cardiff, UK_ 
@@ -202,20 +214,3 @@ _Arvin Zaker, Arvind Mer_
 **Academic Excellence Scholarship**, _Cardiff Sixth Form College_ ($14000) \hfill Sep 2018 - Jun 2019
 
 
-
-######################################################################################################################################################################
-
-\vspace{1em}
-\flushleft{\large{\textbf{POSTERS \& PRESENTATIONS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**Poster and Seminar Presentation "Analysis of Drug Response in Patient-Derived Xenograph"** \hfill Feb \& Sep 2022 \linebreak
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
-**Poster and Presentation "Discovery and Characterization of Bacteriophage Arzan"** \hfill Dec 2021 \linebreak 
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
-**Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue kinetics"** \hfill Apr 2021 \linebreak 
-_Faculty of Medicine, University of Ottawa \hfill Ottawa, ON_
-
-######################################################################################################################################################################
