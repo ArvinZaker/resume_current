@@ -29,3 +29,29 @@ _Allameh Helli 3 Exceptional Talent School \hfill Tehran, IR_
 
 , linux operating systems
 
+
+
+**Stock Manager and Coordinator (Volunteer)** \hfill Sep 2018 - Jun 2019  \linebreak
+_Scope Charity Shop \hfill Cardiff, UK_ 
+
+
+\vspace{-0.5em}
+
++ Communicated with a team of volunteers and employees
++ Created accounting records to manage incoming donations 
++ Priced items during sales events 
++ Rearranged store merchandise to ensure customer satisfaction
+
+
+\vspace{0.5em}
+
+**Sales Associate (Volunteer)** \hfill Sep 2018 - Jun 2019 \linebreak
+_Tenovus Cancer Care Charity Shop \hfill Cardiff, UK_ 
+
+
+\vspace{-0.5em}
+
++ Coordinated with a team of volunteers 
++ Managed sales and provided excellent customer service 
++ Aided in designing marketing campaigns to promote the store's merchandise 
++ Tracked customer donations and returns

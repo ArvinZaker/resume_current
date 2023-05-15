@@ -158,6 +158,17 @@ _University of Ottawa \hfill Ottawa, ON_
 \flushleft{\large{\textbf{WORK EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
+
+**Patient Care Coordinator & Receptionist** \hfill Sep 2021 - Present \linebreak
+_Chadha Medical Clinic \hfill Ottawa, ON_
+
+\vspace{-0.5em}
+
++ Assisted with appointment scheduling, referrals, and testing coordination to 30+ patients weekly
++ Collaborated with the medical team and to address patients' unique needs and backgrounds.
++ Ensuring timely follow-ups and patient satisfaction in a fast-paced environment,
+
+
 **Family Visitor and Program Assistant (Volunteer)** \hfill Feb 2020 - May 2020 \linebreak
 _Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_ 
 
@@ -168,33 +179,20 @@ _Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_
 + Aided residents to perform group activities
 + Channeled residents' questions to the nursing staff
 
-
 \vspace{0.5em}
 
-**Stock Manager and Coordinator (Volunteer)** \hfill Sep 2018 - Jun 2019  \linebreak
-_Scope Charity Shop \hfill Cardiff, UK_ 
-
+**Volunteer Sales & Stock Coordinator** \hfill Sep 2018 - Jun 2019 \linebreak
+_Scope Charity Shop & Tenovus Cancer Care Charity Shop
+\hfill Cardiff, UK_
 
 \vspace{-0.5em}
 
-+ Communicated with a team of volunteers and employees
-+ Created accounting records to manage incoming donations 
-+ Priced items during sales events 
-+ Rearranged store merchandise to ensure customer satisfaction
++ Collaborated with volunteer teams across two charity shops
++ Managed sales, customer service, and donation tracking
++ Created accounting records and priced items for sales events
++ Assisted in developing marketing campaigns for store promotion
++ Rearranged store merchandise to enhance customer experience
 
-
-\vspace{0.5em}
-
-**Sales Associate (Volunteer)** \hfill Sep 2018 - Jun 2019 \linebreak
-_Tenovus Cancer Care Charity Shop \hfill Cardiff, UK_ 
-
-
-\vspace{-0.5em}
-
-+ Coordinated with a team of volunteers 
-+ Managed sales and provided excellent customer service 
-+ Aided in designing marketing campaigns to promote the store's merchandise 
-+ Tracked customer donations and returns
 
 
 ######################################################################################################################################################################
@@ -214,6 +212,9 @@ _Best Buddies club \hfill Ottawa, ON_
 
 **Founder and Coordinator of Hands on Health Magazine** \hfill Jun 2020 - Present \linebreak
 _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
+
+**Childcare work experience** \hfill Apr 2019 \linebreak
+_Cylch Meithrin Trelai Child Care Center \hfill Cardiff, UK_
 
 
 ######################################################################################################################################################################
