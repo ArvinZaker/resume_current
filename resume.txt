@@ -1,157 +1,67 @@
-###################################################################################################################################################################### 
+University of Ottawa Sep 2019 - Apr 2023 Honours Bachelor of Science
+(H.BSc) in Translational and Molecular Medicine (CGPA: 9.97/10) Ottawa,
+ON
 
-```{=tex}
-\title{\vspace{-3.5em}\textbf{Arvin Zaker}\vspace{-3.5em}}
-\maketitle
-```
-```{=tex}
-\centering{\href{mailto:azake040@uottawa.ca}{\textsc{\faEnvelopeO} \underline{azake040@uottawa.ca}} |
-\href{tel:613-614-9254}{\underline{\textsc{\faPhone} (613) 614-9254}} |
-\href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} 
-}
-```
-###################################################################################################################################################################### 
+Cardiff Sixth Form College Sep 2018 - Jun 2019 General Certificate of
+Education Advanced Subsidiary Level (Avg: 100%) Cardiff, UK
 
-```{=tex}
-\vspace{0.25em}
-```
-`\flushleft{\large{\textbf{EDUCATION}}}`{=tex} `\vspace{-1em}`{=tex}
-`\noindent`{=tex}
-```{=tex}
-\rule{19.1cm}{0.5pt}
-```
-**University of Ottawa** `\hfill `{=tex}Sep 2019 - Apr 2023
-`\linebreak`{=tex} *Honours Bachelor of Science (H.BSc) in Translational
-and Molecular Medicine (CGPA: 9.97/10) `\hfill `{=tex}Ottawa, ON*
-
-**Cardiff Sixth Form College** `\hfill `{=tex}Sep 2018 - Jun 2019
-`\linebreak`{=tex} *General Certificate of Education Advanced Subsidiary
-Level (Avg: 100%) `\hfill `{=tex}Cardiff, UK*
-
-###################################################################################################################################################################### 
-
-```{=tex}
-\vspace{1em}
-```
-`\flushleft{\large{\textbf{SKILLS}}}`{=tex} `\vspace{-1em}`{=tex}
-`\noindent`{=tex}
-```{=tex}
-\rule{19.1cm}{0.5pt}
-```
--   **Programming languages**: R, Python, Bash
--   **Software**: ImageJ, Imiris, Microsoft Office Suite
--   **Bioinformatic skills**: Transcriptomic and genomic analysis,
+-   Programming languages: R, Python, Bash
+-   Software: ImageJ, Imiris, Microsoft Office Suite
+-   Bioinformatic skills: Transcriptomic and genomic analysis,
     bioinformatic pipeline development
--   **Lab techniques**: phage extraction and amplification, fluorescent
+-   Lab techniques: phage extraction and amplification, fluorescent
     imaging, electrophysiological recordings
 
-###################################################################################################################################################################### 
+Large-scale phenogenomic analysis of human cancers uncovers frequent
+alterations affecting SMC5/6 complex components in breast cancer (under
+revision in NAR Cancer) Shamayita Roy, Arvin Zaker, Arvind Mer & Damien
+D’Amours
 
-```{=tex}
-\vspace{1em}
-```
-`\flushleft{\large{\textbf{PUBLICATIONS}}}`{=tex} `\vspace{-1em}`{=tex}
-`\noindent`{=tex}
-```{=tex}
-\rule{19.1cm}{0.5pt}
-```
-**Large-scale phenogenomic analysis of human cancers uncovers frequent
-alterations affecting SMC5/6 complex components in breast cancer**
-`\hfill `{=tex}(under revision in NAR Cancer) `\linebreak`{=tex}
-*Shamayita Roy, Arvin Zaker, Arvind Mer & Damien D'Amours*
+Text-Mining Based Feature Selection for Anticancer Drug Response
+Prediction (submitted to Brief. Bioinform.) Grace Wu, Arvin Zaker,
+Shivanshi Tripathi, Arvind Mer
 
-**Text-Mining Based Feature Selection for Anticancer Drug Response
-Prediction** `\hfill `{=tex}(submitted to Brief. Bioinform.)
-`\linebreak`{=tex} *Grace Wu, Arvin Zaker, Shivanshi Tripathi, Arvind
-Mer*
+Comprehensive analysis of drug response metrics in patient-derived
+xenografts (in preperation) Arvin Zaker, Arvind Mer
 
-**Comprehensive analysis of drug response metrics in patient-derived
-xenografts** `\hfill `{=tex}(in preperation) `\linebreak`{=tex} *Arvin
-Zaker, Arvind Mer*
+NSERC - Undergraduate Student Research Awards (USRA) ($7500) May 2023 -
+Aug 2023
 
-###################################################################################################################################################################### 
+TMM Summer Training & Work in Biomedical Research Scholarship ($8200)
+May 2022 - Aug 2022
 
-```{=tex}
-\vspace{1em}
-```
-`\flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}}`{=tex}
-`\vspace{-1em}`{=tex} `\noindent`{=tex}
-```{=tex}
-\rule{19.1cm}{0.5pt}
-```
-**NSERC - Undergraduate Student Research Awards (USRA)** (\$7500)
-`\hfill `{=tex}May 2023 - Aug 2023
+UROP Scholarship, University of Ottawa ($1000) Dec 2020 - Apr 2021
 
-**TMM Summer Training & Work in Biomedical Research Scholarship**
-(\$8200) `\hfill `{=tex}May 2022 - Aug 2022
+Dean’s Honour List & Merit Scholarship, University of Ottawa ($1000 per
+term) Sep 2019 - Present
 
-**UROP Scholarship**, *University of Ottawa* (\$1000) `\hfill `{=tex}Dec
-2020 - Apr 2021
+Admission Scholarship, University of Ottawa ($3000) Sep 2019 - Apr 2020
 
-**Dean's Honour List & Merit Scholarship**, *University of Ottawa*
-(\$1000 per term) `\hfill `{=tex}Sep 2019 - Present
+Academic Excellence Scholarship, Cardiff Sixth Form College ($14000) Sep
+2018 - Jun 2019
 
-**Admission Scholarship**, *University of Ottawa* (\$3000)
-`\hfill `{=tex}Sep 2019 - Apr 2020
+Poster and Seminar Presentation “Analysis of Drug Response in
+Patient-Derived Xenograph” Feb & Sep 2022 Faculty of Medicine,
+University of Ottawa Ottawa, ON
 
-**Academic Excellence Scholarship**, *Cardiff Sixth Form College*
-(\$14000) `\hfill `{=tex}Sep 2018 - Jun 2019
+Poster and Presentation “Discovery and Characterization of Bacteriophage
+Arzan” Dec 2021 Faculty of Medicine, University of Ottawa Ottawa, ON
 
-###################################################################################################################################################################### 
+Poster “Role of Adenosine Receptors on mice skeletal muscle fatigue
+kinetics” Apr 2021 Faculty of Medicine, University of Ottawa Ottawa, ON
 
-```{=tex}
-\vspace{1em}
-```
-`\flushleft{\large{\textbf{POSTERS \& PRESENTATIONS}}}`{=tex}
-`\vspace{-1em}`{=tex} `\noindent`{=tex}
-```{=tex}
-\rule{19.1cm}{0.5pt}
-```
-**Poster and Seminar Presentation "Analysis of Drug Response in
-Patient-Derived Xenograph"** `\hfill `{=tex}Feb & Sep 2022
-`\linebreak`{=tex} *Faculty of Medicine, University of Ottawa
-`\hfill `{=tex}Ottawa, ON*
+Bioinformatics Researcher Sep 2022 - Present University of Ottawa
+Ottawa, ON
 
-**Poster and Presentation "Discovery and Characterization of
-Bacteriophage Arzan"** `\hfill `{=tex}Dec 2021 `\linebreak `{=tex}
-*Faculty of Medicine, University of Ottawa `\hfill `{=tex}Ottawa, ON*
-
-**Poster "Role of Adenosine Receptors on mice skeletal muscle fatigue
-kinetics"** `\hfill `{=tex}Apr 2021 `\linebreak `{=tex} *Faculty of
-Medicine, University of Ottawa `\hfill `{=tex}Ottawa, ON*
-
-###################################################################################################################################################################### 
-
-```{=tex}
-\vspace{1em}
-```
-`\flushleft{\large{\textbf{RESEARCH EXPERIENCE}}}`{=tex}
-`\vspace{-1em}`{=tex} `\noindent`{=tex}
-```{=tex}
-\rule{19.1cm}{0.5pt}
-```
-**Bioinformatics Researcher** `\hfill `{=tex}Sep 2022 - Present
-`\linebreak`{=tex} *University of Ottawa `\hfill `{=tex}Ottawa, ON*
-
-```{=tex}
-\vspace{-0.5em}
-```
 -   Supervisor: Dr. Arvind Mer
 -   Creating computation tools for analyzing cancer drug response
--   Developing novel *in vivo* drug response quantification metrics
+-   Developing novel in vivo drug response quantification metrics
 -   Correlational study between cancer gene biomarkers and drug response
 -   Open source package development and developing analysis pipelines
 
-```{=tex}
-\vspace{0.5em}
-```
-**Undergraduate Trainee - Laboratory rotations & TST program**
-`\hfill `{=tex}Jan 2022 - Aug 2022 `\linebreak`{=tex} *University of
-Ottawa `\hfill `{=tex}Ottawa, ON*
+Undergraduate Trainee - Laboratory rotations & TST program Jan 2022 -
+Aug 2022 University of Ottawa Ottawa, ON
 
-```{=tex}
-\vspace{-0.5em}
-```
 -   Supervisor: Dr. Arvind Mer
 -   Utilized the R programming language in genomic and transcriptomic
     data analysis
@@ -159,16 +69,9 @@ Ottawa `\hfill `{=tex}Ottawa, ON*
 -   Data extraction and processing from Pan-cancer databases
 -   Utilizing text mining algorithms for biomarker discovery
 
-```{=tex}
-\vspace{0.5em}
-```
-**Undergraduate Trainee - SEA-PHAGES program** `\hfill `{=tex}Sep 2021 -
-Dec 2021 `\linebreak`{=tex} *University of Ottawa `\hfill `{=tex}Ottawa,
-ON*
+Undergraduate Trainee - SEA-PHAGES program Sep 2021 - Dec 2021
+University of Ottawa Ottawa, ON
 
-```{=tex}
-\vspace{-0.5em}
-```
 -   Supervisor: Dr. Adam Rudner
 -   Performed environmental sampling and phage extraction techniques
 -   Performed DNA extraction and genomic analysis via gel
@@ -177,15 +80,9 @@ ON*
     phages
 -   Phage discovery and characterization (Arzan and Khorshid)
 
-```{=tex}
-\vspace{0.5em}
-```
-**Research Assistant - UROP program** `\hfill `{=tex}Nov 2020 - Jul 2022
-`\linebreak     `{=tex} *University of Ottawa `\hfill `{=tex}Ottawa, ON*
+Research Assistant - UROP program Nov 2020 - Jul 2022 University of
+Ottawa Ottawa, ON
 
-```{=tex}
-\vspace{-0.5em}
-```
 -   Supervisor: Dr. Jean-Marc Renaud
 -   Designing experiments and setting up research equipment for data
     collection
@@ -194,84 +91,44 @@ ON*
 -   Performing antibody staining, fluorescent imaging, and analysis of
     muscle tissue in the Imiris program
 
-###################################################################################################################################################################### 
+Patient Care Coordinator & Receptionist Sep 2021 - Present Chadha
+Medical Clinic Ottawa, ON
 
-```{=tex}
-\vspace{1em}
-```
-`\flushleft{\large{\textbf{WORK EXPERIENCE}}}`{=tex}
-`\vspace{-1em}`{=tex} `\noindent`{=tex}
-```{=tex}
-\rule{19.1cm}{0.5pt}
-```
-**Patient Care Coordinator & Receptionist** `\hfill `{=tex}Sep 2021 -
-Present `\linebreak`{=tex} *Chadha Medical Clinic `\hfill `{=tex}Ottawa,
-ON*
-
-```{=tex}
-\vspace{-0.5em}
-```
 -   Assisted with appointment scheduling, referrals, and testing
     coordination to 30+ patients weekly
--   Collaborated with the medical team and to address patients' unique
+-   Collaborated with the medical team and to address patients’ unique
     needs and backgrounds.
 -   Ensuring timely follow-ups and patient satisfaction in a fast-paced
     environment,
 
-**Family Visitor and Program Assistant (Volunteer)** `\hfill `{=tex}Feb
-2020 - May 2020 `\linebreak`{=tex} *Garry J Armstrong Long Term Care
-Centre `\hfill `{=tex}Ottawa, ON*
+Family Visitor and Program Assistant (Volunteer) Feb 2020 - May 2020
+Garry J Armstrong Long Term Care Centre Ottawa, ON
 
-```{=tex}
-\vspace{-0.5em}
-```
 -   Communicated effectively with residents
 -   Aided residents to perform group activities
--   Channeled residents' questions to the nursing staff
+-   Channeled residents’ questions to the nursing staff
 
-```{=tex}
-\vspace{0.5em}
-```
-**Volunteer Sales & Stock Coordinator** `\hfill `{=tex}Sep 2018 - Jun
-2019 `\linebreak`{=tex} *Scope Charity Shop & Tenovus Cancer Care
-Charity Shop `\hfill `{=tex}Cardiff, UK*
+Volunteer Sales & Stock Coordinator Sep 2018 - Jun 2019 Scope Charity
+Shop & Tenovus Cancer Care Charity Shop Cardiff, UK
 
-```{=tex}
-\vspace{-0.5em}
-```
 -   Collaborated with volunteer teams across two charity shops
 -   Managed sales, customer service, and donation tracking
 -   Created accounting records and priced items for sales events
 -   Assisted in developing marketing campaigns for store promotion
 -   Rearranged store merchandise to enhance customer experience
 
-###################################################################################################################################################################### 
+Lets Talk Science Presenter Jan 2021 - Present University of Ottawa
+Ottawa, ON
 
-```{=tex}
-\vspace{1em}
-```
-`\flushleft{\large{\textbf{VOLUNTEER EXPERIENCE}}}`{=tex}
-`\vspace{-1em}`{=tex} `\noindent`{=tex}
-```{=tex}
-\rule{19.1cm}{0.5pt}
-```
-**Lets Talk Science Presenter** `\hfill `{=tex}Jan 2021 - Present
-`\linebreak`{=tex} *University of Ottawa `\hfill `{=tex}Ottawa, ON*
+Founder of the University of Ottawa Canadians Sharing Locally and
+Globally Dec 2020 - Present University of Ottawa Canadians Sharing
+Locally and Globally Ottawa, ON
 
-**Founder of the University of Ottawa Canadians Sharing Locally and
-Globally** `\hfill `{=tex}Dec 2020 - Present `\linebreak`{=tex}
-*University of Ottawa Canadians Sharing Locally and Globally
-`\hfill `{=tex}Ottawa, ON*
+Volunteer Coordinator & Co-Chair at Best Buddies club Sep 2020 - Present
+Best Buddies club Ottawa, ON
 
-**Volunteer Coordinator & Co-Chair at Best Buddies club**
-`\hfill `{=tex}Sep 2020 - Present `\linebreak `{=tex} *Best Buddies club
-`\hfill `{=tex}Ottawa, ON*
+Founder and Coordinator of Hands on Health Magazine Jun 2020 - Present
+Interprofessional Health Association (IPHA) club Ottawa, ON
 
-**Founder and Coordinator of Hands on Health Magazine**
-`\hfill `{=tex}Jun 2020 - Present `\linebreak`{=tex} *Interprofessional
-Health Association (IPHA) club `\hfill `{=tex}Ottawa, ON*
-
-**Childcare work experience** `\hfill `{=tex}Apr 2019 `\linebreak`{=tex}
-*Cylch Meithrin Trelai Child Care Center `\hfill `{=tex}Cardiff, UK*
-
-###################################################################################################################################################################### 
+Childcare work experience Apr 2019 Cylch Meithrin Trelai Child Care
+Center Cardiff, UK
