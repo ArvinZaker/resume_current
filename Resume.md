@@ -58,7 +58,7 @@ _University of Ottawa \hfill Ottawa, ON_
 + Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
 
-**Patient Care Coordinator & Receptionist** \hfill Sep 2021 - Present \linebreak
+**Patient Care Coordinator & Receptionist** \hfill Sep 2022 - Present \linebreak
 _Chadha Medical Clinic \hfill Ottawa, ON_
 
 \vspace{-0.5em}
