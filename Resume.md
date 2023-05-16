@@ -159,7 +159,7 @@ _University of Ottawa \hfill Ottawa, ON_
 \noindent\rule{19.1cm}{0.5pt}
 
 
-**Patient Care Coordinator & Receptionist** \hfill Sep 2021 - Present \linebreak
+**Patient Care Coordinator & Receptionist** \hfill Sep 2022 - Present \linebreak
 _Chadha Medical Clinic \hfill Ottawa, ON_
 
 \vspace{-0.5em}
