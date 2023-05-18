@@ -24,7 +24,7 @@ header-includes:
 \noindent\rule{19.1cm}{0.5pt}
 
 **University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
-_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.97/10) \hfill Ottawa, ON_
+_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
 
 **Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
 _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
