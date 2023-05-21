@@ -9,6 +9,7 @@ Education Advanced Subsidiary Level (Avg: 100%) Cardiff, UK
 -   Software: ImageJ, Imiris, Microsoft Office Suite
 -   Bioinformatic skills: Transcriptomic and genomic analysis,
     bioinformatic pipeline development
+-   Operation systems: Linux, Windows
 -   Lab techniques: phage extraction and amplification, fluorescent
     imaging, electrophysiological recordings
 
@@ -75,23 +76,6 @@ Shop & Tenovus Cancer Care Charity Shop Cardiff, UK
 -   Assisted in developing marketing campaigns for store promotion
 -   Rearranged store merchandise to enhance customer experience
 
-Stock Manager and Coordinator (Volunteer) Sep 2018 - Jun 2019 Scope
-Charity Shop Cardiff, UK
-
--   Communicated with a team of volunteers and employees
--   Created accounting records to manage incoming donations
--   Priced items during sales events
--   Rearranged store merchandise to ensure customer satisfaction
-
-Sales Associate (Volunteer) Sep 2018 - Jun 2019 Tenovus Cancer Care
-Charity Shop Cardiff, UK
-
--   Coordinated with a team of volunteers
--   Managed sales and provided excellent customer service
--   Aided in designing marketing campaigns to promote the store’s
-    merchandise
--   Tracked customer donations and returns
-
 Lets Talk Science Presenter Jan 2021 - Present University of Ottawa
 Ottawa, ON
 
@@ -104,6 +88,12 @@ Best Buddies club Ottawa, ON
 
 Founder and Coordinator of Hands on Health Magazine Jun 2020 - Present
 Interprofessional Health Association (IPHA) club Ottawa, ON
+
+Childcare work experience Apr 2019 Cylch Meithrin Trelai Child Care
+Center Cardiff, UK
+
+Fundraising event participant Jan 2016 Allameh Helli 3 High School
+Tehran, IR
 
 Large-scale phenogenomic analysis of human cancers uncovers frequent
 alterations affecting SMC5/6 complex components in breast cancer (under

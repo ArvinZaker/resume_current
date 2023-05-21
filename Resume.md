@@ -39,6 +39,7 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 + **Programming languages**: R, Python, Bash
 + **Software**: ImageJ, Imiris, Microsoft Office Suite
 + **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development
++ **Operation systems:** Linux, Windows
 + **Lab techniques**: phage extraction and amplification, fluorescent imaging, electrophysiological recordings
 
 
@@ -133,33 +134,6 @@ _Scope Charity Shop & Tenovus Cancer Care Charity Shop
 + Rearranged store merchandise to enhance customer experience
 
 
-
-**Stock Manager and Coordinator (Volunteer)** \hfill Sep 2018 - Jun 2019  \linebreak
-_Scope Charity Shop \hfill Cardiff, UK_ 
-
-
-\vspace{-0.5em}
-
-+ Communicated with a team of volunteers and employees
-+ Created accounting records to manage incoming donations 
-+ Priced items during sales events 
-+ Rearranged store merchandise to ensure customer satisfaction
-
-
-\vspace{0.5em}
-
-**Sales Associate (Volunteer)** \hfill Sep 2018 - Jun 2019 \linebreak
-_Tenovus Cancer Care Charity Shop \hfill Cardiff, UK_ 
-
-
-\vspace{-0.5em}
-
-+ Coordinated with a team of volunteers 
-+ Managed sales and provided excellent customer service 
-+ Aided in designing marketing campaigns to promote the store's merchandise 
-+ Tracked customer donations and returns
-
-
 ######################################################################################################################################################################
 
 \vspace{1em}
@@ -177,6 +151,13 @@ _Best Buddies club \hfill Ottawa, ON_
 
 **Founder and Coordinator of Hands on Health Magazine** \hfill Jun 2020 - Present \linebreak
 _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
+
+**Childcare work experience** \hfill Apr 2019 \linebreak
+_Cylch Meithrin Trelai Child Care Center \hfill Cardiff, UK_
+
+
+**Fundraising event participant**  \hfill Jan 2016 \linebreak
+_Allameh Helli 3 High School \hfill Tehran, IR_
 
 
 ######################################################################################################################################################################
