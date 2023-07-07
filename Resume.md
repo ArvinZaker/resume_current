@@ -49,15 +49,6 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 \flushleft{\large{\textbf{WORK EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Bioinformatics Researcher** \hfill Sep 2022 - Present \linebreak
-_University of Ottawa \hfill Ottawa, ON_ 
-
-\vspace{-0.5em}
-
-+ Creating computation tools for analyzing cancer drug response 
-+ Developing novel _in vivo_ drug response quantification metrics
-+ Correlational study between cancer gene biomarkers and drug response
-+ Open source package development and developing analysis pipelines
 
 **Patient Care Coordinator & Receptionist** \hfill Sep 2022 - Present \linebreak
 _Chadha Medical Clinic \hfill Ottawa, ON_
@@ -70,6 +61,19 @@ _Chadha Medical Clinic \hfill Ottawa, ON_
 
 
 \vspace{0.5em}
+
+**Bioinformatics Researcher** \hfill Sep 2022 - Present \linebreak
+_University of Ottawa \hfill Ottawa, ON_ 
+
+\vspace{-0.5em}
+
++ Creating computation tools for analyzing cancer drug response 
++ Developing novel _in vivo_ drug response quantification metrics
++ Correlational study between cancer gene biomarkers and drug response
++ Open source package development and developing analysis pipelines
+
+\vspace{0.5em}
+
 
 **Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2022 - Aug 2022 \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 

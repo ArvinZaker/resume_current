@@ -13,14 +13,6 @@ Education Advanced Subsidiary Level (Avg: 100%) Cardiff, UK
 -   Lab techniques: phage extraction and amplification, fluorescent
     imaging, electrophysiological recordings
 
-Bioinformatics Researcher Sep 2022 - Present University of Ottawa
-Ottawa, ON
-
--   Creating computation tools for analyzing cancer drug response
--   Developing novel in vivo drug response quantification metrics
--   Correlational study between cancer gene biomarkers and drug response
--   Open source package development and developing analysis pipelines
-
 Patient Care Coordinator & Receptionist Sep 2022 - Present Chadha
 Medical Clinic Ottawa, ON
 
@@ -30,6 +22,14 @@ Medical Clinic Ottawa, ON
     needs and backgrounds.
 -   Ensuring timely follow-ups and patient satisfaction in a fast-paced
     environment,
+
+Bioinformatics Researcher Sep 2022 - Present University of Ottawa
+Ottawa, ON
+
+-   Creating computation tools for analyzing cancer drug response
+-   Developing novel in vivo drug response quantification metrics
+-   Correlational study between cancer gene biomarkers and drug response
+-   Open source package development and developing analysis pipelines
 
 Undergraduate Trainee - Laboratory rotations & TST program Jan 2022 -
 Aug 2022 University of Ottawa Ottawa, ON
