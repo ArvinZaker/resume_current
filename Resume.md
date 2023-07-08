@@ -50,17 +50,6 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 \noindent\rule{19.1cm}{0.5pt}
 
 
-**Patient Care Coordinator & Receptionist** \hfill Sep 2022 - Present \linebreak
-_Chadha Medical Clinic \hfill Ottawa, ON_
-
-\vspace{-0.5em}
-
-+ Assisted with appointment scheduling, referrals, and testing coordination to 30+ patients weekly
-+ Collaborated with the medical team and to address patients' unique needs and backgrounds.
-+ Ensuring timely follow-ups and patient satisfaction in a fast-paced environment,
-
-
-\vspace{0.5em}
 
 **Bioinformatics Researcher** \hfill Sep 2022 - Present \linebreak
 _University of Ottawa \hfill Ottawa, ON_ 
@@ -71,6 +60,19 @@ _University of Ottawa \hfill Ottawa, ON_
 + Developing novel _in vivo_ drug response quantification metrics
 + Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
+
+\vspace{0.5em}
+
+
+**Patient Care Coordinator & Receptionist** \hfill Sep 2022 - Present \linebreak
+_Chadha Medical Clinic \hfill Ottawa, ON_
+
+\vspace{-0.5em}
+
++ Assisted with appointment scheduling, referrals, and testing coordination to 30+ patients weekly
++ Collaborated with the medical team and to address patients' unique needs and backgrounds.
++ Ensuring timely follow-ups and patient satisfaction in a fast-paced environment,
+
 
 \vspace{0.5em}
 
