@@ -17,17 +17,25 @@ header-includes:
 \href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} 
 }
 
+
 ######################################################################################################################################################################
 
 \vspace{0.25em}
-\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
+\flushleft{\large{\textbf{OBJECTIVE STATEMENT}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
-_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
+Highly motivated Bioinformatics Researcher seeking
+to leverage extensive experience in medical
+research, data analysis, and computational tool
+development to support adverse drug reaction
+surveillance in the Pharmacovigilance role at
+Shoppers Drug Mart. Committed to utilizing my
+strong analytical abilities, attention to detail,
+experience in the healthcare sector, and capacity
+to work collaboratively to enhance health and
+wellness innovation.
 
-**Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
-_General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
+
 
 ######################################################################################################################################################################
 
@@ -64,14 +72,14 @@ _University of Ottawa \hfill Ottawa, ON_
 \vspace{0.5em}
 
 
-**Patient Care Coordinator & Receptionist** \hfill Sep 2022 - Present \linebreak
+**Patient Care Coordinator & Receptionist** \hfill Sep 2022 - June 2023 \linebreak
 _Chadha Medical Clinic \hfill Ottawa, ON_
 
 \vspace{-0.5em}
 
 + Assisted with appointment scheduling, referrals, and testing coordination to 30+ patients weekly
 + Collaborated with the medical team and to address patients' unique needs and backgrounds.
-+ Ensuring timely follow-ups and patient satisfaction in a fast-paced environment,
++ Ensuring timely follow-ups and patient satisfaction in a fast-paced environment
 
 
 \vspace{0.5em}
@@ -180,6 +188,19 @@ _Grace Wu, Arvin Zaker, Shivanshi Tripathi, Arvind Mer_
 
 **Comprehensive analysis of drug response metrics in patient-derived xenografts** \hfill (in preperation) \linebreak
 _Arvin Zaker, Arvind Mer_ 
+
+
+######################################################################################################################################################################
+
+\vspace{0.25em}
+\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
+_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
+
+**Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
+_General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
 
 ######################################################################################################################################################################
 
