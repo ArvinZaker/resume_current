@@ -4,8 +4,8 @@ papersize: letter
 geometry: margin=1.2cm
 header-includes:
   - \usepackage{fontspec}
-  - \setmainfont{Arial}
   - \usepackage{fontawesome}
+  - \setmainfont{Arial}
 ---
 
 ######################################################################################################################################################################
@@ -48,7 +48,7 @@ wellness innovation.
 + **Programming languages**: R, Python, Bash
 + **Software**: ImageJ, Imiris, Microsoft Office Suite
 + **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development
-+ **Operation systems:** Linux, Windows
++ **Operating systems:** Linux, Windows
 + **Lab techniques**: phage extraction and amplification, fluorescent imaging, electrophysiological recordings
 
 
@@ -69,6 +69,8 @@ _University of Ottawa \hfill Ottawa, ON_
 + Developing novel _in vivo_ drug response quantification metrics
 + Correlational study between cancer gene biomarkers and drug response
 + Open source package development and developing analysis pipelines
+
+
 
 \vspace{0.5em}
 
