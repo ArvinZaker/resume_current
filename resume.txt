@@ -6,7 +6,7 @@ Cardiff Sixth Form College Sep 2018 - Jun 2019 General Certificate of
 Education Advanced Subsidiary Level (Avg: 100%) Cardiff, UK
 
 -   Programming languages: R, Python, Bash
--   Software: ImageJ, Imiris, Microsoft Office Suite
+-   Software: ImageJ, Imiris, Microsoft Office Suite, LaTeX
 -   Bioinformatic skills: Transcriptomic and genomic analysis,
     bioinformatic pipeline development
 -   Lab techniques: phage extraction and amplification, fluorescent

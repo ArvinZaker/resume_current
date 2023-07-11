@@ -37,7 +37,7 @@ _General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill C
 \noindent\rule{19.1cm}{0.5pt}
 
 + **Programming languages**: R, Python, Bash
-+ **Software**: ImageJ, Imiris, Microsoft Office Suite
++ **Software**: ImageJ, Imiris, Microsoft Office Suite, LaTeX
 + **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development
 + **Lab techniques**: phage extraction and amplification, fluorescent imaging, electrophysiological recordings
 
