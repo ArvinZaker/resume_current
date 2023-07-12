@@ -10,7 +10,7 @@ health and wellness innovation.
 -   Software: ImageJ, Imiris, Microsoft Office Suite
 -   Bioinformatic skills: Transcriptomic and genomic analysis,
     bioinformatic pipeline development
--   Operation systems: Linux, Windows
+-   Operating systems: Linux, Windows
 -   Lab techniques: phage extraction and amplification, fluorescent
     imaging, electrophysiological recordings
 

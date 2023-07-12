@@ -13,7 +13,7 @@ header-includes:
 \maketitle
 
 
-\centering{\href{mailto:arv.zaker@gmail.com}{\textsc{\faEnvelopeO} \underline{arv.zaker@gmail.com}} |
+\centering{\href{mailto:arv.zaker@gmail.com}{\underline{\textsc{\faEnvelopeO} arv.zaker@gmail.com}} |
 \href{tel:613-614-9254}{\underline{\textsc{\faPhone} (613) 614-9254}} |
 \href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} 
 }
