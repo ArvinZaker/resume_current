@@ -22,21 +22,14 @@ header-includes:
 ######################################################################################################################################################################
 
 \vspace{0.25em}
-\flushleft{\large{\textbf{OBJECTIVE STATEMENT}}} \vspace{-1em}
+\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-Highly motivated Bioinformatics Researcher seeking
-to leverage extensive experience in medical
-research, data analysis, and computational tool
-development to support adverse drug reaction
-surveillance in the Pharmacovigilance role at
-Shoppers Drug Mart. Committed to utilizing my
-strong analytical abilities, attention to detail,
-experience in the healthcare sector, and capacity
-to work collaboratively to enhance health and
-wellness innovation.
+**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
+_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
 
-
+**Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
+_General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
 
 ######################################################################################################################################################################
 
@@ -127,7 +120,7 @@ _University of Ottawa \hfill Ottawa, ON_
 
 
 **Family Visitor and Program Assistant (Volunteer)** \hfill Feb 2020 - May 2020 \linebreak
-_Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_ 
+_Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_
 
 
 \vspace{-0.5em}
@@ -195,15 +188,6 @@ _Arvin Zaker, Arvind Mer_
 
 ######################################################################################################################################################################
 
-\vspace{0.25em}
-\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
-_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
-
-**Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
-_General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
 
 ######################################################################################################################################################################
 
