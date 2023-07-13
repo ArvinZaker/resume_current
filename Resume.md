@@ -127,7 +127,7 @@ _University of Ottawa \hfill Ottawa, ON_
 
 \vspace{0.5em}
 
-**Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Dec 2021 \linebreak
+**Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Apr 2022 \linebreak
 _University of Ottawa \hfill Ottawa, ON_
 
 
