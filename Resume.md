@@ -5,7 +5,6 @@ geometry: margin=1.2cm
 header-includes:
   - \usepackage{fontspec}
   - \usepackage{fontawesome}
-  - \setmainfont{Arial}
 ---
 
 ######################################################################################################################################################################
@@ -19,17 +18,6 @@ header-includes:
 }
 
 
-######################################################################################################################################################################
-
-\vspace{0.25em}
-\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
-_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
-
-**Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
-_General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
 
 ######################################################################################################################################################################
 
@@ -129,7 +117,6 @@ _Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_
 + Aided residents to perform group activities
 + Channeled residents' questions to the nursing staff
 
-\pagebreak
 
 **Volunteer Sales & Stock Coordinator** \hfill Sep 2018 - Jun 2019 \linebreak
 _Scope Charity Shop & Tenovus Cancer Care Charity Shop
@@ -142,6 +129,9 @@ _Scope Charity Shop & Tenovus Cancer Care Charity Shop
 + Created accounting records and priced items for sales events
 + Assisted in developing marketing campaigns for store promotion
 + Rearranged store merchandise to enhance customer experience
+
+
+\pagebreak
 
 
 ######################################################################################################################################################################
@@ -188,9 +178,6 @@ _Arvin Zaker, Arvind Mer_
 
 ######################################################################################################################################################################
 
-
-######################################################################################################################################################################
-
 \vspace{1em}
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
@@ -209,3 +196,14 @@ _Arvin Zaker, Arvind Mer_
 **Academic Excellence Scholarship**, _Cardiff Sixth Form College_ ($14000) \hfill Sep 2018 - Jun 2019
 
 
+######################################################################################################################################################################
+
+\vspace{0.25em}
+\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
+_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
+
+**Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
+_General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
