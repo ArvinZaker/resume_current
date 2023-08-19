@@ -182,8 +182,9 @@ _Arvin Zaker, Arvind Mer_
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**NSERC - Undergraduate Student Research Awards (USRA)** ($7500) \hfill May 2023 - Aug 2023
+**CPR level C** \hfill July 2023
 
+**NSERC - Undergraduate Student Research Awards (USRA)** ($7500) \hfill May 2023 - Aug 2023
 
 **TMM Summer Training & Work in Biomedical Research Scholarship** ($8200) \hfill May 2022 - Aug 2022
 
