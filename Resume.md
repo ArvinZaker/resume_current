@@ -63,6 +63,8 @@ _Arvin Zaker, Arvind Mer_
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
+**CPR level C** \hfill July 2023
+
 **NSERC - Undergraduate Student Research Awards (USRA)** ($7500) \hfill May 2023 - Aug 2023
 
 
@@ -200,6 +202,8 @@ _Scope Charity Shop & Tenovus Cancer Care Charity Shop
 \vspace{1em}
 \flushleft{\large{\textbf{VOLUNTEER EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
+
+
 
 **Lets Talk Science Presenter** \hfill Jan 2021 - Present \linebreak
 _University of Ottawa \hfill Ottawa, ON_
