@@ -88,17 +88,40 @@ Center Cardiff, UK
 Fundraising event participant Jan 2016 Allameh Helli 3 High School
 Tehran, IR
 
-Large-scale phenogenomic analysis of human cancers uncovers frequent
-alterations affecting SMC5/6 complex components in breast cancer (under
-revision in NAR Cancer) Shamayita Roy, Arvin Zaker, Arvind Mer & Damien
-D’Amours
+University of Ottawa Sep 2019 - Apr 2023 Honours Bachelor of Science
+(H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) Ottawa,
+ON
 
-Text-Mining Based Feature Selection for Anticancer Drug Response
-Prediction (submitted to Brief. Bioinform.) Grace Wu, Arvin Zaker,
-Shivanshi Tripathi, Arvind Mer
+Roy S., Zaker, A., Mer, A., D’Amours, D. (2023). Large-scale
+phenogenomic analysis of human cancers uncovers frequent alterations
+affecting SMC5/6 complex components in breast cancer, NAR Cancer, 5(3).
+DOI: 10.1093/narcan/zcad047.
 
-Comprehensive analysis of drug response metrics in patient-derived
-xenografts (in preperation) Arvin Zaker, Arvind Mer
+Wu, G., Zaker, A., Tripathi, S., Mer, A. (2023). Text-Mining Based
+Feature Selection for Anticancer Drug Response Prediction. (submitted to
+Briefings in Bioinformatics)
+
+Roy, S., Zaker, A., Mer, A., D’Amours, D. (2023). Large-scale
+phenogenomic analysis of human cancers uncovers frequent alterations
+affecting SMC5/6 complex components. Canadian Society for Molecular
+Biosciences (CSMB) International Conference. Ottawa, ON.
+
+Zaker, A., Mer, A. (2022). Comparative analysis of drug response metrics
+in patient-derived xenografts. 4th Annual Faculty of Medicine Research
+Day. Ottawa, ON.
+
+Friesen, R., Algharbi S., Zaker, A., Mahdi, O., Gao, R., Ferri, O., et
+al. (2022). Investigating Nucleotide-binding Proteins in Bacteriophage
+JohnDoe. SEA Symposium. University of Pittsburgh, Pittsburgh, PA.
+
+Featherstone, A., Radar, A., Salama, A., Tiukuvaara, S., Ferri, O.,
+Zaker, A., et al. (2022). Give Us a Millet of Your Time: Dehusking the
+Singleton Bacteriophage Arzan. SEA Symposium. University of Pittsburgh,
+Pittsburgh, PA.
+
+Zaker, A., McRae, C., Renaud, J.M. (2021). Role of Adenosine Receptors
+on mice skeletal muscle fatigue kinetics. UROP symposium. University of
+Ottawa, Ottawa, ON.
 
 CPR level C July 2023
 
@@ -117,10 +140,3 @@ Admission Scholarship, University of Ottawa ($3000) Sep 2019 - Apr 2020
 
 Academic Excellence Scholarship, Cardiff Sixth Form College ($14000) Sep
 2018 - Jun 2019
-
-University of Ottawa Sep 2019 - Apr 2023 Honours Bachelor of Science
-(H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) Ottawa,
-ON
-
-Cardiff Sixth Form College Sep 2018 - Jun 2019 General Certificate of
-Education Advanced Subsidiary Level (Avg: 100%) Cardiff, UK

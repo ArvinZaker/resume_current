@@ -14,7 +14,8 @@ header-includes:
 
 \centering{\href{mailto:arv.zaker@gmail.com}{\underline{\textsc{\faEnvelopeO} arv.zaker@gmail.com}} |
 \href{tel:613-614-9254}{\underline{\textsc{\faPhone} (613) 614-9254}} |
-\href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} 
+\href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} |
+\href{https://maps.app.goo.gl/93Aa52uVEPFjfEw86}{\underline{\textsc{\faMapMarker}   Richmond Hill, ON}}
 }
 
 
@@ -162,18 +163,44 @@ _Allameh Helli 3 High School \hfill Tehran, IR_
 
 ######################################################################################################################################################################
 
-\vspace{1em}
-\flushleft{\large{\textbf{PUBLICATIONS}}} \vspace{-1em}
+\vspace{0.25em}
+\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer** \hfill (under revision in NAR Cancer) \linebreak
-_Shamayita Roy, Arvin Zaker, Arvind Mer & Damien D’Amours_ 
+**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
+_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
 
-**Text-Mining Based Feature Selection for Anticancer Drug Response Prediction** \hfill (submitted to Brief. Bioinform.) \linebreak
-_Grace Wu, Arvin Zaker, Shivanshi Tripathi, Arvind Mer_ 
+######################################################################################################################################################################
 
-**Comprehensive analysis of drug response metrics in patient-derived xenografts** \hfill (in preperation) \linebreak
-_Arvin Zaker, Arvind Mer_ 
+\vspace{1em}
+\flushleft{\large{\textbf{PUBLICATIONS \& PRESENTATIONS}}} \vspace{-1em}
+\noindent\rule{19.1cm}{0.5pt}
+
+Roy S., **Zaker, A.**, Mer, A., D’Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer, NAR Cancer, 5(3). DOI: [10.1093/narcan/zcad047](https://doi.org/10.1093%2Fnarcan%2Fzcad047).
+
+Wu, G., **Zaker, A.**, Tripathi, S., Mer, A. (2023). Text-Mining Based Feature Selection for Anticancer Drug Response Prediction. (submitted to Briefings in Bioinformatics) 
+
+Roy, S., **Zaker, A.**, Mer, A., D'Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components. _Canadian Society for Molecular Biosciences (CSMB) International Conference_. Ottawa, ON. 
+
+
+**Zaker, A.**, Mer, A. (2022). Comparative analysis of drug response metrics in patient-derived xenografts. _4th Annual Faculty of Medicine Research Day._
+Ottawa, ON.
+
+
+Friesen, R., Algharbi S., **Zaker, A.**, Mahdi, O., Gao, R., Ferri, O., et al. (2022). 
+Investigating
+Nucleotide-binding Proteins in Bacteriophage JohnDoe. 
+_SEA Symposium_.
+University of Pittsburgh, Pittsburgh, PA. 
+
+Featherstone, A., Radar, A., Salama, A., Tiukuvaara, S., Ferri, O., **Zaker, A.**, et al. (2022).
+Give Us a Millet of Your Time: Dehusking the Singleton Bacteriophage Arzan.
+_SEA Symposium_.
+University of Pittsburgh, Pittsburgh, PA. 
+
+**Zaker, A.**, McRae, C., Renaud, J.M. (2021). Role of Adenosine Receptors on
+mice skeletal muscle fatigue kinetics. _UROP symposium._ University of Ottawa, Ottawa, ON. 
+
 
 
 ######################################################################################################################################################################
@@ -181,6 +208,7 @@ _Arvin Zaker, Arvind Mer_
 \vspace{1em}
 \flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
+
 
 **CPR level C** \hfill July 2023
 
@@ -195,16 +223,3 @@ _Arvin Zaker, Arvind Mer_
 **Admission Scholarship**, _University of Ottawa_ ($3000) \hfill Sep 2019 - Apr 2020 
 
 **Academic Excellence Scholarship**, _Cardiff Sixth Form College_ ($14000) \hfill Sep 2018 - Jun 2019
-
-
-######################################################################################################################################################################
-
-\vspace{0.25em}
-\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
-_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
-
-**Cardiff Sixth Form College** \hfill Sep 2018 - Jun 2019 \linebreak
-_General Certificate of Education Advanced Subsidiary Level (Avg: 100%) \hfill Cardiff, UK_
