@@ -27,9 +27,9 @@ header-includes:
 \flushleft{\large{\textbf{SKILLS}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-+ **Programming languages**: R, Python, Bash
++ **Programming languages**: R, Python, Bash, Nix
 + **Software**: ImageJ, Imiris, Microsoft Office Suite
-+ **Bioinformatic skills**: Transcriptomic and genomic analysis, bioinformatic pipeline development
++ **Bioinformatic skills**: Transcriptomic & genomic analysis, data visualization, machine learning, pipeline development
 + **Operating systems:** Linux, Windows
 + **Lab techniques**: phage extraction and amplification, fluorescent imaging, electrophysiological recordings
 
@@ -40,6 +40,18 @@ header-includes:
 \flushleft{\large{\textbf{WORK EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
+**Tutor** \hfill Sep 2023 - Present \linebreak
+_Oxford Learning Center \hfill Richmond Hill, ON_ 
+
+\vspace{-0.5em}
+
++ Provide personalized tutoring to students from Kindergarden to University.
++ Efficiently managing multiple students' learning plans to encourage growth and success.
++ Fostering trust and open communication to collaboratively set and achieve academic goals.
++ Implement strategies to promote critical thinking and problem-solving skills.
+
+
+\vspace{0.5em}
 
 
 **Bioinformatics Researcher** \hfill Sep 2022 - Present \linebreak
@@ -50,11 +62,14 @@ _University of Ottawa \hfill Ottawa, ON_
 + Creating computation tools for analyzing cancer drug response 
 + Developing novel _in vivo_ drug response quantification metrics
 + Correlational study between cancer gene biomarkers and drug response
++ Creating machine learning models to translate _in vivo_ results to clinical practice
 + Open source package development and developing analysis pipelines
 
 
 
 \vspace{0.5em}
+
+
 
 
 **Patient Care Coordinator & Receptionist** \hfill Sep 2022 - June 2023 \linebreak
@@ -108,28 +123,17 @@ _University of Ottawa \hfill Ottawa, ON_
 + Performing antibody staining, fluorescent imaging, and analysis of muscle tissue in the Imiris program
 
 
-**Family Visitor and Program Assistant (Volunteer)** \hfill Feb 2020 - May 2020 \linebreak
-_Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_
 
 
-\vspace{-0.5em}
-
-+ Communicated effectively with residents
-+ Aided residents to perform group activities
-+ Channeled residents' questions to the nursing staff
-
-
-**Volunteer Sales & Stock Coordinator** \hfill Sep 2018 - Jun 2019 \linebreak
+**Sales & Stock Coordinator** \hfill Sep 2018 - Jun 2019 \linebreak
 _Scope Charity Shop & Tenovus Cancer Care Charity Shop
 \hfill Cardiff, UK_
 
 \vspace{-0.5em}
 
-+ Collaborated with volunteer teams across two charity shops
++ Collaborated with teams across two charity shops
 + Managed sales, customer service, and donation tracking
-+ Created accounting records and priced items for sales events
-+ Assisted in developing marketing campaigns for store promotion
-+ Rearranged store merchandise to enhance customer experience
++ Assisted in developing marketing campaigns and sales events for store promotion
 
 
 \pagebreak
@@ -141,21 +145,23 @@ _Scope Charity Shop & Tenovus Cancer Care Charity Shop
 \flushleft{\large{\textbf{VOLUNTEER EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-**Lets Talk Science Presenter** \hfill Jan 2021 - Present \linebreak
+**Lets Talk Science Presenter** \hfill Jan 2021 - Dec 2021 \linebreak
 _University of Ottawa \hfill Ottawa, ON_
 
-**Founder of the University of Ottawa Canadians Sharing Locally and Globally** \hfill Dec 2020 - Present \linebreak
+**Founder of the University of Ottawa Canadians Sharing Locally and Globally** \hfill Dec 2020 - Apr 2023 \linebreak
 _University of Ottawa Canadians Sharing Locally and Globally \hfill Ottawa, ON_
 
-**Volunteer Coordinator & Co-Chair at Best Buddies club** \hfill Sep 2020 - Present \linebreak 
+**Coordinator & Co-Chair at Best Buddies club** \hfill Sep 2020 - Sept 2023 \linebreak 
 _Best Buddies club \hfill Ottawa, ON_
 
 **Founder and Coordinator of Hands on Health Magazine** \hfill Jun 2020 - Present \linebreak
 _Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
 
+**Family Visitor and Program Assistant** \hfill Feb 2020 - May 2020 \linebreak
+_Garry J Armstrong Long Term Care Centre \hfill Ottawa, ON_
+
 **Childcare work experience** \hfill Apr 2019 \linebreak
 _Cylch Meithrin Trelai Child Care Center \hfill Cardiff, UK_
-
 
 **Fundraising event participant**  \hfill Jan 2016 \linebreak
 _Allameh Helli 3 High School \hfill Tehran, IR_
@@ -178,7 +184,7 @@ _Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CG
 
 Roy S., **Zaker, A.**, Mer, A., D’Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer, NAR Cancer, 5(3). DOI: [10.1093/narcan/zcad047](https://doi.org/10.1093%2Fnarcan%2Fzcad047).
 
-Wu, G., **Zaker, A.**, Tripathi, S., Mer, A. (2023). Text-Mining Based Feature Selection for Anticancer Drug Response Prediction. (submitted to Briefings in Bioinformatics) 
+Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S. & Mer, A. S. Text-mining-based feature selection for anticancer drug response prediction. Bioinformatics Advances 4, vbae047 (2024). DOI [10.1093/bioadv/vbae047](https://doi-org.proxy.bib.uottawa.ca/10.1093/bioadv/vbae047)
 
 Roy, S., **Zaker, A.**, Mer, A., D'Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components. _Canadian Society for Molecular Biosciences (CSMB) International Conference_. Ottawa, ON. 
 
