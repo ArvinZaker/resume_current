@@ -1,10 +1,24 @@
--   Programming languages: R, Python, Bash, Nix
--   Software: ImageJ, Imiris, Microsoft Office Suite
--   Bioinformatic skills: Transcriptomic & genomic analysis, data
-    visualization, machine learning, pipeline development
--   Operating systems: Linux, Windows
--   Lab techniques: phage extraction and amplification, fluorescent
-    imaging, electrophysiological recordings
+Highly motivated and detail-oriented research professional with
+background in bioinformatics, molecular medicine research. Proven track
+record in developing computational tools for cancer research, conducting
+genomic and transcriptomic data analysis, and creating machine learning
+models. Strong programming skills in R and Python with wet-lab
+experience in cell culture and microscopy. Strong ability to collaborate
+effectively with multi-disciplinary teams and publish findings in
+high-impact journals. I am dedicated to advancing scientific knowledge
+and contributing impactful research in a dynamic and innovative
+environment.
+
+Research Assistant Nov 2023 - Present University of Ottawa and York
+University Ottawa and Toronto, ON
+
+-   Creating and optimizing computation tools for genomic and epigenomic
+    research
+-   Building and training deep learning models from extensive biological
+    databases to identify cancer biomarkers and predict clinical
+    outcomes
+-   Designing and implementing pipelines for analyzing outcomes of
+    psychological experiments
 
 Tutor Sep 2023 - Present Oxford Learning Center Richmond Hill, ON
 
@@ -17,7 +31,7 @@ Tutor Sep 2023 - Present Oxford Learning Center Richmond Hill, ON
 -   Implement strategies to promote critical thinking and
     problem-solving skills.
 
-Bioinformatics Researcher Sep 2022 - Present University of Ottawa
+Bioinformatics Researcher Sep 2022 - Oct 2023 University of Ottawa
 Ottawa, ON
 
 -   Creating computation tools for analyzing cancer drug response
@@ -40,10 +54,9 @@ Medical Clinic Ottawa, ON
 Undergraduate Trainee - Laboratory rotations & TST program Jan 2022 -
 Aug 2022 University of Ottawa Ottawa, ON
 
--   Utilized the R programming language in genomic and transcriptomic
-    data analysis
+-   Performing genomic and transcriptomic data analysis in pan-cancer
+    clinical databases
 -   Cancer phenotype and survival analysis of novel DNA repair complexes
--   Data extraction and processing from Pan-cancer databases
 -   Utilizing text mining algorithms for biomarker discovery
 
 Undergraduate Trainee - SEA-PHAGES program Sep 2021 - Apr 2022
@@ -66,14 +79,6 @@ Ottawa Ottawa, ON
 -   Performing antibody staining, fluorescent imaging, and analysis of
     muscle tissue in the Imiris program
 
-Sales & Stock Coordinator Sep 2018 - Jun 2019 Scope Charity Shop &
-Tenovus Cancer Care Charity Shop Cardiff, UK
-
--   Collaborated with teams across two charity shops
--   Managed sales, customer service, and donation tracking
--   Assisted in developing marketing campaigns and sales events for
-    store promotion
-
 Lets Talk Science Presenter Jan 2021 - Dec 2021 University of Ottawa
 Ottawa, ON
 
@@ -87,50 +92,19 @@ Buddies club Ottawa, ON
 Founder and Coordinator of Hands on Health Magazine Jun 2020 - Present
 Interprofessional Health Association (IPHA) club Ottawa, ON
 
-Family Visitor and Program Assistant Feb 2020 - May 2020 Garry J
-Armstrong Long Term Care Centre Ottawa, ON
-
-Childcare work experience Apr 2019 Cylch Meithrin Trelai Child Care
-Center Cardiff, UK
-
-Fundraising event participant Jan 2016 Allameh Helli 3 High School
-Tehran, IR
+Sales & Stock Coordinator Sep 2018 - Jun 2019 Scope Charity Shop &
+Tenovus Cancer Care Charity Shop Cardiff, UK
 
 University of Ottawa Sep 2019 - Apr 2023 Honours Bachelor of Science
 (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) Ottawa,
 ON
 
-Roy S., Zaker, A., Mer, A., D’Amours, D. (2023). Large-scale
-phenogenomic analysis of human cancers uncovers frequent alterations
-affecting SMC5/6 complex components in breast cancer, NAR Cancer, 5(3).
-DOI: 10.1093/narcan/zcad047.
-
-Wu, G., Zaker, A., Ebrahimi, A., Tripathi, S. & Mer, A. S.
-Text-mining-based feature selection for anticancer drug response
-prediction. Bioinformatics Advances 4, vbae047 (2024). DOI
-10.1093/bioadv/vbae047
-
-Roy, S., Zaker, A., Mer, A., D’Amours, D. (2023). Large-scale
-phenogenomic analysis of human cancers uncovers frequent alterations
-affecting SMC5/6 complex components. Canadian Society for Molecular
-Biosciences (CSMB) International Conference. Ottawa, ON.
-
-Zaker, A., Mer, A. (2022). Comparative analysis of drug response metrics
-in patient-derived xenografts. 4th Annual Faculty of Medicine Research
-Day. Ottawa, ON.
-
-Friesen, R., Algharbi S., Zaker, A., Mahdi, O., Gao, R., Ferri, O., et
-al. (2022). Investigating Nucleotide-binding Proteins in Bacteriophage
-JohnDoe. SEA Symposium. University of Pittsburgh, Pittsburgh, PA.
-
-Featherstone, A., Radar, A., Salama, A., Tiukuvaara, S., Ferri, O.,
-Zaker, A., et al. (2022). Give Us a Millet of Your Time: Dehusking the
-Singleton Bacteriophage Arzan. SEA Symposium. University of Pittsburgh,
-Pittsburgh, PA.
-
-Zaker, A., McRae, C., Renaud, J.M. (2021). Role of Adenosine Receptors
-on mice skeletal muscle fatigue kinetics. UROP symposium. University of
-Ottawa, Ottawa, ON.
+-   Programming languages: R, Python, Bash, Nix
+-   Software: ImageJ, Imiris, Microsoft Office Suite
+-   Bioinformatic skills: Transcriptomic & genomic analysis, data
+    visualization, machine learning, pipeline development
+-   Lab techniques: phage extraction and amplification, fluorescent
+    imaging, electrophysiological recordings
 
 CPR level C July 2023
 
@@ -145,7 +119,38 @@ UROP Scholarship, University of Ottawa ($1000) Dec 2020 - Apr 2021
 Dean’s Honour List & Merit Scholarship, University of Ottawa ($1000 per
 term) Sep 2019 - Present
 
-Admission Scholarship, University of Ottawa ($3000) Sep 2019 - Apr 2020
+Nasser, F., Gaudreau, A., Lubega, S., Zaker, A. et al. (2024).
+Characterization of the diversity of type IV secretion system-encoding
+plasmids in Acinetobacter. Emerg Microbes Infect. DOI:
+10.1080/22221751.2024.2320929
 
-Academic Excellence Scholarship, Cardiff Sixth Form College ($14000) Sep
-2018 - Jun 2019
+Wu, G., Zaker, A., Ebrahimi, A., Tripathi, S. & Mer, A. (2024).
+Text-mining-based feature selection for anticancer drug response
+prediction. Bioinformatics Advances. DOI: 10.1093/bioadv/vbae047
+
+Roy S., Zaker, A., Mer, A., D’Amours, D. (2023). Large-scale
+phenogenomic analysis of human cancers uncovers frequent alterations
+affecting SMC5/6 complex components in breast cancer, NAR Cancer. DOI:
+10.1093/narcan/zcad047.
+
+Roy, S., Zaker, A., Mer, A., D’Amours, D. (2023). Large-scale
+phenogenomic analysis of human cancers uncovers frequent alterations
+affecting SMC5/6 complex components. Canadian Society for Molecular
+Biosciences Conference. Ottawa, ON.
+
+Zaker, A., Mer, A. (2022). Comparative analysis of drug response metrics
+in patient-derived xenografts. 4th Annual Faculty of Medicine Research
+Day. Ottawa, ON.
+
+Friesen, R., Algharbi S., Zaker, A., et al. (2022). Investigating
+Nucleotide-binding Proteins in Bacteriophage JohnDoe. SEA Symposium.
+University of Pittsburgh, Pittsburgh, PA.
+
+Featherstone, A., Radar, A., Salama, A., Tiukuvaara, S., Ferri, O.,
+Zaker, A., et al. (2022). Give Us a Millet of Your Time: Dehusking the
+Singleton Bacteriophage Arzan. SEA Symposium. University of Pittsburgh,
+Pittsburgh, PA.
+
+Zaker, A., McRae, C., Renaud, J.M. (2021). Role of Adenosine Receptors
+on mice skeletal muscle fatigue kinetics. UROP symposium. University of
+Ottawa, Ottawa, ON.
