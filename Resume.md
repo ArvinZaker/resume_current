@@ -25,8 +25,8 @@ header-includes:
 \flushleft{\large{\textbf{SUMMARY}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
+Highly motivated and community-oriented individual with a diverse background in scientific research, tutoring, and volunteering. Proven track record in leading and organizing community initiatives, including founding university clubs. Strong communication skills developed through collaborative research projects. Experienced in working with diverse populations. Committed to making a positive impact through volunteer work, where I can apply my interpersonal skills to fostering inclusive environments and promote knowledge sharing within the community.
 
-Highly motivated and detail-oriented research professional with background in bioinformatics, molecular medicine research. Proven track record in developing computational tools for cancer research, conducting genomic and transcriptomic data analysis, and creating machine learning models. Strong programming skills in R and Python with wet-lab experience in cell culture and microscopy. Strong ability to collaborate effectively with multi-disciplinary teams and publish findings in high-impact journals. I am dedicated to advancing scientific knowledge and contributing impactful research in a dynamic and innovative environment.
 
 
 
