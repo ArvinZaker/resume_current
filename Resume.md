@@ -15,8 +15,7 @@ header-includes:
 \centering{\href{mailto:arv.zaker@gmail.com}{\underline{\textsc{\faEnvelopeO} arv.zaker@gmail.com}} |
 \href{tel:613-614-9254}{\underline{\textsc{\faPhone} (613) 614-9254}} |
 \href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} |
-\textsc{\faMapMarker}   Richmond Hill, ON}
-}
+\textsc{\faMapMarker}   Thornhill, ON}
 
 ######################################################################################################################################################################
 
@@ -25,8 +24,7 @@ header-includes:
 \flushleft{\large{\textbf{SUMMARY}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
 
-Highly motivated and community-oriented individual with a diverse background in scientific research, tutoring, and volunteering. Proven track record in leading and organizing community initiatives, including founding university clubs. Strong communication skills developed through collaborative research projects. Experienced in working with diverse populations. Committed to making a positive impact through volunteer work, where I can apply my interpersonal skills to fostering inclusive environments and promote knowledge sharing within the community.
-
+Highly motivated and community-oriented individual with a diverse background in scientific research, tutoring, and volunteering. Proven track record in leading and organizing community initiatives, including founding university clubs. Strong communication skills developed through collaborative research projects. Experienced in working with diverse populations. Committed to making a positive impact through tutoring, where I can apply my interpersonal skills and experience to foster an inclusive education environment and promote academic excellence within the community.
 
 
 
@@ -34,6 +32,18 @@ Highly motivated and community-oriented individual with a diverse background in 
 \vspace{1em}
 \flushleft{\large{\textbf{PROFESSIONAL EXPERIENCE}}} \vspace{-1em}
 \noindent\rule{19.1cm}{0.5pt}
+
+**Tutor** \hfill Sep 2023 - Present \linebreak
+_Oxford Learning \hfill Oak Ridges, ON_ 
+
+\vspace{-0.5em}
+
++ Provide personalized tutoring to students from Kindergarden to University across all STEM topics.
++ Efficiently managing multiple students' learning plans to encourage growth and success.
++ Fostering trust and open communication to collaboratively set and achieve academic goals.
++ Implement strategies to promote critical thinking and problem-solving skills.
+
+\vspace{0.5em}
 
 
 **Research Assistant** \hfill Nov 2023 - Present \linebreak
@@ -45,16 +55,6 @@ _University of Ottawa and York University \hfill Ottawa and Toronto, ON_
 + Building and training deep learning models from extensive biological databases to identify cancer biomarkers and predict clinical outcomes
 + Designing and implementing pipelines for analyzing outcomes of psychological experiments
 
-
-**Tutor** \hfill Sep 2023 - Present \linebreak
-_Oxford Learning Center \hfill Richmond Hill, ON_ 
-
-\vspace{-0.5em}
-
-+ Provide personalized tutoring to students from Kindergarden to University.
-+ Efficiently managing multiple students' learning plans to encourage growth and success.
-+ Fostering trust and open communication to collaboratively set and achieve academic goals.
-+ Implement strategies to promote critical thinking and problem-solving skills.
 
 
 \vspace{0.5em}

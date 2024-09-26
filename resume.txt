@@ -1,13 +1,23 @@
-}
-
 Highly motivated and community-oriented individual with a diverse
 background in scientific research, tutoring, and volunteering. Proven
 track record in leading and organizing community initiatives, including
 founding university clubs. Strong communication skills developed through
 collaborative research projects. Experienced in working with diverse
-populations. Committed to making a positive impact through volunteer
-work, where I can apply my interpersonal skills to fostering inclusive
-environments and promote knowledge sharing within the community.
+populations. Committed to making a positive impact through tutoring,
+where I can apply my interpersonal skills and experience to foster an
+inclusive education environment and promote academic excellence within
+the community.
+
+Tutor Sep 2023 - Present Oxford Learning Oak Ridges, ON
+
+-   Provide personalized tutoring to students from Kindergarden to
+    University across all STEM topics.
+-   Efficiently managing multiple students’ learning plans to encourage
+    growth and success.
+-   Fostering trust and open communication to collaboratively set and
+    achieve academic goals.
+-   Implement strategies to promote critical thinking and
+    problem-solving skills.
 
 Research Assistant Nov 2023 - Present University of Ottawa and York
 University Ottawa and Toronto, ON
@@ -19,17 +29,6 @@ University Ottawa and Toronto, ON
     outcomes
 -   Designing and implementing pipelines for analyzing outcomes of
     psychological experiments
-
-Tutor Sep 2023 - Present Oxford Learning Center Richmond Hill, ON
-
--   Provide personalized tutoring to students from Kindergarden to
-    University.
--   Efficiently managing multiple students’ learning plans to encourage
-    growth and success.
--   Fostering trust and open communication to collaboratively set and
-    achieve academic goals.
--   Implement strategies to promote critical thinking and
-    problem-solving skills.
 
 Bioinformatics Researcher Sep 2022 - Oct 2023 University of Ottawa
 Ottawa, ON
