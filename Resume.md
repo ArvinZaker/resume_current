@@ -1,224 +1,384 @@
 ---
 output: pdf_document
 papersize: letter
-geometry: margin=1.2cm
+geometry: margin=1in
+fontsize: 11pt
+numbersections: true
+linkReferences: true
+nameInLink: false
+colorlinks: false
 header-includes:
   - \usepackage{fontspec}
   - \usepackage{fontawesome}
 ---
 
 ######################################################################################################################################################################
+
+
 \title{\vspace{-3.5em}\textbf{Arvin Zaker}\vspace{-3.5em}}
 \maketitle
 
+\centering{\href{mailto:arvzaker@student.ubc.ca}{\underline{\textsc{\faEnvelopeO} arvzaker@student.ubc.ca}} |
+\href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} }
 
-\centering{\href{mailto:arv.zaker@gmail.com}{\underline{\textsc{\faEnvelopeO} arv.zaker@gmail.com}} |
-\href{tel:613-614-9254}{\underline{\textsc{\faPhone} (613) 614-9254}} |
-\href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} |
-\textsc{\faMapMarker}   Thornhill, ON}
-
-######################################################################################################################################################################
-
-
-\vspace{1em}
-\flushleft{\large{\textbf{SUMMARY}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-Highly motivated and community-oriented individual with a diverse background in scientific research, tutoring, and volunteering. Proven track record in leading and organizing community initiatives, including founding university clubs. Strong communication skills developed through collaborative research projects. Experienced in working with diverse populations. Committed to making a positive impact through tutoring, where I can apply my interpersonal skills and experience to foster an inclusive education environment and promote academic excellence within the community.
-
-
-
-######################################################################################################################################################################
-\vspace{1em}
-\flushleft{\large{\textbf{PROFESSIONAL EXPERIENCE}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**Tutor** \hfill Sep 2023 - Present \linebreak
-_Oxford Learning \hfill Oak Ridges, ON_ 
-
-\vspace{-0.5em}
-
-+ Provide personalized tutoring to students from Kindergarden to University across all STEM topics.
-+ Efficiently managing multiple students' learning plans to encourage growth and success.
-+ Fostering trust and open communication to collaboratively set and achieve academic goals.
-+ Implement strategies to promote critical thinking and problem-solving skills.
-
-\vspace{0.5em}
-
-
-**Research Assistant** \hfill Nov 2023 - Present \linebreak
-_University of Ottawa and York University \hfill Ottawa and Toronto, ON_ 
-
-\vspace{-0.5em}
-
-+ Creating and optimizing computation tools for genomic and epigenomic research
-+ Building and training deep learning models from extensive biological databases to identify cancer biomarkers and predict clinical outcomes
-+ Designing and implementing pipelines for analyzing outcomes of psychological experiments
-
-
-
-\vspace{0.5em}
-
-
-**Bioinformatics Researcher** \hfill Sep 2022 - Oct 2023 \linebreak
-_University of Ottawa \hfill Ottawa, ON_ 
-
-\vspace{-0.5em}
-
-+ Creating computation tools for analyzing cancer drug response 
-+ Developing novel _in vivo_ drug response quantification metrics
-+ Correlational study between cancer gene biomarkers and drug response
-+ Creating machine learning models to translate _in vivo_ results to clinical practice
-+ Open source package development and developing analysis pipelines
-
-
-
-\vspace{0.5em}
-
-
-
-
-**Patient Care Coordinator & Receptionist** \hfill Sep 2022 - June 2023 \linebreak
-_Chadha Medical Clinic \hfill Ottawa, ON_
-
-\vspace{-0.5em}
-
-+ Assisted with appointment scheduling, referrals, and testing coordination to 30+ patients weekly
-+ Collaborated with the medical team and to address patients' unique needs and backgrounds.
-+ Ensuring timely follow-ups and patient satisfaction in a fast-paced environment
-
-
-\vspace{0.5em}
-
-
-**Undergraduate Trainee - Laboratory rotations & TST program** \hfill Jan 2022 - Aug 2022 \linebreak
-_University of Ottawa \hfill Ottawa, ON_ 
-
-
-\vspace{-0.5em}
-
-+ Performing genomic and transcriptomic data analysis in pan-cancer clinical databases
-+ Cancer phenotype and survival analysis of novel DNA repair complexes
-+ Utilizing text mining algorithms for biomarker discovery
-
-
-\vspace{0.5em}
-
-**Undergraduate Trainee - SEA-PHAGES program** \hfill Sep 2021 - Apr 2022 \linebreak
-_University of Ottawa \hfill Ottawa, ON_
-
-
-\vspace{-0.5em}
-
-+ Performed environmental sampling and phage extraction techniques
-+ Performed DNA extraction and genomic analysis via gel electrophoresis
-+ Used Python and ImageJ to analyze the restriction digest pattern of phages
-+ Phage discovery and characterization (Arzan and Khorshid)
-
-\vspace{0.5em}
-
-**Research Assistant - UROP program**  \hfill Nov 2020 - Jul 2022 \linebreak     
-_University of Ottawa \hfill Ottawa, ON_
-
-
-\vspace{-0.5em}
-
-+ Designing experiments and setting up research equipment for data collection
-+ Performing experiments on mouse muscles using electrophysiological equipment
-+ Performing antibody staining, fluorescent imaging, and analysis of muscle tissue in the Imiris program
-
-
+\flushleft
 
 ######################################################################################################################################################################
 
-\vspace{1em}
-\flushleft{\large{\textbf{VOLUNTEER EXPERIENCE}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
 
-**Lets Talk Science Presenter** \hfill Jan 2021 - Dec 2021 \linebreak
-_University of Ottawa \hfill Ottawa, ON_
+\vspace{-0.5em}
 
-**Founder of the University of Ottawa Canadians Sharing Locally and Globally** \hfill Dec 2020 - Apr 2023 \linebreak
-_University of Ottawa Canadians Sharing Locally and Globally \hfill Ottawa, ON_
+# Educational Background
 
-**Coordinator & Co-Chair at Best Buddies club** \hfill Sep 2020 - Sept 2023 \linebreak 
-_Best Buddies club \hfill Ottawa, ON_
+**Doctor of Medicine |  (August 2025 - Present)** 
 
-**Founder and Coordinator of Hands on Health Magazine** \hfill Jun 2020 - Present \linebreak
-_Interprofessional Health Association (IPHA) club \hfill Ottawa, ON_
-
-**Sales & Stock Coordinator** \hfill Sep 2018 - Jun 2019 \linebreak
-_Scope Charity Shop & Tenovus Cancer Care Charity Shop
-\hfill Cardiff, UK_
-
-######################################################################################################################################################################
+_University of British Columbia, Ottawa, ON_
 
 \vspace{0.25em}
-\flushleft{\large{\textbf{EDUCATION}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
-
-**University of Ottawa** \hfill Sep 2019 - Apr 2023 \linebreak
-_Honours Bachelor of Science (H.BSc) in Translational and Molecular Medicine (CGPA: 9.98/10) \hfill Ottawa, ON_
 
 
-######################################################################################################################################################################
+**Honours Bachelor of Science - Translational and Molecular Medicine |  (September 2019 - April 2023)** 
 
-\vspace{1em}
-\flushleft{\large{\textbf{SKILLS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
+_University of Ottawa, Ottawa, ON_
 
-+ **Programming languages**: R, Python, Bash, Nix
-+ **Software**: ImageJ, Imiris, Microsoft Office Suite
-+ **Bioinformatic skills**: Transcriptomic & genomic analysis, data visualization, machine learning, pipeline development
-+ **Lab techniques**: phage extraction and amplification, fluorescent imaging, electrophysiological recordings
+\vspace{-0.25em}
+
+- Major Research Project Supervisor: Dr. Arvind Mer
+- Major Research Project Title: Comparative analysis of drug response metrics in patient-derived xenografts
 
 
 ######################################################################################################################################################################
 
-\vspace{1em}
-\flushleft{\large{\textbf{AWARDS \& ACHIEVEMENTS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
+\vspace{-0.5em}
+
+# Honours, Scholarships and Awards
+
+**NSERC - Undergraduate Student Research Awards (USRA) | (May 2023)**
+
+\vspace{-0.25em}
+
+_University of Ottawa, Ottawa, ON_
+
+\vspace{-0.25em}
+
+- Competitive merit-based award. One of 88 awards available at the University of Ottawa.
+- Selection based on quality and impact of the research proposal.
+- Valued at $7500 for 3 months
+
+\vspace{0.25em}
 
 
-**CPR level C** \hfill July 2023
+**Work in Biomedical Research Scholarship | (May 2022)** 
 
-**NSERC - Undergraduate Student Research Awards (USRA)** ($7500) \hfill May 2023 - Aug 2023
+\vspace{-0.25em}
 
-**TMM Summer Training & Work in Biomedical Research Scholarship** ($8200) \hfill May 2022 - Aug 2022
+_University of Ottawa, Ottawa, ON_
 
-**UROP Scholarship**, _University of Ottawa_ ($1000) \hfill Dec 2020 - Apr 2021
+\vspace{-0.25em}
 
-**Dean's Honour List \& Merit Scholarship**, _University of Ottawa_ ($1000 per term) \hfill Sep 2019 - Present
+- Competitive merit-based award. Under 50% success rate.
+- Selection based on academic performance and the quality of the research proposal.
+- Valued at $3500 for 3 months
 
+\vspace{0.25em}
+
+**TMM Summer Training program | (May 2022)** 
+
+\vspace{-0.25em}
+
+_University of Ottawa, Ottawa, ON_
+
+\vspace{-0.25em}
+
+- Competitive merit-based award. Selection based on based on academic performance and the quality of the research proposal.
+- Valued at $8900 for 3 months.
+
+\vspace{0.25em}
+
+
+**Undergraduate Research Opportunities (UROP) | (December 2020)** 
+
+\vspace{-0.25em}
+
+_University of Ottawa, Ottawa, ON_
+
+\vspace{-0.25em}
+
+- Competitive based award. Selection based on academic performance and the quality of the research proposal.
+- Valued at $1000 for 4 months.
+
+\vspace{0.25em}
+
+**Dean's Honour List & Merit Scholarship | (September 2019 - April 2023)** 
+
+\vspace{-0.25em}
+
+_University of Ottawa, Ottawa, ON_
+
+\vspace{-0.25em}
+
+- Merit-based award. Selection based on grade point average (GPA) in post-secondary studies.
+- Valued at $1000 per term (awarded every term).
+
+\vspace{0.25em}
+
+
+\pagebreak
+
+
+# Research Experience
+
+**Research Assistant – Medical Imaging AI \hfill Feb 2026 – Present**
+
+\vspace{-0.25em}
+
+**Supervisor:** Dr. Ilker Hacihaliloglu
+
+\vspace{-0.25em}
+
+**Contribution:**
+
++ Applied deep learning models for medical image classification on 7 datasets totaling 40,000+ images.
++ Performed radiomic feature extraction and model evaluation across multiple architectures to quantify bias in medical imaging models.
++ Utilized high-performance computing for large-scale training and analysis.
+
+\vspace{0.25em}
+
+**Research Assistant - Epigenomics \hfill March 2024 - Jan 2026**
+
+
+\vspace{-0.25em}
+
+**Supervisor:** Dr. Arvind Mer (Primary Supervisor)
+
+\vspace{-0.25em}
+
+**Contribution:**
+
++ Collaborators: Dr. Ben Tsang, Dr. Gilda Stefanelli, and Dr. Jean-Francois Couture.
++ Perform epigenomic analysis of clinical exosomal DNA samples to identify differentially methylated regions and pathways.
++ Created and optimized Cut&Run epigenomic analysis pipeline to explore the developmental impacts of neurological conditions in mice.
++ Integrated and aggregated multi-omics data from 44 studies and databases.
+
+\vspace{0.25em}
+
+
+**Undergraduate Thesis \hfill September 2022 - Feb 2024**
+
+\vspace{-0.25em}
+
+**Supervisor:** Dr. Arvind Mer
+
+\vspace{-0.25em}
+
+**Title:** Comparative Analysis of Drug Response Metrics for Patient-Derived Xenograft
+
+**Contribution:** 
+
++ Performed literature review to identify common methods of quantifying drug response in patient-derived xenografts (PDX).
++ Developed a package to calculate 250 existing and novel drug response metrics in PDX.
++ Performed biomarker discovery to identify transcriptional markers of drug sensitivity in chemotherapies.
++ Created machine learning algorithms to predict drug response in clinical datasets.
+
+\vspace{0.25em}
+
+**Summer Research Assistant \hfill January 2022 - August 2022** 
+
+\vspace{-0.25em}
+
+**Supervisor:** Dr. Arvind Mer (Primary Supervisor) and Dr. Damien D'Amours
+ 
+
+\vspace{-0.25em}
+
+**Title:** Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer
+
+**Contribution:** 
+
++ Aggregated and combined data from 199 cancer studies to analyze the mutational effects of SMC5/6 DNA repair complex in a pan-cancer cohort.
++ Utilized R programming language to analyze the functional impact of SMC5/6 mutation using transcriptomic data.
++ Performed cancer phenotype and survival analysis to study the clinical implication of SMC5/6.
+
+\vspace{0.25em}
+
+\pagebreak
+
+**Student Research Assistant \hfill September 2021 - April 2022**
+
+**Supervisor:** Dr. Adam Rudner
+
+\vspace{-0.25em}
+
+**Title:** Discovery and Characterization of Phage Arzan and Khorshid
+
+\vspace{-0.25em}
+
+**Contribution:** 
+
++ Performed environmental sampling, phage extraction, and phage amplification assays.
++ Conducted DNA extraction and restriction digest analysis via gel electrophoresis.
++ Discovered and annotated the genome of two novel phages, Arzan and Khorshid.
+
+\vspace{0.25em}
+
+**UROP Research Assistant \hfill November 2020 - July 2022**
+
+\vspace{-0.25em}
+
+**Supervisor:** Dr. Jean-Marc Renaud
+
+\vspace{-0.25em}
+
+**Title:** Role of Adenosine Receptors on Mice Skeletal Muscle Fatigue Kinetics.
+
+**Contribution:** 
+
++ Designed experiments and set up research equipment for data collection.
++ Performed experiments on mouse muscles using electrophysiological equipment.
++ Performed antibody staining, fluorescent imaging, and analysis of muscle tissue in the Imiris program.
 
 ######################################################################################################################################################################
 
-\vspace{1em}
-\flushleft{\large{\textbf{PUBLICATIONS \& PRESENTATIONS}}} \vspace{-1em}
-\noindent\rule{19.1cm}{0.5pt}
+\vspace{-0.5em}
 
+# Publications, Presentations, and Abstracts
 
-Nasser, F., Gaudreau, A., Lubega, S., **Zaker, A.** et al. (2024). Characterization of the diversity of type IV secretion system-encoding plasmids in Acinetobacter. Emerg Microbes Infect. DOI: [10.1080/22221751.2024.2320929](https://doi.org/10.1080/22221751.2024.2320929)
+**Publications**
 
-Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S. & Mer, A. (2024). Text-mining-based feature selection for anticancer drug response prediction. Bioinformatics Advances. DOI: [10.1093/bioadv/vbae047](https://doi-org.proxy.bib.uottawa.ca/10.1093/bioadv/vbae047)
-  
-Roy S., **Zaker, A.**, Mer, A., D’Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer, NAR Cancer. DOI: [10.1093/narcan/zcad047](https://doi.org/10.1093%2Fnarcan%2Fzcad047).
+Asare-Werehene, M., **Zaker, A.**, Tripathi, S., Communal, L., Carmona, E.,
+Mes-Masson, A.-M., Tsang, B. K., & Mer, A. (2025). Spotlight on nuclear PD-L1 in
+ovarian cancer chemoresistance: hidden but mighty. _Frontiers in Immunology_,
+16. \href{https://doi.org/10.3389/fimmu.2025.1543529}{\underline{\textsc{doi:
+10.3389/fimmu.2025.1543529}}}
 
-Roy, S., **Zaker, A.**, Mer, A., D'Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components. _Canadian Society for Molecular Biosciences Conference_. Ottawa, ON. 
+\vspace{0.25em}
 
-**Zaker, A.**, Mer, A. (2022). Comparative analysis of drug response metrics in patient-derived xenografts. _4th Annual Faculty of Medicine Research Day._
-Ottawa, ON.
+Grégoire, S., Grégoire, J., Yang, Y., Capitani, S., Joshi, M., Sarvan, S.,
+**Zaker, A.**, Ning, Z., Figeys, D., Ulrich, K., Brunzelle, J. S., Mer, A., &
+Couture, J.-F. (2024). Structural insights into an atypical histone binding
+mechanism by a PHD finger. _Structure_, 32(9), 1498-1506.e4.
+\href{https://doi.org/10.1016/j.str.2024.06.017}{\underline{\textsc{doi:
+10.1016/j.str.2024.06.017}}}
 
-Friesen, R., Algharbi S., **Zaker, A.**, et al. (2022). 
-Investigating Nucleotide-binding Proteins in Bacteriophage JohnDoe. 
-_SEA Symposium_.
-University of Pittsburgh, Pittsburgh, PA. 
+\vspace{0.25em}
 
-Featherstone, A., Radar, A., Salama, A., Tiukuvaara, S., Ferri, O., **Zaker, A.**, et al. (2022).
+Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S., & Mer, A. S. (2024).
+Text-mining-based feature selection for anticancer drug response prediction.
+_Bioinformatics Advances_, 4(1), vbae047.
+\href{https://doi.org/10.1093/bioadv/vbae047}{\underline{\textsc{doi:
+10.1093/bioadv/vbae047}}}
+
+\vspace{0.25em}
+
+Nasser, F., Gaudreau, A., Lubega, S., **Zaker, A.**, Xia, X., Mer, A. S., &
+D’Costa, V. M. (2024). Characterization of the diversity of type IV secretion
+system-encoding plasmids in Acinetobacter. _Emerging Microbes & Infections_,
+13(1), 2320929.
+\href{https://doi.org/10.1080/22221751.2024.2320929}{\underline{\textsc{doi:
+10.1080/22221751.2024.2320929}}}
+
+\vspace{0.25em}
+
+Roy, S., **Zaker, A.**, Mer, A., & D’Amours, D. (2023). Large-scale phenogenomic
+analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex
+components in breast cancer. _NAR Cancer_, 5(3), zcad047.
+\href{https://doi.org/10.1093/narcan/zcad047}{\underline{\textsc{doi:
+10.1093/narcan/zcad047}}}
+
+\vspace{0.25em}
+
+\pagebreak
+
+**Posters and presentations at scientific meetings**
+
+Roy, S., **Zaker, A.**, Mer, A., D'Amours, D. (2023). Large-scale phenogenomic
+analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex
+components in breast cancer. _Canadian Society for Molecular Biosciences (CSMB)
+International Conference_. Ottawa, ON. (poster and presentation)
+
+\vspace{0.25em}
+
+**Zaker, A.**, Mer, A. (2022). Comparative analysis of drug response metrics in patient-derived xenografts. _4th Annual University of Ottawa Faculty of Medicine Research Day._
+Ottawa, ON. (oral presentation)
+
+\vspace{0.25em}
+
+Friesen, R., Algharbi S., **Zaker, A.**, Mahdi, O., Gao, R., Ferri, O., Li, J.,
+Wang, SY., HeffernanC., Featherstone, A., Radar, A., Gandelman, M., Chander N.,
+Bancud, SE., Rege, I., Shriraam, R., Jung, D., Karunakaran, G., Sarakbi, R.,
+Znamenski, E.,  Ristovski, M., Freitas, JD., McCarthy, L., Williams, EC.,
+D'Ambrosio, L., Chan, K., Wheaton, K., Rudner, AD. (2022). 
+Investigating
+Nucleotide-binding Proteins in Bacteriophage JohnDoe. 
+_SEA Symposium_. Pittsburgh, PA. (abstract & presentation).
+
+\vspace{0.25em}
+
+Featherstone, A., Radar, A., Salama, A., Tiukuvaara, S., Ferri, O., **Zaker, A.**, Algharbi, S., Mahdi, O., Setia, G., Friesen, R., Wang, GY., Li, J., Gao, R., Jung, D., Karunakaran, G., Znamenski, E., Ristovski, M., Sarakbi, R., Freitas, JD., McCarthy, L., Williams, EC., D'Ambrosio, L., Wheaton, K., Rudner AD. (2022).
 Give Us a Millet of Your Time: Dehusking the Singleton Bacteriophage Arzan.
-_SEA Symposium_.
-University of Pittsburgh, Pittsburgh, PA. 
+_SEA Symposium_. Pittsburgh, PA. (abstract & presentation)
+
+\vspace{0.25em}
+
+**Zaker, A.**, McCarthy, L., Jung, D., Karunakaran, G., Rudner, A. (2022). Discovery and characterization of bacteriophage Arzan. _Ottawa, ON._ (poster and presentation)
+
+\vspace{0.25em}
 
 **Zaker, A.**, McRae, C., Renaud, J.M. (2021). Role of Adenosine Receptors on
-mice skeletal muscle fatigue kinetics. _UROP symposium._ University of Ottawa, Ottawa, ON. 
+mice skeletal muscle fatigue kinetics. _University of Ottawa UROP symposium._ Ottawa, ON. (abstract and poster).
 
+
+######################################################################################################################################################################
+
+\vspace{-0.5em}
+
+# Software Projects and Repositories
+
+**cut_run_pipeline_nix \href{https://github.com/ArvinZaker/cut_run_pipeline_nix}{\underline{\textsc{\faGithub}}} \hfill September 2024**
+
++ Collaborative project with Dr. Stefanelli lab.
++ Developed a pipeline for performing Cut&Run analysis and annotating the analysis outcomes.
++ Successfully stacked multiple technologies to create a robust pipeline.
++ Created a user-friendly guide for improving the utility of the pipeline for our collaborators.
++ Improved the reproducibility of existing pipelines by utilizing Nix programming language.
+
+\vspace{0.25em}
+
+
+**text_features \href{https://github.com/merlab/text_features}{\underline{\textsc{\faGithub}}} \hfill March 2024**
+
++ Compared and analyzed the impact of various feature selection methods in drug response prediction models.
++ Created scripts to be used in high-performance computing environment in the cloud and locally.
++ Created large-scale visualizations to communicate abstract findings to a wide audience.
+
+\vspace{0.25em}
+
+\pagebreak
+
+**SMC5-6_complex \href{https://github.com/merlab/SMC5-6_complex}{\underline{\textsc{\faGithub}}} \hfill September, 2023**
+
++ Collaborative project with Dr. D'Amours lab.
++ Aggregated pan-cancer dataset of over 65,000 patients from across 144 studies.
++ Analyzed the mutational effect of the SMC5/6 protein complex and its subunits.
++ Performed survival analysis to identify the SMC5/6-related risk factors to cancer prognosis.
++ Identified large-scale genomic instability associated with SMC5/6 mutation in patient transcriptome.
+
+\vspace{0.25em}
+
+**vian-clin-sci \href{https://github.com/ArvinZaker/vinas-clin-sci-2022}{\underline{\textsc{\faGithub}}} \hfill March 2023**
+
++ Reproduced the bioinformatics analysis performed by Viñas et al. (2020) 
+\href{https://pubmed.ncbi.nlm.nih.gov/32662516/}{\underline{PMID: 32662516}}.
++ Developed a comprehensive report and delivered an in-depth presentation of the re-analysis, incorporating detailed visualizations and narrative summaries.
++ Optimized the analysis outcomes by integrating state-of-the-art bioinformatics tools to enhance data resolution and accuracy.
+
+\vspace{0.25em}
+
+**ATG16L1-MYPT1 \href{https://github.com/merlab/ATG16L1-MYPT1_Russell_Lab}{\underline{\textsc{\faGithub}}} \hfill November 2022**
+
++ Collaborative project with Dr. Ryan Russel lab.
++ Performed a differential expression analysis of VHL and RB knockout mice samples.
++ Identified the differentially expressed genes and pathways associated with knockouts.
++ Verified findings using novel literature text mining tools.
+
+\vspace{0.25em}
