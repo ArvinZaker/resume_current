@@ -1,274 +1,374 @@
-Educational Background
+Education
 
-Doctor of Medicine | (August 2025 - Present)
+Doctor of Medicine (MD)
+University of British Columbia (UBC), Vancouver, BC
 
-University of British Columbia, Ottawa, ON
-
-Honours Bachelor of Science - Translational and Molecular Medicine |
-(September 2019 - April 2023)
-
-University of Ottawa, Ottawa, ON
-
-- Major Research Project Supervisor: Dr. Arvind Mer
-- Major Research Project Title: Comparative analysis of drug response
-  metrics in patient-derived xenografts
-
-Honours, Scholarships and Awards
-
-NSERC - Undergraduate Student Research Awards (USRA) | (May 2023)
-
-University of Ottawa, Ottawa, ON
-
-- Competitive merit-based award. One of 88 awards available at the
-  University of Ottawa.
-- Selection based on quality and impact of the research proposal.
-- Valued at $7500 for 3 months
-
-Work in Biomedical Research Scholarship | (May 2022)
-
-University of Ottawa, Ottawa, ON
-
-- Competitive merit-based award. Under 50% success rate.
-- Selection based on academic performance and the quality of the
-  research proposal.
-- Valued at $3500 for 3 months
-
-TMM Summer Training program | (May 2022)
-
-University of Ottawa, Ottawa, ON
-
-- Competitive merit-based award. Selection based on based on academic
-  performance and the quality of the research proposal.
-- Valued at $8900 for 3 months.
-
-Undergraduate Research Opportunities (UROP) | (December 2020)
-
-University of Ottawa, Ottawa, ON
-
-- Competitive based award. Selection based on academic performance and
-  the quality of the research proposal.
-- Valued at $1000 for 4 months.
-
-Dean’s Honour List & Merit Scholarship | (September 2019 - April 2023)
-
-University of Ottawa, Ottawa, ON
-
-- Merit-based award. Selection based on grade point average (GPA) in
-  post-secondary studies.
-- Valued at $1000 per term (awarded every term).
+Honours Bachelor of Science, Translational and Molecular Medicine
+University of Ottawa, Ottawa, ON; cumulative grade point average:
+9.98/10
 
 Research Experience
 
-Research Assistant – Medical Imaging AI Feb 2026 – Present
-
+Medical Imaging Artificial Intelligence
+University of British Columbia, Vancouver, BC
 Supervisor: Dr. Ilker Hacihaliloglu
 
-Contribution:
+- Built a Python Digital Imaging and Communications in Medicine
+  (DICOM)-to-embedding pipeline for 38,357 mammography image pairs
+  across an initial 7-dataset cohort assembled from 14 datasets.
+- Trained and evaluated 1,176 models using 21 image embeddings, 8
+  classifiers, and 7 weighting or sampling conditions.
+- Performed held-out failure analysis on 773 Emory Breast Imaging
+  Dataset (EMBED) image pairs by breast density, race, ethnicity, and
+  histology.
 
-- Applied deep learning models for medical image classification on 7
-  datasets totaling 40,000+ images.
-- Performed radiomic feature extraction and model evaluation across
-  multiple architectures to quantify bias in medical imaging models.
-- Utilized high-performance computing for large-scale training and
-  analysis.
+E-Cigarette Flavour Policy Evaluation
+University of British Columbia, Vancouver, BC
+Supervisor: Dr. Kevin Duan
 
-Research Assistant - Epigenomics March 2024 - Jan 2026
+- Mapped monthly flavour-policy exposure across 10 provinces and 4
+  Canadian Tobacco and Nicotine Survey (CTNS) waves.
+- Developed survey-weighted difference-in-differences analyses across 3
+  policy groups for vaping, cigarette, and cannabis-use outcomes.
 
-Supervisor: Dr. Arvind Mer (Primary Supervisor)
+Epigenomics and Chromatin Biology
+University of Ottawa, Ottawa, ON
+Supervisor: Dr. Arvind Mer
+Repository:  
 
-Contribution:
+- Analyzed clinical exosomal DNA to identify differentially methylated
+  regions and pathways and integrated multi-omics evidence from 44
+  studies and databases.
+- Built a reproducible CUT&RUN workflow for processing, quality control,
+  annotation, and collaborator use.
+- Aggregated and visualized CXXC1 mutational data across the genome and
+  plant homeodomain (PHD).
 
-- Collaborators: Dr. Ben Tsang, Dr. Gilda Stefanelli, and
-  Dr. Jean-Francois Couture.
-- Perform epigenomic analysis of clinical exosomal DNA samples to
-  identify differentially methylated regions and pathways.
-- Created and optimized Cut&Run epigenomic analysis pipeline to explore
-  the developmental impacts of neurological conditions in mice.
-- Integrated and aggregated multi-omics data from 44 studies and
-  databases.
+Text-Mining Feature Selection for Anticancer Drug Response
+University of Ottawa, Ottawa, ON
+Supervisor: Dr. Arvind Mer
+Repository:  
 
-Undergraduate Thesis September 2022 - Feb 2024
+- Devised and benchmarked text-mining feature-selection methods across
+  drug-response prediction models and validation datasets.
+- Built reproducible local and high-performance computing workflows and
+  visualizations for model evaluation.
 
+Bacterial Genomics
+University of Ottawa, Ottawa, ON
+Supervisors: Dr. Arvind Mer and Dr. Vanessa M. D’Costa
+
+- Built genomic annotation and phylogenetic-analysis workflows and
+  characterized type IV secretion system clusters across 118
+  Acinetobacter bacterial and plasmid strains.
+
+SMC5/6 Cancer Phenogenomics
+University of Ottawa, Ottawa, ON
+Supervisors: Dr. Arvind Mer and Dr. Damien D’Amours
+Repository:  
+
+- Analyzed SMC5/6 alterations, genomic instability, transcriptomic
+  changes, cancer phenotypes, and survival in a pan-cancer cohort of
+  more than 65,000 patients across 144 studies.
+
+Optogenetic Neurophysiology
+University of Ottawa, Ottawa, ON
+Supervisors: Dr. Arvind Mer and Dr. Greg Silasi
+
+- Co-developed software to quantify hemodynamic and cortical responses
+  to optogenetic stimulation after stroke.
+
+Patient-Derived Xenograft Drug-Response Modelling
+University of Ottawa, Ottawa, ON
 Supervisor: Dr. Arvind Mer
 
-Title: Comparative Analysis of Drug Response Metrics for Patient-Derived
-Xenograft
+- Developed the open-source xeMetron package to calculate and compare
+  250 existing and novel measures of patient-derived xenograft treatment
+  response.
+- Performed transcriptomic biomarker discovery and built
+  machine-learning models to predict anticancer drug response, including
+  paclitaxel response in clinical-trial data, and model breast-cancer
+  survival using The Cancer Genome Atlas.
 
-Contribution:
-
-- Performed literature review to identify common methods of quantifying
-  drug response in patient-derived xenografts (PDX).
-- Developed a package to calculate 250 existing and novel drug response
-  metrics in PDX.
-- Performed biomarker discovery to identify transcriptional markers of
-  drug sensitivity in chemotherapies.
-- Created machine learning algorithms to predict drug response in
-  clinical datasets.
-
-Summer Research Assistant January 2022 - August 2022
-
-Supervisor: Dr. Arvind Mer (Primary Supervisor) and Dr. Damien D’Amours
-
-Title: Large-scale phenogenomic analysis of human cancers uncovers
-frequent alterations affecting SMC5/6 complex components in breast
-cancer
-
-Contribution:
-
-- Aggregated and combined data from 199 cancer studies to analyze the
-  mutational effects of SMC5/6 DNA repair complex in a pan-cancer
-  cohort.
-- Utilized R programming language to analyze the functional impact of
-  SMC5/6 mutation using transcriptomic data.
-- Performed cancer phenotype and survival analysis to study the clinical
-  implication of SMC5/6.
-
-Student Research Assistant September 2021 - April 2022
-
+Bacteriophage Discovery
+University of Ottawa, Ottawa, ON
 Supervisor: Dr. Adam Rudner
 
-Title: Discovery and Characterization of Phage Arzan and Khorshid
+- Isolated, amplified, characterized, and annotated 2 novel
+  bacteriophages, Arzan and Khorshid.
 
-Contribution:
-
-- Performed environmental sampling, phage extraction, and phage
-  amplification assays.
-- Conducted DNA extraction and restriction digest analysis via gel
-  electrophoresis.
-- Discovered and annotated the genome of two novel phages, Arzan and
-  Khorshid.
-
-UROP Research Assistant November 2020 - July 2022
-
+Muscle Physiology
+University of Ottawa, Ottawa, ON
 Supervisor: Dr. Jean-Marc Renaud
 
-Title: Role of Adenosine Receptors on Mice Skeletal Muscle Fatigue
-Kinetics.
+- Designed electrophysiology experiments on adenosine receptors and
+  skeletal-muscle fatigue and performed tissue staining, fluorescence
+  imaging, and quantitative image analysis.
 
-Contribution:
+Peer-Reviewed Publications
 
-- Designed experiments and set up research equipment for data
-  collection.
-- Performed experiments on mouse muscles using electrophysiological
-  equipment.
-- Performed antibody staining, fluorescent imaging, and analysis of
-  muscle tissue in the Imiris program.
+1.  Asare-Werehene M, Zaker A, Tripathi S, Communal L, Carmona E,
+    Mes-Masson A-M, Tsang BK, Mer A. Spotlight on nuclear PD-L1 in
+    ovarian cancer chemoresistance: hidden but mighty. Front Immunol.
+    2025;16. .
 
-Publications, Presentations, and Abstracts
+2.  Grégoire S, Grégoire J, Yang Y, Capitani S, Joshi M, Sarvan S, Zaker
+    A, Ning Z, Figeys D, Ulrich K, Brunzelle JS, Mer A, Couture J-F.
+    Structural insights into an atypical histone binding mechanism by a
+    PHD finger. Structure. 2024;32(9):1498–1506.e4. .
 
-Publications
+3.  Wu G, Zaker A (co-first author), Ebrahimi A, Tripathi S, Mer AS.
+    Text-mining-based feature selection for anticancer drug response
+    prediction. Bioinform Adv. 2024;4(1):vbae047. .
 
-Asare-Werehene, M., Zaker, A., Tripathi, S., Communal, L., Carmona, E.,
-Mes-Masson, A.-M., Tsang, B. K., & Mer, A. (2025). Spotlight on nuclear
-PD-L1 in ovarian cancer chemoresistance: hidden but mighty. Frontiers in
-Immunology, 16.
+4.  Nasser F, Gaudreau A, Lubega S, Zaker A, Xia X, Mer AS, D’Costa VM.
+    Characterization of the diversity of type IV secretion
+    system-encoding plasmids in Acinetobacter. Emerg Microbes Infect.
+    2024;13(1):2320929. .
 
-Grégoire, S., Grégoire, J., Yang, Y., Capitani, S., Joshi, M., Sarvan,
-S., Zaker, A., Ning, Z., Figeys, D., Ulrich, K., Brunzelle, J. S., Mer,
-A., & Couture, J.-F. (2024). Structural insights into an atypical
-histone binding mechanism by a PHD finger. Structure, 32(9),
-1498-1506.e4.
+5.  Roy S, Zaker A, Mer A, D’Amours D. Large-scale phenogenomic analysis
+    of human cancers uncovers frequent alterations affecting SMC5/6
+    complex components in breast cancer. NAR Cancer. 2023;5(3):zcad047.
+    .
 
-Wu, G., Zaker, A., Ebrahimi, A., Tripathi, S., & Mer, A. S. (2024).
-Text-mining-based feature selection for anticancer drug response
-prediction. Bioinformatics Advances, 4(1), vbae047.
+Presentations, Posters, Seminars & Abstracts
 
-Nasser, F., Gaudreau, A., Lubega, S., Zaker, A., Xia, X., Mer, A. S., &
-D’Costa, V. M. (2024). Characterization of the diversity of type IV
-secretion system-encoding plasmids in Acinetobacter. Emerging Microbes &
-Infections, 13(1), 2320929.
+1.  Poster and oral presentations; presenting author. Roy S, Zaker A,
+    Mer A, D’Amours D. Large-scale phenogenomic analysis of human
+    cancers uncovers frequent alterations affecting SMC5/6 complex
+    components in breast cancer. Canadian Society for Molecular
+    Biosciences International Conference; May 2023; Ottawa, ON.
+    Approximately 10 projects were selected nationally for oral
+    presentation.
 
-Roy, S., Zaker, A., Mer, A., & D’Amours, D. (2023). Large-scale
-phenogenomic analysis of human cancers uncovers frequent alterations
-affecting SMC5/6 complex components in breast cancer. NAR Cancer, 5(3),
-zcad047.
+2.  Oral presentation; presenting author. Zaker A, Mer A. Comparative
+    analysis of drug response metrics in patient-derived xenografts. 4th
+    Annual University of Ottawa Faculty of Medicine Research Day; Sep
+    2022; Ottawa, ON. Panel question period; 18 students were selected.
 
-Posters and presentations at scientific meetings
+3.  Seminar; presenter. Zaker A, Mer A. Comparative analysis of drug
+    response metrics in patient-derived xenografts. University of Ottawa
+    Translational and Molecular Medicine Seminar; Apr 2022.
+    Twenty-minute presentation and question period.
 
-Roy, S., Zaker, A., Mer, A., D’Amours, D. (2023). Large-scale
-phenogenomic analysis of human cancers uncovers frequent alterations
-affecting SMC5/6 complex components in breast cancer. Canadian Society
-for Molecular Biosciences (CSMB) International Conference. Ottawa, ON.
-(poster and presentation)
+4.  Poster presentation; presenting author. Zaker A, Mer A. Analysis of
+    drug response in patient-derived xenografts. Faculty of Medicine,
+    University of Ottawa; Feb 2022; Ottawa, ON.
 
-Zaker, A., Mer, A. (2022). Comparative analysis of drug response metrics
-in patient-derived xenografts. 4th Annual University of Ottawa Faculty
-of Medicine Research Day. Ottawa, ON. (oral presentation)
+5.  Poster and oral presentations; presenting author. Zaker A, McCarthy
+    L, Jung D, Karunakaran G, Rudner A. Discovery and characterization
+    of bacteriophage Arzan. University of Ottawa Faculty of Medicine;
+    Dec 2021; Ottawa, ON.
 
-Friesen, R., Algharbi S., Zaker, A., Mahdi, O., Gao, R., Ferri, O., Li,
-J., Wang, SY., HeffernanC., Featherstone, A., Radar, A., Gandelman, M.,
-Chander N., Bancud, SE., Rege, I., Shriraam, R., Jung, D., Karunakaran,
-G., Sarakbi, R., Znamenski, E., Ristovski, M., Freitas, JD., McCarthy,
-L., Williams, EC., D’Ambrosio, L., Chan, K., Wheaton, K., Rudner, AD.
-(2022). Investigating Nucleotide-binding Proteins in Bacteriophage
-JohnDoe. SEA Symposium. Pittsburgh, PA. (abstract & presentation).
+6.  Abstract and poster presentation; presenting author. Zaker A, McRae
+    C, Renaud JM. Role of adenosine receptors in mouse skeletal-muscle
+    fatigue kinetics. University of Ottawa Undergraduate Research
+    Opportunity Program Symposium; Mar 2021.
 
-Featherstone, A., Radar, A., Salama, A., Tiukuvaara, S., Ferri, O.,
-Zaker, A., Algharbi, S., Mahdi, O., Setia, G., Friesen, R., Wang, GY.,
-Li, J., Gao, R., Jung, D., Karunakaran, G., Znamenski, E., Ristovski,
-M., Sarakbi, R., Freitas, JD., McCarthy, L., Williams, EC., D’Ambrosio,
-L., Wheaton, K., Rudner AD. (2022). Give Us a Millet of Your Time:
-Dehusking the Singleton Bacteriophage Arzan. SEA Symposium. Pittsburgh,
-PA. (abstract & presentation)
+7.  Published abstract and presentation; co-presenter. Featherstone A,
+    Radar A, Salama A, Tiukuvaara S, Ferri O, Zaker A, Algharbi S, Mahdi
+    O, Setia G, Friesen R, Wang GSY, Li J, Gao R, Jung D, Karunakaran G,
+    Znamenski E, Ristovski M, Sarakbi R, Freitas JD, McCarthy L,
+    Williams EC, D’Ambrosio L, Wheaton K, Rudner AD. . Science Education
+    Alliance–Phage Hunters Advancing Genomics and Evolutionary Science
+    Symposium; 2022; Pittsburgh, PA.
 
-Zaker, A., McCarthy, L., Jung, D., Karunakaran, G., Rudner, A. (2022).
-Discovery and characterization of bacteriophage Arzan. Ottawa, ON.
-(poster and presentation)
+8.  Published abstract and presentation; co-presenter. Friesen R,
+    Algharbi S, Zaker A, Mahdi O, Gao R, Ferri O, Li J, Wang GSY,
+    Heffernan C, Featherstone A, Radar A, Gandelman M, Chander N, Bancud
+    SE, Rege I, Shriraam R, Jung D, Karunakaran G, Sarakbi R, Znamenski
+    E, Ristovski M, Freitas JD, McCarthy L, Williams EC, D’Ambrosio L,
+    Chan K, Wheaton K, Rudner AD. . Science Education Alliance–Phage
+    Hunters Advancing Genomics and Evolutionary Science Symposium; 2022;
+    Pittsburgh, PA.
 
-Zaker, A., McRae, C., Renaud, J.M. (2021). Role of Adenosine Receptors
-on mice skeletal muscle fatigue kinetics. University of Ottawa UROP
-symposium. Ottawa, ON. (abstract and poster).
+9.  Published abstract and presentation; co-presenter. Cildir Z,
+    Abdisalam S, Alam A, Zaker A, Toex N, Chandra A, Jung D, Karunakaran
+    G, Znamenski E, Freitas JD, McCarthy L, Williams EC, D’Ambrosio L,
+    Wheaton K, Rudner AD. . Science Education Alliance–Phage Hunters
+    Advancing Genomics and Evolutionary Science Symposium; 2022;
+    Pittsburgh, PA.
 
-Software Projects and Repositories
+Leadership & Governance
 
-cut_run_pipeline_nix September 2024
+Research and Innovation Lead
+MD Student Learning Group, University of British Columbia, Vancouver, BC
 
-- Collaborative project with Dr. Stefanelli lab.
-- Developed a pipeline for performing Cut&Run analysis and annotating
-  the analysis outcomes.
-- Successfully stacked multiple technologies to create a robust
-  pipeline.
-- Created a user-friendly guide for improving the utility of the
-  pipeline for our collaborators.
-- Improved the reproducibility of existing pipelines by utilizing Nix
-  programming language.
+- Lead the research and innovation portfolio, connecting peers with
+  learning opportunities and promoting evidence-informed practice,
+  emerging technologies, and student-led scholarship.
 
-text_features March 2024
+Vice-President, External Relations
+Artificial Intelligence in Medicine Society, University of British
+Columbia, Vancouver, BC
 
-- Compared and analyzed the impact of various feature selection methods
-  in drug response prediction models.
-- Created scripts to be used in high-performance computing environment
-  in the cloud and locally.
-- Created large-scale visualizations to communicate abstract findings to
-  a wide audience.
+- Helped launch a student community focused on responsible artificial
+  intelligence in health care and build external partnerships for
+  panels, workshops, and collaborative projects.
 
-SMC5-6_complex September, 2023
+Chief Technology Officer
+Learn Freely, nonprofit organization, Vancouver, BC
 
-- Collaborative project with Dr. D’Amours lab.
-- Aggregated pan-cancer dataset of over 65,000 patients from across 144
-  studies.
-- Analyzed the mutational effect of the SMC5/6 protein complex and its
-  subunits.
-- Performed survival analysis to identify the SMC5/6-related risk
-  factors to cancer prognosis.
-- Identified large-scale genomic instability associated with SMC5/6
-  mutation in patient transcriptome.
+- Lead development of a learning management system and workflows for
+  tutoring assignments, progress tracking, project management, and
+  organizational collaboration.
 
-vian-clin-sci March 2023
+Board Member
+Inclusion, Diversity and Equity Advisory Committee, Doctors of BC,
+Vancouver, BC; three-year term
 
-- Reproduced the bioinformatics analysis performed by Viñas et
-  al. (2020) .
-- Developed a comprehensive report and delivered an in-depth
-  presentation of the re-analysis, incorporating detailed visualizations
-  and narrative summaries.
-- Optimized the analysis outcomes by integrating state-of-the-art
-  bioinformatics tools to enhance data resolution and accuracy.
+- Selected to advise the Board of Directors on equity, diversity, and
+  inclusion across governance bodies, members, and the medical
+  profession.
 
-ATG16L1-MYPT1 November 2022
+Founder and President
+Hands on Health Magazine, University of Ottawa, Ottawa, ON
 
-- Collaborative project with Dr. Ryan Russel lab.
-- Performed a differential expression analysis of VHL and RB knockout
-  mice samples.
-- Identified the differentially expressed genes and pathways associated
-  with knockouts.
-- Verified findings using novel literature text mining tools.
+- Founded and led a 20+ member team that published 50+ faculty-reviewed,
+  evidence-based health articles.
+- Built editorial, review, and communication workflows that sustained
+  publication during remote operations.
+
+Founder and President
+Canadians Sharing Locally and Globally uOttawa, University of Ottawa,
+Ottawa, ON
+
+- Partnered with a local charity to help raise more than $100,000 for
+  personal protective equipment and ventilators for rural hospitals in
+  India.
+- Led advocacy events and social media outreach on global health
+  inequities and social determinants of health.
+
+Teaching & Mentorship
+
+Founder and Production Designer
+UBC Integrated Anatomy Atlas, University of British Columbia, Vancouver,
+BC
+
+- Founded and produced a faculty-approved anatomy platform spanning both
+  preclinical years and collaborated with faculty to integrate it into
+  UBC’s Elentra learning management system for access by all medical
+  students.
+- Produced anatomy images and 320 question cards across 14 laboratory
+  modules in Anki, study-site, and simulated bell-ringer formats.
+- Built a Python production pipeline with standardized image
+  attribution, contributor guidance, approval tracking, and automated
+  quality checks.
+
+Premedical Student Mentor
+Supporting Applications, Supporting Interviews (SASI), Community of
+Support, Temerty Faculty of Medicine, University of Toronto, Toronto, ON
+
+- Mentor premedical students from groups underrepresented in medicine
+  through individualized application strategy and feedback on written
+  submissions.
+
+Science, Technology, Engineering, and Mathematics Tutor
+Oxford Learning Oak Ridges and Inspiration Learning, Toronto, ON
+
+- Tutored 20+ students from grades 1–12 and university across biology,
+  chemistry, physics, and mathematics using individualized learning
+  plans.
+
+Peer Tutor and Mentor
+
+- Guided 50+ middle-school and high-school students in science and
+  mathematics and supported transitions to university through academic
+  guidance and peer mentorship.
+
+Community Engagement
+
+First-Year Representative
+Persian Medical Society, University of British Columbia, Vancouver, BC
+
+- Help create and promote peer-support, mentorship, and cultural events
+  for Persian-identifying students and allies, strengthening community
+  connection and inclusive representation within the medical school.
+
+Administrative Receptionist
+Chadha Medical Clinic, Ottawa, ON
+
+- Coordinated appointments, referrals, and screenings in a primary-care
+  practice serving approximately 5,000 patients and managed 60+ patient
+  contacts weekly.
+
+Volunteer Coordinator and Co-Chair
+Best Buddies uOttawa, University of Ottawa, Ottawa, ON
+
+- Recruited and paired 50+ student volunteers with people with
+  intellectual and developmental disabilities.
+- Led accessible events and revised recruitment to address audiovisual
+  and language barriers identified through feedback.
+
+Honours, Scholarships & Awards
+
+Florence E. Heighway Summer Research Award
+Faculty of Medicine Summer Student Research Program, University of
+British Columbia, Vancouver, BC
+
+- Awarded 8 weeks of funding for a mammography artificial-intelligence
+  failure-analysis project.
+
+Third Place, IFHP NavAID Challenge
+University of British Columbia, Vancouver, BC
+
+- Collaborated with 2 medical students to develop a 75-minute
+  refugee-health case with 4 decision points and 7 interprofessional
+  objectives.
+
+Undergraduate Student Research Award
+Natural Sciences and Engineering Research Council of Canada, University
+of Ottawa, Ottawa, ON
+
+- Awarded $7,500 for a 3-month research project based on academic merit
+  and research-proposal quality; one of 88 awards at the University of
+  Ottawa.
+
+Translational and Molecular Medicine Summer Training Award
+University of Ottawa, Ottawa, ON
+
+- Awarded $8,900 for a 3-month supervised research project based on
+  academic merit and research-proposal quality.
+
+Work in Biomedical Research Scholarship
+University of Ottawa, Ottawa, ON
+
+- Awarded $3,500 for a 3-month research project through a competition
+  with a success rate below 50%.
+
+Undergraduate Research Opportunity Program Award
+University of Ottawa, Ottawa, ON
+
+- Awarded $1,000 for a 4-month supervised research project based on
+  academic merit and research-proposal quality.
+
+Dean’s Honour List and Merit Scholarship, University of Ottawa
+
+Projects & Interests
+
+Explainable Heart-Disease Risk Modelling
+National Canadian Medical Datathon, Vancouver, BC
+Repository:  
+
+- Collaborated with 5 colleagues to integrate 920 records from 4
+  University of California, Irvine heart-disease cohorts and develop a
+  regularized logistic-regression model with a held-out receiver
+  operating characteristic area under the curve of 0.925.
+- Built CLEAR, an R Shiny demonstration tool providing individualized
+  risk estimates, SHapley Additive exPlanations, and plain-language
+  feature summaries.
+
+Clinical Bioinformatics Reproducibility Project
+Repository:  
+
+- Reproduced the bioinformatics analysis reported by Viñas et al. (2020;
+  PMID: 32662516) and produced a documented report, presentation, and
+  explanatory visualizations.
+
+Systems Administration and Research Computing
+
+- Built and maintain a 16-terabyte Unraid server for centralized family
+  storage, automated backups, data recovery, and Docker-based web
+  services.
+- Built and administer 3 Linux workstations for bioinformatics, machine
+  learning, and high-performance computing.
