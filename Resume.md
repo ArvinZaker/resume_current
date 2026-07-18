@@ -35,7 +35,7 @@ header-includes:
 # Education
 
 **Doctor of Medicine (MD)** \hfill \textbf{Aug 2025--Present}  
-_University of British Columbia (UBC), Vancouver, BC_
+_University of British Columbia, Vancouver, BC_
 
 **Honours Bachelor of Science, Translational and Molecular Medicine** \hfill \textbf{Sep 2019--Apr 2023}  
 _University of Ottawa, Ottawa, ON; cGPA: 9.98/10_
@@ -57,16 +57,16 @@ _University of British Columbia, Vancouver, BC_  \hfill _Supervisor: Kevin Duan,
 _University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Dr. Arvind Mer, PhD_  
 
 - Analyzed clinical exosomal DNA to identify differentially methylated regions and pathways and integrated multi-omics evidence from 44 studies and databases.
-- Built a reproducible CUT\&RUN workflow for processing, quality control, annotation, and collaborator use.
+- Built a reproducible CUT\&RUN workflow for processing, quality control, and epigenomic annotation.
 - Aggregated and visualized CXXC1 mutational data across the genome and plant homeodomain (PHD).
 
 **Text-Mining Feature Selection for Anticancer Drug Response** \href{https://github.com/merlab/text_features}{\faGithub} \hfill \textbf{Sep 2023--Feb 2024}  
 _University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Arvind Mer, PhD_  
 
 - Devised and benchmarked text-mining feature-selection methods across drug-response prediction models and validation datasets.
-- Built reproducible local and high-performance computing workflows and visualizations for model evaluation.
+- Built reproducible high-performance computing workflows and visualizations for model evaluation.
 
-**Bacterial Genomics** \hfill \textbf{Jul 2023--Feb 2024}  
+**Bacterial Genomics** \href{https://github.com/merlab/Acinetobacter_Phylo}{\faGithub} \hfill \textbf{Jul 2023--Feb 2024}  
 _University of Ottawa, Ottawa, ON_  \hfill _Supervisors: Arvind Mer, PhD; Vanessa M. D'Costa, PhD_
 
 - Built genomic annotation and phylogenetic-analysis workflows and characterized type IV secretion system clusters across 118 _Acinetobacter_ bacterial and plasmid strains.
@@ -79,18 +79,18 @@ _University of Ottawa, Ottawa, ON_  \hfill _Supervisors: Arvind Mer, PhD; Damien
 **Optogenetic Neurophysiology** \hfill \textbf{Mar 2022--Sep 2024}  
 _University of Ottawa, Ottawa, ON_  \hfill _Supervisors: Arvind Mer, PhD; Greg Silasi, PhD_
 
-- Co-developed software to quantify hemodynamic and cortical responses to optogenetic stimulation after stroke _in vivo_.
+- Co-developed software to quantify _in vivo_ hemodynamic and cortical responses to intermittent theta-burst stimulation (iTBS) after stroke.
 
 **Patient-Derived Xenograft Drug-Response Modelling** \hfill \textbf{Jan 2022--June 2026}  
 _University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Arvind Mer, PhD_
 
-- Developed the open-source xeMetron package to calculate 250 measures of patient-derived xenograft chemotherapy response.
-- Built machine-learning models to identify biomarkers of drug response and quantify anti-cancer drug response in clinical-trial data.
+- Developed xeMetron package to calculate 250 drug response metrics in patient-derived xenografts.
+- Built machine-learning models to identify pharmacogenomic biomarkers and quantify drug response in clinical-trial data.
 
 **Bacteriophage Discovery** \hfill \textbf{Sep 2021--Apr 2022}  
 _University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Adam Rudner, PhD_
 
-- Isolated, amplified, characterized, and annotated 2 novel bacteriophages, Arzan and Khorshid.
+- Isolated, characterized, and annotated the genome of 2 novel bacteriophages, \href{https://phagesdb.org/phages/Arzan/}{Arzan} and \href{https://phagesdb.org/phages/Khorshid/}{Khorshid}.
 
 **Muscle Physiology** \hfill \textbf{Nov 2020--Jul 2022}  
 _University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Jean-Marc Renaud, PhD_
@@ -111,9 +111,9 @@ _University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Jean-Marc Renaud, PhD_
 
 # Presentations, Posters, Seminars & Abstracts
 
-1. **Poster and oral presentations; presenting author.** Roy S, **Zaker A**, Mer A, D'Amours D. Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer. _Canadian Society for Molecular Biosciences International Conference_; May 2023; Ottawa, ON.
+1. **Poster and oral presentations; presenter.** Roy S, **Zaker A**, Mer A, D'Amours D. Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer. _Canadian Society for Molecular Biosciences International Conference_; May 2023; Ottawa, ON.
 
-2. **Oral presentation; presenting author.** **Zaker A**, Mer A. Comparative analysis of drug response metrics in patient-derived xenografts. _4th Annual University of Ottawa Faculty of Medicine Research Day_; Sep 2022; Ottawa, ON. Panel question period; 18 students were selected.
+2. **Oral presentation; presenter.** **Zaker A**, Mer A. Comparative analysis of drug response metrics in patient-derived xenografts. _4th Annual University of Ottawa Faculty of Medicine Research Day_; Sep 2022; Ottawa, ON.
 
 3. **Abstract and presentation; co-presenter.** Featherstone A, Radar A, Salama A, Tiukuvaara S, Ferri O, **Zaker A**, _et al_. \href{https://seaphages.org/abstracts/summary/980/}{Give us a millet of your time: dehusking the singleton bacteriophage Arzan}. _SEA Symposium_; Apr 2022; Pittsburgh, PA.
 
@@ -121,13 +121,13 @@ _University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Jean-Marc Renaud, PhD_
 
 5. **Abstract and presentation; co-presenter.** Cildir Z, Abdisalam S, Alam A, **Zaker A**, Toex N, Chandra A, _et al_. \href{https://seaphages.org/abstracts/summary/973/}{Prophage liberation! A method to increase the titer of the temperate phages Khorsid and Winseler}. _SEA Symposium_; Apr 2022; Pittsburgh, PA.
 
-6. **Seminar; presenter.** **Zaker A**, Mer A. Comparative analysis of drug response metrics in patient-derived xenografts. _University of Ottawa Translational and Molecular Medicine Seminar_; Apr 2022. Twenty-minute presentation and question period.
+6. **Seminar; presenter.** **Zaker A**, Mer A. Comparative analysis of drug response metrics in patient-derived xenografts. _University of Ottawa Translational and Molecular Medicine Seminar_; Apr 2022.
 
-7. **Poster presentation; presenting author.** **Zaker A**, Mer A. Analysis of drug response in patient-derived xenografts. _Faculty of Medicine, University of Ottawa_; Feb 2022; Ottawa, ON.
+7. **Poster; presenter.** **Zaker A**, Mer A. Analysis of drug response in patient-derived xenografts. _Faculty of Medicine, University of Ottawa_; Feb 2022; Ottawa, ON.
 
-8. **Poster and oral presentations; presenting author.** **Zaker A**, McCarthy L, Jung D, Karunakaran G, Rudner A. Discovery and characterization of bacteriophage Arzan. _University of Ottawa Faculty of Medicine_; Dec 2021; Ottawa, ON.
+8. **Poster and oral presentations; presenter.** **Zaker A**, McCarthy L, Jung D, Karunakaran G, Rudner A. Discovery and characterization of bacteriophage Arzan. _University of Ottawa Faculty of Medicine_; Dec 2021; Ottawa, ON.
 
-9. **Abstract and poster presentation; presenting author.** **Zaker A**, McRae C, Renaud JM. Role of adenosine receptors in mouse skeletal-muscle fatigue kinetics. _University of Ottawa Undergraduate Research Opportunity Program Symposium_; Mar 2021.
+9. **Abstract and poster presentation; presenter.** **Zaker A**, McRae C, Renaud JM. Role of adenosine receptors in mouse skeletal-muscle fatigue kinetics. _University of Ottawa Undergraduate Research Opportunity Program Symposium_; Mar 2021.
 
 # Leadership & Governance
 

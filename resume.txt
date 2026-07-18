@@ -1,7 +1,7 @@
 Education
 
 Doctor of Medicine (MD)
-University of British Columbia (UBC), Vancouver, BC
+University of British Columbia, Vancouver, BC
 
 Honours Bachelor of Science, Translational and Molecular Medicine
 University of Ottawa, Ottawa, ON; cGPA: 9.98/10
@@ -33,7 +33,7 @@ University of Ottawa, Ottawa, ON Supervisor: Dr. Arvind Mer, PhD
   regions and pathways and integrated multi-omics evidence from 44
   studies and databases.
 - Built a reproducible CUT&RUN workflow for processing, quality control,
-  annotation, and collaborator use.
+  and epigenomic annotation.
 - Aggregated and visualized CXXC1 mutational data across the genome and
   plant homeodomain (PHD).
 
@@ -42,7 +42,7 @@ University of Ottawa, Ottawa, ON Supervisor: Arvind Mer, PhD
 
 - Devised and benchmarked text-mining feature-selection methods across
   drug-response prediction models and validation datasets.
-- Built reproducible local and high-performance computing workflows and
+- Built reproducible high-performance computing workflows and
   visualizations for model evaluation.
 
 Bacterial Genomics
@@ -65,22 +65,22 @@ Optogenetic Neurophysiology
 University of Ottawa, Ottawa, ON Supervisors: Arvind Mer, PhD; Greg
 Silasi, PhD
 
-- Co-developed software to quantify hemodynamic and cortical responses
-  to optogenetic stimulation after stroke in vivo.
+- Co-developed software to quantify in vivo hemodynamic and cortical
+  responses to intermittent theta-burst stimulation (iTBS) after stroke.
 
 Patient-Derived Xenograft Drug-Response Modelling
 University of Ottawa, Ottawa, ON Supervisor: Arvind Mer, PhD
 
-- Developed the open-source xeMetron package to calculate 250 measures
-  of patient-derived xenograft chemotherapy response.
-- Built machine-learning models to identify biomarkers of drug response
-  and quantify anti-cancer drug response in clinical-trial data.
+- Developed xeMetron package to calculate 250 drug response metrics in
+  patient-derived xenografts.
+- Built machine-learning models to identify pharmacogenomic biomarkers
+  and quantify drug response in clinical-trial data.
 
 Bacteriophage Discovery
 University of Ottawa, Ottawa, ON Supervisor: Adam Rudner, PhD
 
-- Isolated, amplified, characterized, and annotated 2 novel
-  bacteriophages, Arzan and Khorshid.
+- Isolated, characterized, and annotated the genome of 2 novel
+  bacteriophages, and .
 
 Muscle Physiology
 University of Ottawa, Ottawa, ON Supervisor: Jean-Marc Renaud, PhD
@@ -117,16 +117,16 @@ Peer-Reviewed Publications
 
 Presentations, Posters, Seminars & Abstracts
 
-1.  Poster and oral presentations; presenting author. Roy S, Zaker A,
-    Mer A, D’Amours D. Large-scale phenogenomic analysis of human
-    cancers uncovers frequent alterations affecting SMC5/6 complex
-    components in breast cancer. Canadian Society for Molecular
-    Biosciences International Conference; May 2023; Ottawa, ON.
+1.  Poster and oral presentations; presenter. Roy S, Zaker A, Mer A,
+    D’Amours D. Large-scale phenogenomic analysis of human cancers
+    uncovers frequent alterations affecting SMC5/6 complex components in
+    breast cancer. Canadian Society for Molecular Biosciences
+    International Conference; May 2023; Ottawa, ON.
 
-2.  Oral presentation; presenting author. Zaker A, Mer A. Comparative
-    analysis of drug response metrics in patient-derived xenografts. 4th
-    Annual University of Ottawa Faculty of Medicine Research Day; Sep
-    2022; Ottawa, ON. Panel question period; 18 students were selected.
+2.  Oral presentation; presenter. Zaker A, Mer A. Comparative analysis
+    of drug response metrics in patient-derived xenografts. 4th Annual
+    University of Ottawa Faculty of Medicine Research Day; Sep 2022;
+    Ottawa, ON.
 
 3.  Abstract and presentation; co-presenter. Featherstone A, Radar A,
     Salama A, Tiukuvaara S, Ferri O, Zaker A, et al. . SEA Symposium;
@@ -143,19 +143,18 @@ Presentations, Posters, Seminars & Abstracts
 6.  Seminar; presenter. Zaker A, Mer A. Comparative analysis of drug
     response metrics in patient-derived xenografts. University of Ottawa
     Translational and Molecular Medicine Seminar; Apr 2022.
-    Twenty-minute presentation and question period.
 
-7.  Poster presentation; presenting author. Zaker A, Mer A. Analysis of
-    drug response in patient-derived xenografts. Faculty of Medicine,
-    University of Ottawa; Feb 2022; Ottawa, ON.
+7.  Poster; presenter. Zaker A, Mer A. Analysis of drug response in
+    patient-derived xenografts. Faculty of Medicine, University of
+    Ottawa; Feb 2022; Ottawa, ON.
 
-8.  Poster and oral presentations; presenting author. Zaker A, McCarthy
-    L, Jung D, Karunakaran G, Rudner A. Discovery and characterization
-    of bacteriophage Arzan. University of Ottawa Faculty of Medicine;
-    Dec 2021; Ottawa, ON.
+8.  Poster and oral presentations; presenter. Zaker A, McCarthy L, Jung
+    D, Karunakaran G, Rudner A. Discovery and characterization of
+    bacteriophage Arzan. University of Ottawa Faculty of Medicine; Dec
+    2021; Ottawa, ON.
 
-9.  Abstract and poster presentation; presenting author. Zaker A, McRae
-    C, Renaud JM. Role of adenosine receptors in mouse skeletal-muscle
+9.  Abstract and poster presentation; presenter. Zaker A, McRae C,
+    Renaud JM. Role of adenosine receptors in mouse skeletal-muscle
     fatigue kinetics. University of Ottawa Undergraduate Research
     Opportunity Program Symposium; Mar 2021.
 
