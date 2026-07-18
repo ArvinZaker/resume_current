@@ -4,14 +4,13 @@ Doctor of Medicine (MD)
 University of British Columbia (UBC), Vancouver, BC
 
 Honours Bachelor of Science, Translational and Molecular Medicine
-University of Ottawa, Ottawa, ON; cumulative grade point average:
-9.98/10
+University of Ottawa, Ottawa, ON; cGPA: 9.98/10
 
 Research Experience
 
 Medical Imaging Artificial Intelligence
-University of British Columbia, Vancouver, BC
-Supervisor: Dr. Ilker Hacihaliloglu
+University of British Columbia, Vancouver, BC Supervisor: Ilker
+Hacihaliloglu, PhD
 
 - Curated 14 datasets and built a Python pipeline to train 1,176 models
   on 38,357 paired mammograms.
@@ -20,8 +19,7 @@ Supervisor: Dr. Ilker Hacihaliloglu
   race, ethnicity, and histology.
 
 E-Cigarette Flavour Policy Evaluation
-University of British Columbia, Vancouver, BC
-Supervisor: Dr. Kevin Duan
+University of British Columbia, Vancouver, BC Supervisor: Kevin Duan, MD
 
 - Compared the policy effects of comprehensive e-cigarette flavour bans
   and specialty-retailer restrictions among 1,516 youth across 5
@@ -29,8 +27,7 @@ Supervisor: Dr. Kevin Duan
   difference-in-differences.
 
 Epigenomics and Chromatin Biology
-University of Ottawa, Ottawa, ON
-Supervisor: Dr. Arvind Mer
+University of Ottawa, Ottawa, ON Supervisor: Dr. Arvind Mer, PhD
 
 - Analyzed clinical exosomal DNA to identify differentially methylated
   regions and pathways and integrated multi-omics evidence from 44
@@ -41,8 +38,7 @@ Supervisor: Dr. Arvind Mer
   plant homeodomain (PHD).
 
 Text-Mining Feature Selection for Anticancer Drug Response
-University of Ottawa, Ottawa, ON
-Supervisor: Dr. Arvind Mer
+University of Ottawa, Ottawa, ON Supervisor: Arvind Mer, PhD
 
 - Devised and benchmarked text-mining feature-selection methods across
   drug-response prediction models and validation datasets.
@@ -50,31 +46,30 @@ Supervisor: Dr. Arvind Mer
   visualizations for model evaluation.
 
 Bacterial Genomics
-University of Ottawa, Ottawa, ON
-Supervisors: Dr. Arvind Mer and Dr. Vanessa M. D’Costa
+University of Ottawa, Ottawa, ON Supervisors: Arvind Mer, PhD; Vanessa
+M. D’Costa, PhD
 
 - Built genomic annotation and phylogenetic-analysis workflows and
   characterized type IV secretion system clusters across 118
   Acinetobacter bacterial and plasmid strains.
 
 SMC5/6 Cancer Phenogenomics
-University of Ottawa, Ottawa, ON
-Supervisors: Dr. Arvind Mer and Dr. Damien D’Amours
+University of Ottawa, Ottawa, ON Supervisors: Arvind Mer, PhD; Damien
+D’Amours, PhD
 
 - Analyzed SMC5/6 alterations, genomic instability, transcriptomic
   changes, cancer phenotypes, and survival in a pan-cancer cohort of
   more than 65,000 patients across 144 studies.
 
 Optogenetic Neurophysiology
-University of Ottawa, Ottawa, ON
-Supervisors: Dr. Arvind Mer and Dr. Greg Silasi
+University of Ottawa, Ottawa, ON Supervisors: Arvind Mer, PhD; Greg
+Silasi, PhD
 
 - Co-developed software to quantify hemodynamic and cortical responses
   to optogenetic stimulation after stroke in vivo.
 
 Patient-Derived Xenograft Drug-Response Modelling
-University of Ottawa, Ottawa, ON
-Supervisor: Dr. Arvind Mer
+University of Ottawa, Ottawa, ON Supervisor: Arvind Mer, PhD
 
 - Developed the open-source xeMetron package to calculate 250 measures
   of patient-derived xenograft chemotherapy response.
@@ -82,15 +77,13 @@ Supervisor: Dr. Arvind Mer
   and quantify anti-cancer drug response in clinical-trial data.
 
 Bacteriophage Discovery
-University of Ottawa, Ottawa, ON
-Supervisor: Dr. Adam Rudner
+University of Ottawa, Ottawa, ON Supervisor: Adam Rudner, PhD
 
 - Isolated, amplified, characterized, and annotated 2 novel
   bacteriophages, Arzan and Khorshid.
 
 Muscle Physiology
-University of Ottawa, Ottawa, ON
-Supervisor: Dr. Jean-Marc Renaud
+University of Ottawa, Ottawa, ON Supervisor: Jean-Marc Renaud, PhD
 
 - Designed electrophysiology experiments on adenosine receptors and
   skeletal-muscle fatigue and performed tissue staining, fluorescence
@@ -279,8 +272,8 @@ Best Buddies uOttawa, University of Ottawa, Ottawa, ON
 Honours, Scholarships & Awards
 
 Florence E. Heighway Summer Research Award
-Faculty of Medicine Summer Student Research Program, University of
-British Columbia, Vancouver, BC
+Faculty of Medicine Summer Student Research Program (SSRP), University
+of British Columbia, Vancouver, BC
 
 - Awarded 8 weeks of funding for a mammography artificial-intelligence
   failure-analysis project.
@@ -288,35 +281,34 @@ British Columbia, Vancouver, BC
 Third Place, IFHP NavAID Challenge
 University of British Columbia, Vancouver, BC
 
-- Collaborated with 2 medical students to develop a 75-minute
-  refugee-health case with 4 decision points and 7 interprofessional
-  objectives.
+- Co-developed a 75-minute simulation module aimed at training health
+  professionals to navigate Canada’s Interim Federal Health Program and
+  coordinate interprofessional care for refugees.
 
 Undergraduate Student Research Award (USRA)
 Natural Sciences and Engineering Research Council of Canada (NSERC),
 University of Ottawa, Ottawa, ON
 
-- Awarded $7,500 for a 3-month research project based on academic merit
-  and research-proposal quality; one of 88 awards at the University of
-  Ottawa.
+- One of the 88 recipients; awarded $7,500 for a 3-month full-time
+  research project based on academic merit and proposal quality.
 
 Translational and Molecular Medicine Summer Training Award
 University of Ottawa, Ottawa, ON
 
-- Awarded $8,900 for a 3-month supervised research project based on
-  academic merit and research-proposal quality.
+- Awarded $8,900 for a 3-month full-time research project based on
+  academic merit and proposal quality.
 
 Work in Biomedical Research Scholarship
 University of Ottawa, Ottawa, ON
 
-- Awarded $3,500 for a 3-month research project through a competition
-  with a success rate below 50%.
+- Awarded $3,500 for a 3-month full-time research project through a
+  competition with a success rate below 50%.
 
 Undergraduate Research Opportunity Program Award
 University of Ottawa, Ottawa, ON
 
 - Awarded $1,000 for a 4-month supervised research project based on
-  academic merit and research-proposal quality.
+  academic merit and proposal quality.
 
 Dean’s Honour List and Merit Scholarship University of Ottawa, Ottawa,
 ON

@@ -1,7 +1,7 @@
 ---
 output: pdf_document
 papersize: letter
-geometry: margin=0.75in
+geometry: margin=1in
 fontsize: 10pt
 colorlinks: false
 header-includes:
@@ -12,8 +12,8 @@ header-includes:
   - \usepackage{needspace}
   - \usepackage{ragged2e}
   - \usepackage{XCharter}
-  - \setlist[itemize]{leftmargin=1.3em,itemsep=0.08em,topsep=0.02em,parsep=0em,partopsep=0em,after=\vspace{0em}}
-  - \setlist[enumerate]{leftmargin=1.5em,itemsep=0.34em,topsep=0.06em,parsep=0em,partopsep=0em}
+  - \setlist[enumerate]{leftmargin=1.5em,itemsep=0.34em,topsep=0.06em,parsep=0em,partopsep=0em,after=\vspace{0.3em}}
+  - \setlist[itemize,1]{leftmargin=1.3em,itemsep=0.08em,topsep=0.02em,parsep=0em,partopsep=0em,after=\vspace{0.3em}}
   - \input{section-format.tex}
   - \titlespacing*{\section}{0pt}{0.48em}{0.28em}
   - \setlength{\parindent}{0pt}
@@ -38,72 +38,62 @@ header-includes:
 _University of British Columbia (UBC), Vancouver, BC_
 
 **Honours Bachelor of Science, Translational and Molecular Medicine** \hfill \textbf{Sep 2019--Apr 2023}  
-_University of Ottawa, Ottawa, ON; cumulative grade point average: 9.98/10_
+_University of Ottawa, Ottawa, ON; cGPA: 9.98/10_
 
 # Research Experience
 
 **Medical Imaging Artificial Intelligence** \hfill \textbf{Feb 2026--Present}  
-_University of British Columbia, Vancouver, BC_  
-_Supervisor: Dr. Ilker Hacihaliloglu_
+_University of British Columbia, Vancouver, BC_  \hfill _Supervisor: Ilker Hacihaliloglu, PhD_
 
 - Curated 14 datasets and built a Python pipeline to train 1,176 models on 38,357 paired mammograms.
 - Externally tested selected models on EMBED dataset to identify AI model performance failures and its association with breast density, race, ethnicity, and histology.
 
 **E-Cigarette Flavour Policy Evaluation** \hfill \textbf{Feb 2026--Present}  
-_University of British Columbia, Vancouver, BC_  
-_Supervisor: Dr. Kevin Duan_
+_University of British Columbia, Vancouver, BC_  \hfill _Supervisor: Kevin Duan, MD_
 
 - Compared the policy effects of comprehensive e-cigarette flavour bans and specialty-retailer restrictions among 1,516 youth across 5 Canadian provinces using CTNS data and survey-weighted difference-in-differences.
 
 **Epigenomics and Chromatin Biology** \href{https://github.com/ArvinZaker/cut_run_pipeline_nix}{\faGithub} \hfill \textbf{Mar 2024--Jan 2026}  
-_University of Ottawa, Ottawa, ON_  
-_Supervisor: Dr. Arvind Mer_  
+_University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Dr. Arvind Mer, PhD_  
 
 - Analyzed clinical exosomal DNA to identify differentially methylated regions and pathways and integrated multi-omics evidence from 44 studies and databases.
 - Built a reproducible CUT\&RUN workflow for processing, quality control, annotation, and collaborator use.
 - Aggregated and visualized CXXC1 mutational data across the genome and plant homeodomain (PHD).
 
 **Text-Mining Feature Selection for Anticancer Drug Response** \href{https://github.com/merlab/text_features}{\faGithub} \hfill \textbf{Sep 2023--Feb 2024}  
-_University of Ottawa, Ottawa, ON_  
-_Supervisor: Dr. Arvind Mer_  
+_University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Arvind Mer, PhD_  
 
 - Devised and benchmarked text-mining feature-selection methods across drug-response prediction models and validation datasets.
 - Built reproducible local and high-performance computing workflows and visualizations for model evaluation.
 
 **Bacterial Genomics** \hfill \textbf{Jul 2023--Feb 2024}  
-_University of Ottawa, Ottawa, ON_  
-_Supervisors: Dr. Arvind Mer and Dr. Vanessa M. D'Costa_
+_University of Ottawa, Ottawa, ON_  \hfill _Supervisors: Arvind Mer, PhD; Vanessa M. D'Costa, PhD_
 
 - Built genomic annotation and phylogenetic-analysis workflows and characterized type IV secretion system clusters across 118 _Acinetobacter_ bacterial and plasmid strains.
 
 **SMC5/6 Cancer Phenogenomics** \href{https://github.com/merlab/SMC5-6_complex}{\faGithub} \hfill \textbf{May 2022--Aug 2022}  
-_University of Ottawa, Ottawa, ON_  
-_Supervisors: Dr. Arvind Mer and Dr. Damien D'Amours_  
+_University of Ottawa, Ottawa, ON_  \hfill _Supervisors: Arvind Mer, PhD; Damien D'Amours, PhD_  
 
 - Analyzed SMC5/6 alterations, genomic instability, transcriptomic changes, cancer phenotypes, and survival in a pan-cancer cohort of more than 65,000 patients across 144 studies.
 
 **Optogenetic Neurophysiology** \hfill \textbf{Mar 2022--Sep 2024}  
-_University of Ottawa, Ottawa, ON_  
-_Supervisors: Dr. Arvind Mer and Dr. Greg Silasi_
+_University of Ottawa, Ottawa, ON_  \hfill _Supervisors: Arvind Mer, PhD; Greg Silasi, PhD_
 
 - Co-developed software to quantify hemodynamic and cortical responses to optogenetic stimulation after stroke _in vivo_.
 
 **Patient-Derived Xenograft Drug-Response Modelling** \hfill \textbf{Jan 2022--June 2026}  
-_University of Ottawa, Ottawa, ON_  
-_Supervisor: Dr. Arvind Mer_
+_University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Arvind Mer, PhD_
 
 - Developed the open-source xeMetron package to calculate 250 measures of patient-derived xenograft chemotherapy response.
 - Built machine-learning models to identify biomarkers of drug response and quantify anti-cancer drug response in clinical-trial data.
 
 **Bacteriophage Discovery** \hfill \textbf{Sep 2021--Apr 2022}  
-_University of Ottawa, Ottawa, ON_  
-_Supervisor: Dr. Adam Rudner_
+_University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Adam Rudner, PhD_
 
 - Isolated, amplified, characterized, and annotated 2 novel bacteriophages, Arzan and Khorshid.
 
 **Muscle Physiology** \hfill \textbf{Nov 2020--Jul 2022}  
-_University of Ottawa, Ottawa, ON_  
-_Supervisor: Dr. Jean-Marc Renaud_
+_University of Ottawa, Ottawa, ON_  \hfill _Supervisor: Jean-Marc Renaud, PhD_
 
 - Designed electrophysiology experiments on adenosine receptors and skeletal-muscle fatigue and performed tissue staining, fluorescence imaging, and quantitative image analysis.
 
@@ -182,7 +172,6 @@ _UBC Integrated Anatomy Atlas, University of British Columbia, Vancouver, BC_
 - Produced anatomy images and 320 structure-identification questions across 14 laboratory modules in Anki, study-site, and simulated bell-ringer formats.
 - Integrated the resource into UBC Elentra, making it available to all UBC medical students.
 
-
 **Premedical Student Mentor** \hfill \textbf{Aug 2025--Present}  
 _Supporting Applications, Supporting Interviews (SASI), Community of Support, Temerty Faculty of Medicine, University of Toronto, Toronto, ON_
 
@@ -199,18 +188,16 @@ _Oxford Learning Oak Ridges and Inspiration Learning, Toronto, ON_
 
 # Community Engagement
 
-**First-Year Representative** \hfill \textbf{Sep 2025--Sep 2026}  
+**First-Year Representative** \hfill \textbf{Sep 2025--Jul 2026}  
 _Persian Medical Society, University of British Columbia, Vancouver, BC_
 
 - Help create and promote peer-support, mentorship, and cultural events for Persian-identifying students and allies, strengthening community connection and inclusive representation within the medical school.
 
-\Needspace{4\baselineskip}
 **Administrative Receptionist** \hfill \textbf{Sep 2022--Jun 2023}  
 _Chadha Medical Clinic, Ottawa, ON_
 
 - Coordinated appointments, referrals, and screenings in a primary-care practice serving approximately 5,000 patients and managed 60+ patient contacts weekly.
 
-\Needspace{4\baselineskip}
 **Volunteer Coordinator and Co-Chair** \hfill \textbf{Sep 2020--Sep 2024}  
 _Best Buddies uOttawa, University of Ottawa, Ottawa, ON_
 
@@ -220,37 +207,39 @@ _Best Buddies uOttawa, University of Ottawa, Ottawa, ON_
 # Honours, Scholarships & Awards
 
 **Florence E. Heighway Summer Research Award** \hfill \textbf{Jun 2026--Aug 2026}  
-_Faculty of Medicine Summer Student Research Program, University of British Columbia, Vancouver, BC_
+_Faculty of Medicine Summer Student Research Program (SSRP), University of British Columbia, Vancouver, BC_
 
 - Awarded 8 weeks of funding for a mammography artificial-intelligence failure-analysis project.
 
 **Third Place, IFHP NavAID Challenge** \hfill \textbf{Jun 2026}  
 _University of British Columbia, Vancouver, BC_
 
-- Collaborated with 2 medical students to develop a 75-minute refugee-health case with 4 decision points and 7 interprofessional objectives.
+- Co-developed a 75-minute simulation module aimed at training health professionals to navigate Canada’s Interim Federal Health Program and coordinate interprofessional care for refugees.
 
 **Undergraduate Student Research Award (USRA)** \hfill \textbf{May 2023--Aug 2023}  
 _Natural Sciences and Engineering Research Council of Canada (NSERC), University of Ottawa, Ottawa, ON_
 
-- Awarded $7,500 for a 3-month research project based on academic merit and research-proposal quality; one of 88 awards at the University of Ottawa.
+- One of the 88 recipients; awarded $7,500 for a 3-month full-time research project based on academic merit and proposal quality.
 
 **Translational and Molecular Medicine Summer Training Award** \hfill \textbf{May 2022--Aug 2022}  
 _University of Ottawa, Ottawa, ON_
 
-- Awarded $8,900 for a 3-month supervised research project based on academic merit and research-proposal quality.
+- Awarded $8,900 for a 3-month full-time research project based on academic merit and proposal quality.
 
 **Work in Biomedical Research Scholarship** \hfill \textbf{May 2022--Aug 2022}  
 _University of Ottawa, Ottawa, ON_
 
-- Awarded $3,500 for a 3-month research project through a competition with a success rate below 50\%.
+- Awarded $3,500 for a 3-month full-time research project through a competition with a success rate below 50\%.
 
 **Undergraduate Research Opportunity Program Award** \hfill \textbf{Dec 2020}  
 _University of Ottawa, Ottawa, ON_
 
-- Awarded $1,000 for a 4-month supervised research project based on academic merit and research-proposal quality.
+- Awarded $1,000 for a 4-month supervised research project based on academic merit and proposal quality.
 
 **Dean's Honour List and Merit Scholarship** \hfill \textbf{Sep 2019--Apr 2023} \linebreak
 _University of Ottawa, Ottawa, ON_
+
+\pagebreak
 
 # Projects & Interests
 
