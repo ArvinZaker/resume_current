@@ -13,28 +13,24 @@ Medical Imaging Artificial Intelligence
 University of British Columbia, Vancouver, BC
 Supervisor: Dr. Ilker Hacihaliloglu
 
-- Built a Python Digital Imaging and Communications in Medicine
-  (DICOM)-to-embedding pipeline for 38,357 mammography image pairs
-  across an initial 7-dataset cohort assembled from 14 datasets.
-- Trained and evaluated 1,176 models using 21 image embeddings, 8
-  classifiers, and 7 weighting or sampling conditions.
-- Performed held-out failure analysis on 773 Emory Breast Imaging
-  Dataset (EMBED) image pairs by breast density, race, ethnicity, and
-  histology.
+- Curated 14 datasets and built a Python pipeline to train 1,176 models
+  on 38,357 paired mammograms.
+- Externally tested selected models on EMBED dataset to identify AI
+  model performance failures and its association with breast density,
+  race, ethnicity, and histology.
 
 E-Cigarette Flavour Policy Evaluation
 University of British Columbia, Vancouver, BC
 Supervisor: Dr. Kevin Duan
 
-- Mapped monthly flavour-policy exposure across 10 provinces and 4
-  Canadian Tobacco and Nicotine Survey (CTNS) waves.
-- Developed survey-weighted difference-in-differences analyses across 3
-  policy groups for vaping, cigarette, and cannabis-use outcomes.
+- Compared the policy effects of comprehensive e-cigarette flavour bans
+  and specialty-retailer restrictions among 1,516 youth across 5
+  Canadian provinces using CTNS data and survey-weighted
+  difference-in-differences.
 
 Epigenomics and Chromatin Biology
 University of Ottawa, Ottawa, ON
 Supervisor: Dr. Arvind Mer
-Repository:  
 
 - Analyzed clinical exosomal DNA to identify differentially methylated
   regions and pathways and integrated multi-omics evidence from 44
@@ -47,7 +43,6 @@ Repository:  
 Text-Mining Feature Selection for Anticancer Drug Response
 University of Ottawa, Ottawa, ON
 Supervisor: Dr. Arvind Mer
-Repository:  
 
 - Devised and benchmarked text-mining feature-selection methods across
   drug-response prediction models and validation datasets.
@@ -65,7 +60,6 @@ Supervisors: Dr. Arvind Mer and Dr. Vanessa M. D’Costa
 SMC5/6 Cancer Phenogenomics
 University of Ottawa, Ottawa, ON
 Supervisors: Dr. Arvind Mer and Dr. Damien D’Amours
-Repository:  
 
 - Analyzed SMC5/6 alterations, genomic instability, transcriptomic
   changes, cancer phenotypes, and survival in a pan-cancer cohort of
@@ -76,19 +70,16 @@ University of Ottawa, Ottawa, ON
 Supervisors: Dr. Arvind Mer and Dr. Greg Silasi
 
 - Co-developed software to quantify hemodynamic and cortical responses
-  to optogenetic stimulation after stroke.
+  to optogenetic stimulation after stroke in vivo.
 
 Patient-Derived Xenograft Drug-Response Modelling
 University of Ottawa, Ottawa, ON
 Supervisor: Dr. Arvind Mer
 
-- Developed the open-source xeMetron package to calculate and compare
-  250 existing and novel measures of patient-derived xenograft treatment
-  response.
-- Performed transcriptomic biomarker discovery and built
-  machine-learning models to predict anticancer drug response, including
-  paclitaxel response in clinical-trial data, and model breast-cancer
-  survival using The Cancer Genome Atlas.
+- Developed the open-source xeMetron package to calculate 250 measures
+  of patient-derived xenograft chemotherapy response.
+- Built machine-learning models to identify biomarkers of drug response
+  and quantify anti-cancer drug response in clinical-trial data.
 
 Bacteriophage Discovery
 University of Ottawa, Ottawa, ON
@@ -138,56 +129,42 @@ Presentations, Posters, Seminars & Abstracts
     cancers uncovers frequent alterations affecting SMC5/6 complex
     components in breast cancer. Canadian Society for Molecular
     Biosciences International Conference; May 2023; Ottawa, ON.
-    Approximately 10 projects were selected nationally for oral
-    presentation.
 
 2.  Oral presentation; presenting author. Zaker A, Mer A. Comparative
     analysis of drug response metrics in patient-derived xenografts. 4th
     Annual University of Ottawa Faculty of Medicine Research Day; Sep
     2022; Ottawa, ON. Panel question period; 18 students were selected.
 
-3.  Seminar; presenter. Zaker A, Mer A. Comparative analysis of drug
+3.  Abstract and presentation; co-presenter. Featherstone A, Radar A,
+    Salama A, Tiukuvaara S, Ferri O, Zaker A, et al. . SEA Symposium;
+    Apr 2022; Pittsburgh, PA.
+
+4.  Abstract and presentation; co-presenter. Friesen R, Algharbi S,
+    Zaker A, Mahdi O, Gao R, Ferri O, et al. . SEA Symposium; Apr 2022;
+    Pittsburgh, PA.
+
+5.  Abstract and presentation; co-presenter. Cildir Z, Abdisalam S, Alam
+    A, Zaker A, Toex N, Chandra A, et al. . SEA Symposium; Apr 2022;
+    Pittsburgh, PA.
+
+6.  Seminar; presenter. Zaker A, Mer A. Comparative analysis of drug
     response metrics in patient-derived xenografts. University of Ottawa
     Translational and Molecular Medicine Seminar; Apr 2022.
     Twenty-minute presentation and question period.
 
-4.  Poster presentation; presenting author. Zaker A, Mer A. Analysis of
+7.  Poster presentation; presenting author. Zaker A, Mer A. Analysis of
     drug response in patient-derived xenografts. Faculty of Medicine,
     University of Ottawa; Feb 2022; Ottawa, ON.
 
-5.  Poster and oral presentations; presenting author. Zaker A, McCarthy
+8.  Poster and oral presentations; presenting author. Zaker A, McCarthy
     L, Jung D, Karunakaran G, Rudner A. Discovery and characterization
     of bacteriophage Arzan. University of Ottawa Faculty of Medicine;
     Dec 2021; Ottawa, ON.
 
-6.  Abstract and poster presentation; presenting author. Zaker A, McRae
+9.  Abstract and poster presentation; presenting author. Zaker A, McRae
     C, Renaud JM. Role of adenosine receptors in mouse skeletal-muscle
     fatigue kinetics. University of Ottawa Undergraduate Research
     Opportunity Program Symposium; Mar 2021.
-
-7.  Published abstract and presentation; co-presenter. Featherstone A,
-    Radar A, Salama A, Tiukuvaara S, Ferri O, Zaker A, Algharbi S, Mahdi
-    O, Setia G, Friesen R, Wang GSY, Li J, Gao R, Jung D, Karunakaran G,
-    Znamenski E, Ristovski M, Sarakbi R, Freitas JD, McCarthy L,
-    Williams EC, D’Ambrosio L, Wheaton K, Rudner AD. . Science Education
-    Alliance–Phage Hunters Advancing Genomics and Evolutionary Science
-    Symposium; 2022; Pittsburgh, PA.
-
-8.  Published abstract and presentation; co-presenter. Friesen R,
-    Algharbi S, Zaker A, Mahdi O, Gao R, Ferri O, Li J, Wang GSY,
-    Heffernan C, Featherstone A, Radar A, Gandelman M, Chander N, Bancud
-    SE, Rege I, Shriraam R, Jung D, Karunakaran G, Sarakbi R, Znamenski
-    E, Ristovski M, Freitas JD, McCarthy L, Williams EC, D’Ambrosio L,
-    Chan K, Wheaton K, Rudner AD. . Science Education Alliance–Phage
-    Hunters Advancing Genomics and Evolutionary Science Symposium; 2022;
-    Pittsburgh, PA.
-
-9.  Published abstract and presentation; co-presenter. Cildir Z,
-    Abdisalam S, Alam A, Zaker A, Toex N, Chandra A, Jung D, Karunakaran
-    G, Znamenski E, Freitas JD, McCarthy L, Williams EC, D’Ambrosio L,
-    Wheaton K, Rudner AD. . Science Education Alliance–Phage Hunters
-    Advancing Genomics and Evolutionary Science Symposium; 2022;
-    Pittsburgh, PA.
 
 Leadership & Governance
 
@@ -245,23 +222,22 @@ Founder and Production Designer
 UBC Integrated Anatomy Atlas, University of British Columbia, Vancouver,
 BC
 
-- Founded and produced a faculty-approved anatomy platform spanning both
-  preclinical years and collaborated with faculty to integrate it into
-  UBC’s Elentra learning management system for access by all medical
-  students.
-- Produced anatomy images and 320 question cards across 14 laboratory
-  modules in Anki, study-site, and simulated bell-ringer formats.
-- Built a Python production pipeline with standardized image
-  attribution, contributor guidance, approval tracking, and automated
-  quality checks.
+- Collaborated with UBC anatomy faculty to develop a comprehensive
+  flashcard deck spanning both preclinical years of the UBC MD
+  curriculum.
+- Produced anatomy images and 320 structure-identification questions
+  across 14 laboratory modules in Anki, study-site, and simulated
+  bell-ringer formats.
+- Integrated the resource into UBC Elentra, making it available to all
+  UBC medical students.
 
 Premedical Student Mentor
 Supporting Applications, Supporting Interviews (SASI), Community of
 Support, Temerty Faculty of Medicine, University of Toronto, Toronto, ON
 
-- Mentor premedical students from groups underrepresented in medicine
-  through individualized application strategy and feedback on written
-  submissions.
+- Mentored 3 premedical students from groups underrepresented in
+  medicine through one-on-one meetings, individualized application
+  strategy and feedback on interview and written submissions.
 
 Science, Technology, Engineering, and Mathematics Tutor
 Oxford Learning Oak Ridges and Inspiration Learning, Toronto, ON
@@ -316,9 +292,9 @@ University of British Columbia, Vancouver, BC
   refugee-health case with 4 decision points and 7 interprofessional
   objectives.
 
-Undergraduate Student Research Award
-Natural Sciences and Engineering Research Council of Canada, University
-of Ottawa, Ottawa, ON
+Undergraduate Student Research Award (USRA)
+Natural Sciences and Engineering Research Council of Canada (NSERC),
+University of Ottawa, Ottawa, ON
 
 - Awarded $7,500 for a 3-month research project based on academic merit
   and research-proposal quality; one of 88 awards at the University of
@@ -342,24 +318,22 @@ University of Ottawa, Ottawa, ON
 - Awarded $1,000 for a 4-month supervised research project based on
   academic merit and research-proposal quality.
 
-Dean’s Honour List and Merit Scholarship, University of Ottawa
+Dean’s Honour List and Merit Scholarship, University of Ottawa, Ottawa,
+ON
 
 Projects & Interests
 
 Explainable Heart-Disease Risk Modelling
 National Canadian Medical Datathon, Vancouver, BC
-Repository:  
 
 - Collaborated with 5 colleagues to integrate 920 records from 4
   University of California, Irvine heart-disease cohorts and develop a
-  regularized logistic-regression model with a held-out receiver
-  operating characteristic area under the curve of 0.925.
-- Built CLEAR, an R Shiny demonstration tool providing individualized
-  risk estimates, SHapley Additive exPlanations, and plain-language
-  feature summaries.
+  regularized logistic-regression model.
+- Built CLEAR, an R Shiny demonstration tool providing explainable and
+  individualized risk estimates using SHapley Additive exPlanations and
+  plain-language feature summaries.
 
 Clinical Bioinformatics Reproducibility Project
-Repository:  
 
 - Reproduced the bioinformatics analysis reported by Viñas et al. (2020;
   PMID: 32662516) and produced a documented report, presentation, and
@@ -370,5 +344,5 @@ Systems Administration and Research Computing
 - Built and maintain a 16-terabyte Unraid server for centralized family
   storage, automated backups, data recovery, and Docker-based web
   services.
-- Built and administer 3 Linux workstations for bioinformatics, machine
-  learning, and high-performance computing.
+- Built and administer 3 Linux workstations for machine learning, and
+  high-performance computing.

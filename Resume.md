@@ -11,6 +11,7 @@ header-includes:
   - \usepackage{titlesec}
   - \usepackage{needspace}
   - \usepackage{ragged2e}
+  - \usepackage{XCharter}
   - \setlist[itemize]{leftmargin=1.3em,itemsep=0.08em,topsep=0.02em,parsep=0em,partopsep=0em,after=\vspace{0em}}
   - \setlist[enumerate]{leftmargin=1.5em,itemsep=0.34em,topsep=0.06em,parsep=0em,partopsep=0em}
   - \input{section-format.tex}
@@ -45,30 +46,26 @@ _University of Ottawa, Ottawa, ON; cumulative grade point average: 9.98/10_
 _University of British Columbia, Vancouver, BC_  
 _Supervisor: Dr. Ilker Hacihaliloglu_
 
-- Built a Python Digital Imaging and Communications in Medicine (DICOM)-to-embedding pipeline for 38,357 mammography image pairs across an initial 7-dataset cohort assembled from 14 datasets.
-- Trained and evaluated 1,176 models using 21 image embeddings, 8 classifiers, and 7 weighting or sampling conditions.
-- Performed held-out failure analysis on 773 Emory Breast Imaging Dataset (EMBED) image pairs by breast density, race, ethnicity, and histology.
+- Curated 14 datasets and built a Python pipeline to train 1,176 models on 38,357 paired mammograms.
+- Externally tested selected models on EMBED dataset to identify AI model performance failures and its association with breast density, race, ethnicity, and histology.
 
 **E-Cigarette Flavour Policy Evaluation** \hfill \textbf{Feb 2026--Present}  
 _University of British Columbia, Vancouver, BC_  
 _Supervisor: Dr. Kevin Duan_
 
-- Mapped monthly flavour-policy exposure across 10 provinces and 4 Canadian Tobacco and Nicotine Survey (CTNS) waves.
-- Developed survey-weighted difference-in-differences analyses across 3 policy groups for vaping, cigarette, and cannabis-use outcomes.
+- Compared the policy effects of comprehensive e-cigarette flavour bans and specialty-retailer restrictions among 1,516 youth across 5 Canadian provinces using CTNS data and survey-weighted difference-in-differences.
 
-**Epigenomics and Chromatin Biology** \hfill \textbf{Mar 2024--Jan 2026}  
+**Epigenomics and Chromatin Biology** \href{https://github.com/ArvinZaker/cut_run_pipeline_nix}{\faGithub} \hfill \textbf{Mar 2024--Jan 2026}  
 _University of Ottawa, Ottawa, ON_  
 _Supervisor: Dr. Arvind Mer_  
-_Repository: \faGithub\ \href{https://github.com/ArvinZaker/cut_run_pipeline_nix}{ArvinZaker/cut\_run\_pipeline\_nix}_
 
 - Analyzed clinical exosomal DNA to identify differentially methylated regions and pathways and integrated multi-omics evidence from 44 studies and databases.
 - Built a reproducible CUT\&RUN workflow for processing, quality control, annotation, and collaborator use.
 - Aggregated and visualized CXXC1 mutational data across the genome and plant homeodomain (PHD).
 
-**Text-Mining Feature Selection for Anticancer Drug Response** \hfill \textbf{Sep 2023--Feb 2024}  
+**Text-Mining Feature Selection for Anticancer Drug Response** \href{https://github.com/merlab/text_features}{\faGithub} \hfill \textbf{Sep 2023--Feb 2024}  
 _University of Ottawa, Ottawa, ON_  
 _Supervisor: Dr. Arvind Mer_  
-_Repository: \faGithub\ \href{https://github.com/merlab/text_features}{merlab/text\_features}_
 
 - Devised and benchmarked text-mining feature-selection methods across drug-response prediction models and validation datasets.
 - Built reproducible local and high-performance computing workflows and visualizations for model evaluation.
@@ -79,10 +76,9 @@ _Supervisors: Dr. Arvind Mer and Dr. Vanessa M. D'Costa_
 
 - Built genomic annotation and phylogenetic-analysis workflows and characterized type IV secretion system clusters across 118 _Acinetobacter_ bacterial and plasmid strains.
 
-**SMC5/6 Cancer Phenogenomics** \hfill \textbf{May 2022--Aug 2022}  
+**SMC5/6 Cancer Phenogenomics** \href{https://github.com/merlab/SMC5-6_complex}{\faGithub} \hfill \textbf{May 2022--Aug 2022}  
 _University of Ottawa, Ottawa, ON_  
 _Supervisors: Dr. Arvind Mer and Dr. Damien D'Amours_  
-_Repository: \faGithub\ \href{https://github.com/merlab/SMC5-6_complex}{merlab/SMC5-6\_complex}_
 
 - Analyzed SMC5/6 alterations, genomic instability, transcriptomic changes, cancer phenotypes, and survival in a pan-cancer cohort of more than 65,000 patients across 144 studies.
 
@@ -90,14 +86,14 @@ _Repository: \faGithub\ \href{https://github.com/merlab/SMC5-6_complex}{merlab/S
 _University of Ottawa, Ottawa, ON_  
 _Supervisors: Dr. Arvind Mer and Dr. Greg Silasi_
 
-- Co-developed software to quantify hemodynamic and cortical responses to optogenetic stimulation after stroke.
+- Co-developed software to quantify hemodynamic and cortical responses to optogenetic stimulation after stroke _in vivo_.
 
-**Patient-Derived Xenograft Drug-Response Modelling** \hfill \textbf{Jan 2022--Feb 2024}  
+**Patient-Derived Xenograft Drug-Response Modelling** \hfill \textbf{Jan 2022--June 2026}  
 _University of Ottawa, Ottawa, ON_  
 _Supervisor: Dr. Arvind Mer_
 
-- Developed the open-source xeMetron package to calculate and compare 250 existing and novel measures of patient-derived xenograft treatment response.
-- Performed transcriptomic biomarker discovery and built machine-learning models to predict anticancer drug response, including paclitaxel response in clinical-trial data, and model breast-cancer survival using The Cancer Genome Atlas.
+- Developed the open-source xeMetron package to calculate 250 measures of patient-derived xenograft chemotherapy response.
+- Built machine-learning models to identify biomarkers of drug response and quantify anti-cancer drug response in clinical-trial data.
 
 **Bacteriophage Discovery** \hfill \textbf{Sep 2021--Apr 2022}  
 _University of Ottawa, Ottawa, ON_  
@@ -125,24 +121,23 @@ _Supervisor: Dr. Jean-Marc Renaud_
 
 # Presentations, Posters, Seminars & Abstracts
 
-1. **Poster and oral presentations; presenting author.** Roy S, **Zaker A**, Mer A, D'Amours D. Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer. _Canadian Society for Molecular Biosciences International Conference_; May 2023; Ottawa, ON. Approximately 10 projects were selected nationally for oral presentation.
+1. **Poster and oral presentations; presenting author.** Roy S, **Zaker A**, Mer A, D'Amours D. Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer. _Canadian Society for Molecular Biosciences International Conference_; May 2023; Ottawa, ON.
 
 2. **Oral presentation; presenting author.** **Zaker A**, Mer A. Comparative analysis of drug response metrics in patient-derived xenografts. _4th Annual University of Ottawa Faculty of Medicine Research Day_; Sep 2022; Ottawa, ON. Panel question period; 18 students were selected.
 
-3. **Seminar; presenter.** **Zaker A**, Mer A. Comparative analysis of drug response metrics in patient-derived xenografts. _University of Ottawa Translational and Molecular Medicine Seminar_; Apr 2022. Twenty-minute presentation and question period.
+3. **Abstract and presentation; co-presenter.** Featherstone A, Radar A, Salama A, Tiukuvaara S, Ferri O, **Zaker A**, _et al_. \href{https://seaphages.org/abstracts/summary/980/}{Give us a millet of your time: dehusking the singleton bacteriophage Arzan}. _SEA Symposium_; Apr 2022; Pittsburgh, PA.
 
-4. **Poster presentation; presenting author.** **Zaker A**, Mer A. Analysis of drug response in patient-derived xenografts. _Faculty of Medicine, University of Ottawa_; Feb 2022; Ottawa, ON.
+4. **Abstract and presentation; co-presenter.** Friesen R, Algharbi S, **Zaker A**, Mahdi O, Gao R, Ferri O, _et al_. \href{https://seaphages.org/abstracts/summary/978/}{Investigating nucleotide-binding proteins in bacteriophage JohnDoe}. _SEA Symposium_; Apr 2022; Pittsburgh, PA.
 
-5. **Poster and oral presentations; presenting author.** **Zaker A**, McCarthy L, Jung D, Karunakaran G, Rudner A. Discovery and characterization of bacteriophage Arzan. _University of Ottawa Faculty of Medicine_; Dec 2021; Ottawa, ON.
+5. **Abstract and presentation; co-presenter.** Cildir Z, Abdisalam S, Alam A, **Zaker A**, Toex N, Chandra A, _et al_. \href{https://seaphages.org/abstracts/summary/973/}{Prophage liberation! A method to increase the titer of the temperate phages Khorsid and Winseler}. _SEA Symposium_; Apr 2022; Pittsburgh, PA.
 
-6. **Abstract and poster presentation; presenting author.** **Zaker A**, McRae C, Renaud JM. Role of adenosine receptors in mouse skeletal-muscle fatigue kinetics. _University of Ottawa Undergraduate Research Opportunity Program Symposium_; Mar 2021.
+6. **Seminar; presenter.** **Zaker A**, Mer A. Comparative analysis of drug response metrics in patient-derived xenografts. _University of Ottawa Translational and Molecular Medicine Seminar_; Apr 2022. Twenty-minute presentation and question period.
 
-\Needspace{9\baselineskip}
-7. **Published abstract and presentation; co-presenter.** Featherstone A, Radar A, Salama A, Tiukuvaara S, Ferri O, **Zaker A**, Algharbi S, Mahdi O, Setia G, Friesen R, Wang GSY, Li J, Gao R, Jung D, Karunakaran G, Znamenski E, Ristovski M, Sarakbi R, Freitas JD, McCarthy L, Williams EC, D'Ambrosio L, Wheaton K, Rudner AD. \href{https://seaphages.org/abstracts/summary/980/}{Give us a millet of your time: dehusking the singleton bacteriophage Arzan}. _Science Education Alliance--Phage Hunters Advancing Genomics and Evolutionary Science Symposium_; 2022; Pittsburgh, PA.
+7. **Poster presentation; presenting author.** **Zaker A**, Mer A. Analysis of drug response in patient-derived xenografts. _Faculty of Medicine, University of Ottawa_; Feb 2022; Ottawa, ON.
 
-8. **Published abstract and presentation; co-presenter.** Friesen R, Algharbi S, **Zaker A**, Mahdi O, Gao R, Ferri O, Li J, Wang GSY, Heffernan C, Featherstone A, Radar A, Gandelman M, Chander N, Bancud SE, Rege I, Shriraam R, Jung D, Karunakaran G, Sarakbi R, Znamenski E, Ristovski M, Freitas JD, McCarthy L, Williams EC, D'Ambrosio L, Chan K, Wheaton K, Rudner AD. \href{https://seaphages.org/abstracts/summary/978/}{Investigating nucleotide-binding proteins in bacteriophage JohnDoe}. _Science Education Alliance--Phage Hunters Advancing Genomics and Evolutionary Science Symposium_; 2022; Pittsburgh, PA.
+8. **Poster and oral presentations; presenting author.** **Zaker A**, McCarthy L, Jung D, Karunakaran G, Rudner A. Discovery and characterization of bacteriophage Arzan. _University of Ottawa Faculty of Medicine_; Dec 2021; Ottawa, ON.
 
-9. **Published abstract and presentation; co-presenter.** Cildir Z, Abdisalam S, Alam A, **Zaker A**, Toex N, Chandra A, Jung D, Karunakaran G, Znamenski E, Freitas JD, McCarthy L, Williams EC, D'Ambrosio L, Wheaton K, Rudner AD. \href{https://seaphages.org/abstracts/summary/973/}{Prophage liberation! A method to increase the titer of the temperate phages Khorsid and Winseler}. _Science Education Alliance--Phage Hunters Advancing Genomics and Evolutionary Science Symposium_; 2022; Pittsburgh, PA.
+9. **Abstract and poster presentation; presenting author.** **Zaker A**, McRae C, Renaud JM. Role of adenosine receptors in mouse skeletal-muscle fatigue kinetics. _University of Ottawa Undergraduate Research Opportunity Program Symposium_; Mar 2021.
 
 # Leadership & Governance
 
@@ -183,14 +178,15 @@ _Canadians Sharing Locally and Globally uOttawa, University of Ottawa, Ottawa, O
 **Founder and Production Designer** \hfill \textbf{Apr 2026--Present}  
 _UBC Integrated Anatomy Atlas, University of British Columbia, Vancouver, BC_
 
-- Founded and produced a faculty-approved anatomy platform spanning both preclinical years and collaborated with faculty to integrate it into UBC's Elentra learning management system for access by all medical students.
-- Produced anatomy images and 320 question cards across 14 laboratory modules in Anki, study-site, and simulated bell-ringer formats.
-- Built a Python production pipeline with standardized image attribution, contributor guidance, approval tracking, and automated quality checks.
+- Collaborated with UBC anatomy faculty to develop a comprehensive flashcard deck spanning both preclinical years of the UBC MD curriculum.
+- Produced anatomy images and 320 structure-identification questions across 14 laboratory modules in Anki, study-site, and simulated bell-ringer formats.
+- Integrated the resource into UBC Elentra, making it available to all UBC medical students.
+
 
 **Premedical Student Mentor** \hfill \textbf{Aug 2025--Present}  
 _Supporting Applications, Supporting Interviews (SASI), Community of Support, Temerty Faculty of Medicine, University of Toronto, Toronto, ON_
 
-- Mentor premedical students from groups underrepresented in medicine through individualized application strategy and feedback on written submissions.
+- Mentored 3 premedical students from groups underrepresented in medicine through one-on-one meetings, individualized application strategy and feedback on interview and written submissions.
 
 **Science, Technology, Engineering, and Mathematics Tutor** \hfill \textbf{Sep 2023--Jul 2025}  
 _Oxford Learning Oak Ridges and Inspiration Learning, Toronto, ON_
@@ -233,8 +229,8 @@ _University of British Columbia, Vancouver, BC_
 
 - Collaborated with 2 medical students to develop a 75-minute refugee-health case with 4 decision points and 7 interprofessional objectives.
 
-**Undergraduate Student Research Award** \hfill \textbf{May 2023--Aug 2023}  
-_Natural Sciences and Engineering Research Council of Canada, University of Ottawa, Ottawa, ON_
+**Undergraduate Student Research Award (USRA)** \hfill \textbf{May 2023--Aug 2023}  
+_Natural Sciences and Engineering Research Council of Canada (NSERC), University of Ottawa, Ottawa, ON_
 
 - Awarded $7,500 for a 3-month research project based on academic merit and research-proposal quality; one of 88 awards at the University of Ottawa.
 
@@ -253,23 +249,22 @@ _University of Ottawa, Ottawa, ON_
 
 - Awarded $1,000 for a 4-month supervised research project based on academic merit and research-proposal quality.
 
-**Dean's Honour List and Merit Scholarship**, University of Ottawa \hfill \textbf{Sep 2019--Apr 2023}
+**Dean's Honour List and Merit Scholarship**, \hfill \textbf{Sep 2019--Apr 2023} \linebreak
+_University of Ottawa, Ottawa, ON_
 
 # Projects & Interests
 
-**Explainable Heart-Disease Risk Modelling** \hfill \textbf{Mar 2026}  
+**Explainable Heart-Disease Risk Modelling** \href{https://github.com/ArvinZaker/md_datathon_2026}{\faGithub} \hfill \textbf{Mar 2026}  
 _National Canadian Medical Datathon, Vancouver, BC_  
-_Repository: \faGithub\ \href{https://github.com/ArvinZaker/md_datathon_2026}{ArvinZaker/md\_datathon\_2026}_
 
-- Collaborated with 5 colleagues to integrate 920 records from 4 University of California, Irvine heart-disease cohorts and develop a regularized logistic-regression model with a held-out receiver operating characteristic area under the curve of 0.925.
-- Built CLEAR, an R Shiny demonstration tool providing individualized risk estimates, SHapley Additive exPlanations, and plain-language feature summaries.
+- Collaborated with 5 colleagues to integrate 920 records from 4 University of California, Irvine heart-disease cohorts and develop a regularized logistic-regression model.
+- Built CLEAR, an R Shiny demonstration tool providing explainable and individualized risk estimates using SHapley Additive exPlanations and plain-language feature summaries.
 
-**Clinical Bioinformatics Reproducibility Project** \hfill \textbf{Mar 2023}  
-_Repository: \faGithub\ \href{https://github.com/ArvinZaker/vinas-clin-sci-2022}{ArvinZaker/vinas-clin-sci-2022}_
+**Clinical Bioinformatics Reproducibility Project** \href{https://github.com/ArvinZaker/vinas-clin-sci-2022}{\faGithub} \hfill \textbf{Mar 2023}  
 
 - Reproduced the bioinformatics analysis reported by Viñas et al. (2020; PMID: 32662516) and produced a documented report, presentation, and explanatory visualizations.
 
 **Systems Administration and Research Computing** \hfill \textbf{Jan 2022--Present}
 
 - Built and maintain a 16-terabyte Unraid server for centralized family storage, automated backups, data recovery, and Docker-based web services.
-- Built and administer 3 Linux workstations for bioinformatics, machine learning, and high-performance computing.
+- Built and administer 3 Linux workstations for machine learning, and high-performance computing.
