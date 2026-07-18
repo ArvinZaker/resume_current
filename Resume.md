@@ -249,7 +249,7 @@ _University of Ottawa, Ottawa, ON_
 
 - Awarded $1,000 for a 4-month supervised research project based on academic merit and research-proposal quality.
 
-**Dean's Honour List and Merit Scholarship**, \hfill \textbf{Sep 2019--Apr 2023} \linebreak
+**Dean's Honour List and Merit Scholarship** \hfill \textbf{Sep 2019--Apr 2023} \linebreak
 _University of Ottawa, Ottawa, ON_
 
 # Projects & Interests
